@@ -1,0 +1,1501 @@
+Transaction_ID,Date,Customer_ID,Customer_Age,Gender,Product_Category,Product_Name,Quantity,Price_Per_Unit,Discount_Pct,Payment_Method,Gross_Amount,Discount_Amount,Net_Sales,Profit_Amount
+TXN-10000,2023-01-01,CUST-1103,57,Female,Electronics,Bluetooth Speaker,1,891.55,0.0,Credit Card,891.55,0.0,891.55,151.56
+TXN-10001,2023-01-01,CUST-1349,36,Male,Electronics,Smartphone Pro,1,204.98,0.0,Debit Card,204.98,0.0,204.98,34.85
+TXN-10002,2023-01-01,CUST-1271,23,Female,Home & Kitchen,Non-Stick Cookware Set,1,256.43,0.0,Cash on Delivery,256.43,0.0,256.43,76.93
+TXN-10003,2023-01-02,CUST-1107,18,Female,Electronics,4K Monitor 27in,3,394.78,0.15,Credit Card,1184.34,177.65,1006.69,171.14
+TXN-10004,2023-01-02,CUST-1072,25,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,3,25.77,0.1,Digital Wallet,77.31,7.73,69.58,38.27
+TXN-10005,2023-01-02,CUST-1189,50,Male,Clothing,Classic Cotton T-Shirt,1,69.36,0.0,UPI / Direct Debit,69.36,0.0,69.36,31.21
+TXN-10006,2023-01-03,CUST-1021,68,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,205.33,0.05,Cash on Delivery,205.33,10.27,195.06,68.27
+TXN-10007,2023-01-03,CUST-1103,60,Female,Home & Kitchen,Non-Stick Cookware Set,3,177.72,0.05,UPI / Direct Debit,533.16,26.66,506.5,151.95
+TXN-10008,2023-01-03,CUST-1122,38,Male,Home & Kitchen,Robot Vacuum Cleaner,1,308.28,0.1,Credit Card,308.28,30.83,277.45,83.23
+TXN-10009,2023-01-04,CUST-1215,41,Female,Sports & Outdoors,Cycling Helmet,3,53.23,0.0,Digital Wallet,159.69,0.0,159.69,55.89
+TXN-10010,2023-01-04,CUST-1331,42,Female,Clothing,Summer Floral Dress,1,120.45,0.15,Digital Wallet,120.45,18.07,102.38,46.07
+TXN-10011,2023-01-05,CUST-1088,64,Male,Sports & Outdoors,Cycling Helmet,4,78.31,0.0,UPI / Direct Debit,313.24,0.0,313.24,109.63
+TXN-10012,2023-01-05,CUST-1373,60,Male,Electronics,Smartphone Pro,2,838.68,0.1,Credit Card,1677.36,167.74,1509.62,256.64
+TXN-10013,2023-01-05,CUST-1100,36,Male,Clothing,Leather Jacket,4,93.54,0.0,Credit Card,374.16,0.0,374.16,168.37
+TXN-10014,2023-01-06,CUST-1360,46,Female,Electronics,4K Monitor 27in,2,1120.64,0.0,UPI / Direct Debit,2241.28,0.0,2241.28,381.02
+TXN-10015,2023-01-06,CUST-1152,27,Female,Clothing,Hooded Sweatshirt,1,70.34,0.0,Credit Card,70.34,0.0,70.34,31.65
+TXN-10016,2023-01-06,CUST-1131,29,Female,Electronics,Smartwatch Ultra,4,154.11,0.05,UPI / Direct Debit,616.44,30.82,585.62,99.56
+TXN-10017,2023-01-07,CUST-1150,50,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,13.97,0.0,Credit Card,13.97,0.0,13.97,7.68
+TXN-10018,2023-01-07,CUST-1309,24,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,75.75,0.15,Debit Card,75.75,11.36,64.39,35.41
+TXN-10019,2023-01-07,CUST-1258,34,Female,Sports & Outdoors,Running Hydration Backpack,2,143.07,0.0,Credit Card,286.14,0.0,286.14,100.15
+TXN-10020,2023-01-08,CUST-1344,27,Female,Electronics,Bluetooth Speaker,2,948.27,0.1,UPI / Direct Debit,1896.54,189.65,1706.89,290.17
+TXN-10021,2023-01-08,CUST-1294,48,Male,Home & Kitchen,Blender 1000W,4,120.33,0.15,UPI / Direct Debit,481.32,72.2,409.12,122.74
+TXN-10022,2023-01-09,CUST-1386,23,Female,Clothing,Leather Jacket,1,64.85,0.05,UPI / Direct Debit,64.85,3.24,61.61,27.72
+TXN-10023,2023-01-09,CUST-1192,34,Female,Clothing,Hooded Sweatshirt,2,23.9,0.1,UPI / Direct Debit,47.8,4.78,43.02,19.36
+TXN-10024,2023-01-09,CUST-1277,67,Female,Clothing,Summer Floral Dress,2,144.98,0.1,Credit Card,289.96,29.0,260.96,117.43
+TXN-10025,2023-01-10,CUST-1161,54,Male,Clothing,Leather Jacket,1,106.81,0.0,Debit Card,106.81,0.0,106.81,48.06
+TXN-10026,2023-01-10,CUST-1314,35,Female,Home & Kitchen,Air Fryer Deluxe,1,374.69,0.15,Cash on Delivery,374.69,56.2,318.49,95.55
+TXN-10027,2023-01-10,CUST-1022,43,Female,Clothing,Summer Floral Dress,1,54.5,0.0,Debit Card,54.5,0.0,54.5,24.52
+TXN-10028,2023-01-11,CUST-1253,66,Male,Clothing,Classic Cotton T-Shirt,1,99.48,0.05,Digital Wallet,99.48,4.97,94.51,42.53
+TXN-10029,2023-01-11,CUST-1236,33,Female,Electronics,Wireless Earbuds,5,839.92,0.1,Debit Card,4199.6,419.96,3779.64,642.54
+TXN-10030,2023-01-11,CUST-1345,25,Male,Electronics,4K Monitor 27in,2,435.66,0.0,Debit Card,871.32,0.0,871.32,148.12
+TXN-10031,2023-01-12,CUST-1049,41,Female,Electronics,Smartphone Pro,2,1029.88,0.0,Credit Card,2059.76,0.0,2059.76,350.16
+TXN-10032,2023-01-12,CUST-1059,30,Female,Sports & Outdoors,Running Hydration Backpack,5,238.11,0.05,UPI / Direct Debit,1190.55,59.53,1131.02,395.86
+TXN-10033,2023-01-13,CUST-1170,46,Female,Electronics,Smartwatch Ultra,1,1071.04,0.15,UPI / Direct Debit,1071.04,160.66,910.38,154.76
+TXN-10034,2023-01-13,CUST-1188,49,Male,Electronics,Wireless Earbuds,3,907.76,0.2,Credit Card,2723.28,544.66,2178.62,370.37
+TXN-10035,2023-01-13,CUST-1271,41,Male,Clothing,Summer Floral Dress,1,56.06,0.05,UPI / Direct Debit,56.06,2.8,53.26,23.97
+TXN-10036,2023-01-14,CUST-1190,33,Female,Beauty & Personal Care,Electric Toothbrush,3,34.04,0.1,Credit Card,102.12,10.21,91.91,50.55
+TXN-10037,2023-01-14,CUST-1175,28,Male,Sports & Outdoors,Camping Tent 4-Person,1,241.76,0.2,Debit Card,241.76,48.35,193.41,67.69
+TXN-10038,2023-01-14,CUST-1051,49,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,4,13.29,0.0,UPI / Direct Debit,53.16,0.0,53.16,29.24
+TXN-10039,2023-01-15,CUST-1364,23,Male,Home & Kitchen,Blender 1000W,1,295.64,0.0,UPI / Direct Debit,295.64,0.0,295.64,88.69
+TXN-10040,2023-01-15,CUST-1055,52,Female,Clothing,Hooded Sweatshirt,1,111.8,0.1,Digital Wallet,111.8,11.18,100.62,45.28
+TXN-10041,2023-01-15,CUST-1244,50,Female,Electronics,Smartphone Pro,2,777.41,0.15,UPI / Direct Debit,1554.82,233.22,1321.6,224.67
+TXN-10042,2023-01-16,CUST-1320,35,Male,Sports & Outdoors,Running Hydration Backpack,1,247.77,0.15,UPI / Direct Debit,247.77,37.17,210.6,73.71
+TXN-10043,2023-01-16,CUST-1131,54,Female,Home & Kitchen,Non-Stick Cookware Set,2,148.52,0.05,Credit Card,297.04,14.85,282.19,84.66
+TXN-10044,2023-01-17,CUST-1307,30,Female,Home & Kitchen,Air Fryer Deluxe,1,158.75,0.0,Cash on Delivery,158.75,0.0,158.75,47.62
+TXN-10045,2023-01-17,CUST-1135,27,Female,Home & Kitchen,Non-Stick Cookware Set,2,63.73,0.05,UPI / Direct Debit,127.46,6.37,121.09,36.33
+TXN-10046,2023-01-17,CUST-1021,54,Male,Home & Kitchen,Espresso Coffee Maker,1,196.18,0.0,UPI / Direct Debit,196.18,0.0,196.18,58.85
+TXN-10047,2023-01-18,CUST-1329,43,Female,Home & Kitchen,Air Fryer Deluxe,1,130.02,0.0,Credit Card,130.02,0.0,130.02,39.01
+TXN-10048,2023-01-18,CUST-1167,63,Male,Sports & Outdoors,Running Hydration Backpack,1,102.26,0.1,UPI / Direct Debit,102.26,10.23,92.03,32.21
+TXN-10049,2023-01-18,CUST-1274,34,Male,Sports & Outdoors,Cycling Helmet,1,212.78,0.0,Credit Card,212.78,0.0,212.78,74.47
+TXN-10050,2023-01-19,CUST-1388,18,Male,Home & Kitchen,Non-Stick Cookware Set,1,375.52,0.15,Debit Card,375.52,56.33,319.19,95.76
+TXN-10051,2023-01-19,CUST-1089,42,Female,Home & Kitchen,Espresso Coffee Maker,1,102.61,0.05,Cash on Delivery,102.61,5.13,97.48,29.24
+TXN-10052,2023-01-19,CUST-1316,51,Male,Electronics,4K Monitor 27in,1,497.21,0.05,Debit Card,497.21,24.86,472.35,80.3
+TXN-10053,2023-01-20,CUST-1014,56,Female,Home & Kitchen,Non-Stick Cookware Set,1,373.02,0.0,Debit Card,373.02,0.0,373.02,111.91
+TXN-10054,2023-01-20,CUST-1242,27,Male,Electronics,4K Monitor 27in,2,149.23,0.0,UPI / Direct Debit,298.46,0.0,298.46,50.74
+TXN-10055,2023-01-21,CUST-1265,37,Male,Clothing,Leather Jacket,3,32.0,0.0,Debit Card,96.0,0.0,96.0,43.2
+TXN-10056,2023-01-21,CUST-1346,24,Female,Sports & Outdoors,Running Hydration Backpack,1,61.63,0.25,UPI / Direct Debit,61.63,15.41,46.22,16.18
+TXN-10057,2023-01-21,CUST-1053,33,Male,Clothing,Classic Cotton T-Shirt,2,97.37,0.15,Debit Card,194.74,29.21,165.53,74.49
+TXN-10058,2023-01-22,CUST-1386,54,Female,Clothing,Summer Floral Dress,2,39.55,0.05,Credit Card,79.1,3.96,75.14,33.81
+TXN-10059,2023-01-22,CUST-1340,46,Male,Clothing,Leather Jacket,1,145.84,0.0,Credit Card,145.84,0.0,145.84,65.63
+TXN-10060,2023-01-22,CUST-1092,29,Male,Electronics,Smartphone Pro,2,580.32,0.2,UPI / Direct Debit,1160.64,232.13,928.51,157.85
+TXN-10061,2023-01-23,CUST-1367,34,Male,Home & Kitchen,Air Fryer Deluxe,1,217.55,0.0,UPI / Direct Debit,217.55,0.0,217.55,65.27
+TXN-10062,2023-01-23,CUST-1264,65,Male,Electronics,Smartphone Pro,1,356.26,0.0,Credit Card,356.26,0.0,356.26,60.56
+TXN-10063,2023-01-23,CUST-1035,37,Male,Electronics,Smartphone Pro,1,607.48,0.05,Debit Card,607.48,30.37,577.11,98.11
+TXN-10064,2023-01-24,CUST-1206,43,Female,Clothing,Hooded Sweatshirt,2,106.04,0.2,Credit Card,212.08,42.42,169.66,76.35
+TXN-10065,2023-01-24,CUST-1081,65,Female,Beauty & Personal Care,Sunscreen SPF 50,2,69.97,0.0,Credit Card,139.94,0.0,139.94,76.97
+TXN-10066,2023-01-25,CUST-1050,36,Female,Home & Kitchen,Non-Stick Cookware Set,1,309.41,0.0,Debit Card,309.41,0.0,309.41,92.82
+TXN-10067,2023-01-25,CUST-1360,64,Female,Electronics,Bluetooth Speaker,1,727.24,0.2,UPI / Direct Debit,727.24,145.45,581.79,98.9
+TXN-10068,2023-01-25,CUST-1388,29,Female,Clothing,Leather Jacket,5,137.56,0.0,Debit Card,687.8,0.0,687.8,309.51
+TXN-10069,2023-01-26,CUST-1002,38,Female,Clothing,Leather Jacket,1,126.25,0.0,UPI / Direct Debit,126.25,0.0,126.25,56.81
+TXN-10070,2023-01-26,CUST-1390,59,Male,Home & Kitchen,Espresso Coffee Maker,1,310.57,0.05,Digital Wallet,310.57,15.53,295.04,88.51
+TXN-10071,2023-01-26,CUST-1054,51,Male,Home & Kitchen,Robot Vacuum Cleaner,3,55.24,0.15,UPI / Direct Debit,165.72,24.86,140.86,42.26
+TXN-10072,2023-01-27,CUST-1106,24,Male,Clothing,Hooded Sweatshirt,2,20.88,0.05,Credit Card,41.76,2.09,39.67,17.85
+TXN-10073,2023-01-27,CUST-1260,62,Male,Clothing,Hooded Sweatshirt,2,47.61,0.25,UPI / Direct Debit,95.22,23.8,71.42,32.14
+TXN-10074,2023-01-27,CUST-1310,52,Male,Clothing,Slim Fit Denim Jeans,2,106.25,0.1,Credit Card,212.5,21.25,191.25,86.06
+TXN-10075,2023-01-28,CUST-1191,32,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,3,43.96,0.0,Digital Wallet,131.88,0.0,131.88,72.53
+TXN-10076,2023-01-28,CUST-1218,18,Male,Clothing,Leather Jacket,1,72.3,0.25,Credit Card,72.3,18.08,54.22,24.4
+TXN-10077,2023-01-29,CUST-1044,43,Other,Clothing,Summer Floral Dress,1,134.99,0.05,UPI / Direct Debit,134.99,6.75,128.24,57.71
+TXN-10078,2023-01-29,CUST-1162,52,Male,Clothing,Slim Fit Denim Jeans,1,136.41,0.0,Credit Card,136.41,0.0,136.41,61.38
+TXN-10079,2023-01-29,CUST-1202,42,Male,Clothing,Classic Cotton T-Shirt,4,138.18,0.05,Cash on Delivery,552.72,27.64,525.08,236.29
+TXN-10080,2023-01-30,CUST-1270,59,Other,Beauty & Personal Care,Sunscreen SPF 50,2,36.51,0.0,Credit Card,73.02,0.0,73.02,40.16
+TXN-10081,2023-01-30,CUST-1351,32,Female,Clothing,Classic Cotton T-Shirt,1,109.83,0.0,Digital Wallet,109.83,0.0,109.83,49.42
+TXN-10082,2023-01-30,CUST-1304,39,Male,Home & Kitchen,Non-Stick Cookware Set,3,133.87,0.0,Credit Card,401.61,0.0,401.61,120.48
+TXN-10083,2023-01-31,CUST-1271,23,Female,Home & Kitchen,Non-Stick Cookware Set,1,104.38,0.05,Credit Card,104.38,5.22,99.16,29.75
+TXN-10084,2023-01-31,CUST-1215,69,Female,Clothing,Slim Fit Denim Jeans,1,43.99,0.15,Credit Card,43.99,6.6,37.39,16.83
+TXN-10085,2023-01-31,CUST-1252,32,Female,Clothing,Slim Fit Denim Jeans,1,64.46,0.05,Cash on Delivery,64.46,3.22,61.24,27.56
+TXN-10086,2023-02-01,CUST-1190,41,Male,Beauty & Personal Care,Hydrating Face Serum,1,45.39,0.25,Cash on Delivery,45.39,11.35,34.04,18.72
+TXN-10087,2023-02-01,CUST-1296,38,Female,Clothing,Hooded Sweatshirt,3,128.01,0.0,Credit Card,384.03,0.0,384.03,172.81
+TXN-10088,2023-02-02,CUST-1213,24,Female,Clothing,Classic Cotton T-Shirt,1,35.58,0.0,Credit Card,35.58,0.0,35.58,16.01
+TXN-10089,2023-02-02,CUST-1208,46,Male,Sports & Outdoors,Camping Tent 4-Person,3,190.36,0.0,Debit Card,571.08,0.0,571.08,199.88
+TXN-10090,2023-02-02,CUST-1237,49,Female,Electronics,Smartphone Pro,2,675.23,0.0,Credit Card,1350.46,0.0,1350.46,229.58
+TXN-10091,2023-02-03,CUST-1338,49,Male,Electronics,Bluetooth Speaker,1,402.5,0.0,Credit Card,402.5,0.0,402.5,68.42
+TXN-10092,2023-02-03,CUST-1367,22,Female,Clothing,Classic Cotton T-Shirt,5,84.06,0.15,Credit Card,420.3,63.04,357.26,160.77
+TXN-10093,2023-02-03,CUST-1053,21,Male,Sports & Outdoors,Cycling Helmet,1,92.49,0.2,Credit Card,92.49,18.5,73.99,25.9
+TXN-10094,2023-02-04,CUST-1280,39,Female,Electronics,Bluetooth Speaker,1,747.61,0.25,Credit Card,747.61,186.9,560.71,95.32
+TXN-10095,2023-02-04,CUST-1217,35,Female,Electronics,Bluetooth Speaker,1,565.91,0.0,Credit Card,565.91,0.0,565.91,96.2
+TXN-10096,2023-02-04,CUST-1252,52,Male,Electronics,4K Monitor 27in,3,264.13,0.15,UPI / Direct Debit,792.39,118.86,673.53,114.5
+TXN-10097,2023-02-05,CUST-1188,34,Male,Electronics,Smartphone Pro,1,210.57,0.0,Cash on Delivery,210.57,0.0,210.57,35.8
+TXN-10098,2023-02-05,CUST-1380,67,Female,Electronics,Smartphone Pro,1,692.3,0.0,Credit Card,692.3,0.0,692.3,117.69
+TXN-10099,2023-02-06,CUST-1041,67,Female,Clothing,Summer Floral Dress,1,137.3,0.15,Debit Card,137.3,20.6,116.7,52.52
+TXN-10100,2023-02-06,CUST-1157,41,Male,Clothing,Hooded Sweatshirt,1,64.7,0.1,Credit Card,64.7,6.47,58.23,26.2
+TXN-10101,2023-02-06,CUST-1015,19,Male,Electronics,Wireless Earbuds,2,900.96,0.0,Debit Card,1801.92,0.0,1801.92,306.33
+TXN-10102,2023-02-07,CUST-1301,30,Female,Clothing,Classic Cotton T-Shirt,1,105.62,0.05,Credit Card,105.62,5.28,100.34,45.15
+TXN-10103,2023-02-07,CUST-1065,32,Female,Electronics,Wireless Earbuds,1,1123.34,0.0,Debit Card,1123.34,0.0,1123.34,190.97
+TXN-10104,2023-02-07,CUST-1345,22,Male,Clothing,Summer Floral Dress,1,126.72,0.1,Credit Card,126.72,12.67,114.05,51.32
+TXN-10105,2023-02-08,CUST-1327,20,Female,Clothing,Hooded Sweatshirt,1,93.65,0.05,Cash on Delivery,93.65,4.68,88.97,40.04
+TXN-10106,2023-02-08,CUST-1009,54,Female,Home & Kitchen,Non-Stick Cookware Set,4,274.16,0.25,Credit Card,1096.64,274.16,822.48,246.74
+TXN-10107,2023-02-08,CUST-1344,54,Male,Electronics,Smartwatch Ultra,1,1086.19,0.0,UPI / Direct Debit,1086.19,0.0,1086.19,184.65
+TXN-10108,2023-02-09,CUST-1129,54,Male,Clothing,Summer Floral Dress,5,71.93,0.0,Digital Wallet,359.65,0.0,359.65,161.84
+TXN-10109,2023-02-09,CUST-1136,20,Male,Clothing,Leather Jacket,1,62.47,0.05,UPI / Direct Debit,62.47,3.12,59.35,26.71
+TXN-10110,2023-02-10,CUST-1063,52,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,13.33,0.05,UPI / Direct Debit,13.33,0.67,12.66,6.96
+TXN-10111,2023-02-10,CUST-1139,69,Female,Home & Kitchen,Espresso Coffee Maker,3,335.86,0.0,Digital Wallet,1007.58,0.0,1007.58,302.27
+TXN-10112,2023-02-10,CUST-1081,40,Female,Clothing,Leather Jacket,1,124.12,0.1,Credit Card,124.12,12.41,111.71,50.27
+TXN-10113,2023-02-11,CUST-1392,45,Male,Electronics,Bluetooth Speaker,2,196.99,0.15,Credit Card,393.98,59.1,334.88,56.93
+TXN-10114,2023-02-11,CUST-1163,47,Male,Sports & Outdoors,Running Hydration Backpack,5,154.79,0.2,Digital Wallet,773.95,154.79,619.16,216.71
+TXN-10115,2023-02-11,CUST-1289,35,Female,Electronics,Smartwatch Ultra,1,599.66,0.15,Credit Card,599.66,89.95,509.71,86.65
+TXN-10116,2023-02-12,CUST-1379,69,Male,Electronics,Wireless Earbuds,1,212.95,0.15,Cash on Delivery,212.95,31.94,181.01,30.77
+TXN-10117,2023-02-12,CUST-1261,53,Female,Clothing,Classic Cotton T-Shirt,2,147.46,0.05,Credit Card,294.92,14.75,280.17,126.08
+TXN-10118,2023-02-12,CUST-1231,50,Female,Electronics,Wireless Earbuds,1,320.46,0.15,Debit Card,320.46,48.07,272.39,46.31
+TXN-10119,2023-02-13,CUST-1041,43,Male,Sports & Outdoors,Adjustable Dumbbells Set,1,40.13,0.0,UPI / Direct Debit,40.13,0.0,40.13,14.05
+TXN-10120,2023-02-13,CUST-1028,65,Male,Beauty & Personal Care,Electric Toothbrush,1,58.01,0.0,Digital Wallet,58.01,0.0,58.01,31.91
+TXN-10121,2023-02-14,CUST-1135,57,Male,Electronics,4K Monitor 27in,1,907.53,0.0,UPI / Direct Debit,907.53,0.0,907.53,154.28
+TXN-10122,2023-02-14,CUST-1201,34,Male,Clothing,Slim Fit Denim Jeans,2,24.21,0.05,Credit Card,48.42,2.42,46.0,20.7
+TXN-10123,2023-02-14,CUST-1328,57,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,173.21,0.0,UPI / Direct Debit,173.21,0.0,173.21,60.62
+TXN-10124,2023-02-15,CUST-1268,24,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,53.22,0.25,Credit Card,53.22,13.3,39.92,21.96
+TXN-10125,2023-02-15,CUST-1033,25,Male,Home & Kitchen,Robot Vacuum Cleaner,2,72.59,0.0,Debit Card,145.18,0.0,145.18,43.55
+TXN-10126,2023-02-15,CUST-1048,48,Female,Sports & Outdoors,Camping Tent 4-Person,1,63.82,0.0,Cash on Delivery,63.82,0.0,63.82,22.34
+TXN-10127,2023-02-16,CUST-1062,29,Male,Sports & Outdoors,Adjustable Dumbbells Set,1,152.79,0.05,UPI / Direct Debit,152.79,7.64,145.15,50.8
+TXN-10128,2023-02-16,CUST-1216,65,Female,Home & Kitchen,Non-Stick Cookware Set,2,142.87,0.0,Debit Card,285.74,0.0,285.74,85.72
+TXN-10129,2023-02-16,CUST-1293,48,Male,Electronics,Smartwatch Ultra,1,1130.91,0.0,Credit Card,1130.91,0.0,1130.91,192.25
+TXN-10130,2023-02-17,CUST-1099,61,Male,Clothing,Leather Jacket,2,126.43,0.0,UPI / Direct Debit,252.86,0.0,252.86,113.79
+TXN-10131,2023-02-17,CUST-1172,36,Male,Beauty & Personal Care,Perfume Eau de Parfum,3,87.74,0.05,UPI / Direct Debit,263.22,13.16,250.06,137.53
+TXN-10132,2023-02-18,CUST-1360,27,Male,Electronics,Smartphone Pro,1,370.83,0.05,UPI / Direct Debit,370.83,18.54,352.29,59.89
+TXN-10133,2023-02-18,CUST-1214,56,Female,Beauty & Personal Care,Hydrating Face Serum,1,86.68,0.15,Credit Card,86.68,13.0,73.68,40.52
+TXN-10134,2023-02-18,CUST-1035,29,Female,Electronics,Smartphone Pro,1,562.98,0.1,Debit Card,562.98,56.3,506.68,86.14
+TXN-10135,2023-02-19,CUST-1227,37,Male,Electronics,Bluetooth Speaker,1,469.22,0.05,Credit Card,469.22,23.46,445.76,75.78
+TXN-10136,2023-02-19,CUST-1101,54,Male,Clothing,Leather Jacket,3,26.54,0.0,Debit Card,79.62,0.0,79.62,35.83
+TXN-10137,2023-02-19,CUST-1131,65,Male,Electronics,Bluetooth Speaker,3,139.1,0.0,Credit Card,417.3,0.0,417.3,70.94
+TXN-10138,2023-02-20,CUST-1257,58,Male,Sports & Outdoors,Running Hydration Backpack,1,180.7,0.1,Cash on Delivery,180.7,18.07,162.63,56.92
+TXN-10139,2023-02-20,CUST-1005,24,Male,Beauty & Personal Care,Perfume Eau de Parfum,2,47.53,0.0,Credit Card,95.06,0.0,95.06,52.28
+TXN-10140,2023-02-20,CUST-1218,69,Female,Beauty & Personal Care,Sunscreen SPF 50,4,29.83,0.0,UPI / Direct Debit,119.32,0.0,119.32,65.63
+TXN-10141,2023-02-21,CUST-1255,31,Female,Home & Kitchen,Air Fryer Deluxe,4,258.49,0.15,Credit Card,1033.96,155.09,878.87,263.66
+TXN-10142,2023-02-21,CUST-1398,28,Male,Electronics,Smartphone Pro,1,363.2,0.05,Debit Card,363.2,18.16,345.04,58.66
+TXN-10143,2023-02-22,CUST-1359,24,Female,Clothing,Classic Cotton T-Shirt,1,95.08,0.0,Credit Card,95.08,0.0,95.08,42.79
+TXN-10144,2023-02-22,CUST-1283,46,Female,Clothing,Slim Fit Denim Jeans,1,66.69,0.0,Debit Card,66.69,0.0,66.69,30.01
+TXN-10145,2023-02-22,CUST-1393,27,Male,Clothing,Slim Fit Denim Jeans,4,127.05,0.2,Credit Card,508.2,101.64,406.56,182.95
+TXN-10146,2023-02-23,CUST-1207,46,Female,Electronics,4K Monitor 27in,1,999.18,0.15,Debit Card,999.18,149.88,849.3,144.38
+TXN-10147,2023-02-23,CUST-1015,26,Female,Clothing,Summer Floral Dress,2,82.05,0.1,Credit Card,164.1,16.41,147.69,66.46
+TXN-10148,2023-02-23,CUST-1346,53,Male,Clothing,Summer Floral Dress,1,65.6,0.05,Credit Card,65.6,3.28,62.32,28.04
+TXN-10149,2023-02-24,CUST-1042,65,Other,Sports & Outdoors,Adjustable Dumbbells Set,1,106.58,0.05,UPI / Direct Debit,106.58,5.33,101.25,35.44
+TXN-10150,2023-02-24,CUST-1380,27,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,74.14,0.25,Credit Card,74.14,18.54,55.6,30.58
+TXN-10151,2023-02-25,CUST-1179,36,Male,Clothing,Summer Floral Dress,5,62.65,0.25,Credit Card,313.25,78.31,234.94,105.72
+TXN-10152,2023-02-25,CUST-1063,48,Female,Home & Kitchen,Blender 1000W,1,111.1,0.0,Digital Wallet,111.1,0.0,111.1,33.33
+TXN-10153,2023-02-25,CUST-1352,34,Male,Home & Kitchen,Robot Vacuum Cleaner,2,65.83,0.15,Digital Wallet,131.66,19.75,111.91,33.57
+TXN-10154,2023-02-26,CUST-1231,26,Male,Electronics,4K Monitor 27in,1,602.7,0.0,Debit Card,602.7,0.0,602.7,102.46
+TXN-10155,2023-02-26,CUST-1241,62,Male,Beauty & Personal Care,Perfume Eau de Parfum,1,49.38,0.0,Credit Card,49.38,0.0,49.38,27.16
+TXN-10156,2023-02-26,CUST-1052,50,Female,Beauty & Personal Care,Sunscreen SPF 50,1,76.83,0.1,Credit Card,76.83,7.68,69.15,38.03
+TXN-10157,2023-02-27,CUST-1096,51,Female,Clothing,Slim Fit Denim Jeans,1,48.75,0.05,UPI / Direct Debit,48.75,2.44,46.31,20.84
+TXN-10158,2023-02-27,CUST-1388,62,Female,Clothing,Summer Floral Dress,1,69.52,0.2,Credit Card,69.52,13.9,55.62,25.03
+TXN-10159,2023-02-27,CUST-1222,41,Female,Electronics,Wireless Earbuds,1,985.41,0.0,Digital Wallet,985.41,0.0,985.41,167.52
+TXN-10160,2023-02-28,CUST-1231,26,Male,Clothing,Slim Fit Denim Jeans,1,127.06,0.05,Credit Card,127.06,6.35,120.71,54.32
+TXN-10161,2023-02-28,CUST-1237,24,Male,Electronics,Wireless Earbuds,1,510.76,0.2,Digital Wallet,510.76,102.15,408.61,69.46
+TXN-10162,2023-03-01,CUST-1143,33,Female,Beauty & Personal Care,Sunscreen SPF 50,4,47.62,0.2,UPI / Direct Debit,190.48,38.1,152.38,83.81
+TXN-10163,2023-03-01,CUST-1171,36,Female,Electronics,Smartphone Pro,4,419.68,0.0,Debit Card,1678.72,0.0,1678.72,285.38
+TXN-10164,2023-03-01,CUST-1029,56,Male,Clothing,Summer Floral Dress,1,141.22,0.0,Credit Card,141.22,0.0,141.22,63.55
+TXN-10165,2023-03-02,CUST-1036,23,Male,Sports & Outdoors,Yoga Mat Non-Slip,2,51.69,0.1,Cash on Delivery,103.38,10.34,93.04,32.56
+TXN-10166,2023-03-02,CUST-1013,67,Female,Home & Kitchen,Air Fryer Deluxe,3,374.88,0.0,Credit Card,1124.64,0.0,1124.64,337.39
+TXN-10167,2023-03-02,CUST-1160,68,Other,Clothing,Classic Cotton T-Shirt,1,108.89,0.25,Debit Card,108.89,27.22,81.67,36.75
+TXN-10168,2023-03-03,CUST-1327,28,Female,Electronics,Wireless Earbuds,3,675.36,0.2,Cash on Delivery,2026.08,405.22,1620.86,275.55
+TXN-10169,2023-03-03,CUST-1187,29,Male,Electronics,Bluetooth Speaker,4,116.58,0.0,Credit Card,466.32,0.0,466.32,79.27
+TXN-10170,2023-03-03,CUST-1243,59,Other,Home & Kitchen,Espresso Coffee Maker,1,208.12,0.0,UPI / Direct Debit,208.12,0.0,208.12,62.44
+TXN-10171,2023-03-04,CUST-1086,30,Female,Electronics,Wireless Earbuds,1,536.68,0.0,UPI / Direct Debit,536.68,0.0,536.68,91.24
+TXN-10172,2023-03-04,CUST-1284,29,Female,Clothing,Classic Cotton T-Shirt,4,40.95,0.2,Credit Card,163.8,32.76,131.04,58.97
+TXN-10173,2023-03-05,CUST-1066,38,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,172.69,0.0,UPI / Direct Debit,172.69,0.0,172.69,60.44
+TXN-10174,2023-03-05,CUST-1170,27,Female,Electronics,Smartphone Pro,1,1167.69,0.05,Credit Card,1167.69,58.38,1109.31,188.58
+TXN-10175,2023-03-05,CUST-1045,37,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,55.51,0.05,UPI / Direct Debit,55.51,2.78,52.73,29.0
+TXN-10176,2023-03-06,CUST-1062,67,Female,Sports & Outdoors,Camping Tent 4-Person,1,185.82,0.05,Debit Card,185.82,9.29,176.53,61.79
+TXN-10177,2023-03-06,CUST-1134,53,Female,Electronics,Smartphone Pro,2,156.66,0.0,UPI / Direct Debit,313.32,0.0,313.32,53.26
+TXN-10178,2023-03-06,CUST-1284,45,Female,Beauty & Personal Care,Perfume Eau de Parfum,2,44.45,0.0,Credit Card,88.9,0.0,88.9,48.9
+TXN-10179,2023-03-07,CUST-1028,41,Male,Clothing,Summer Floral Dress,5,35.12,0.2,Cash on Delivery,175.6,35.12,140.48,63.22
+TXN-10180,2023-03-07,CUST-1108,22,Female,Sports & Outdoors,Running Hydration Backpack,1,162.88,0.2,Cash on Delivery,162.88,32.58,130.3,45.61
+TXN-10181,2023-03-07,CUST-1044,54,Female,Clothing,Classic Cotton T-Shirt,1,141.99,0.15,UPI / Direct Debit,141.99,21.3,120.69,54.31
+TXN-10182,2023-03-08,CUST-1340,29,Female,Home & Kitchen,Air Fryer Deluxe,1,275.89,0.0,UPI / Direct Debit,275.89,0.0,275.89,82.77
+TXN-10183,2023-03-08,CUST-1286,52,Male,Clothing,Hooded Sweatshirt,1,29.97,0.0,UPI / Direct Debit,29.97,0.0,29.97,13.49
+TXN-10184,2023-03-09,CUST-1331,57,Female,Beauty & Personal Care,Sunscreen SPF 50,1,39.63,0.1,Debit Card,39.63,3.96,35.67,19.62
+TXN-10185,2023-03-09,CUST-1128,19,Male,Home & Kitchen,Air Fryer Deluxe,5,235.44,0.0,Debit Card,1177.2,0.0,1177.2,353.16
+TXN-10186,2023-03-09,CUST-1348,67,Female,Clothing,Hooded Sweatshirt,3,72.41,0.2,Credit Card,217.23,43.45,173.78,78.2
+TXN-10187,2023-03-10,CUST-1231,58,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,76.27,0.1,Debit Card,76.27,7.63,68.64,37.75
+TXN-10188,2023-03-10,CUST-1190,62,Male,Electronics,4K Monitor 27in,2,992.43,0.0,Credit Card,1984.86,0.0,1984.86,337.43
+TXN-10189,2023-03-10,CUST-1225,56,Female,Electronics,4K Monitor 27in,1,765.25,0.2,Credit Card,765.25,153.05,612.2,104.07
+TXN-10190,2023-03-11,CUST-1385,59,Male,Electronics,4K Monitor 27in,1,498.27,0.2,Debit Card,498.27,99.65,398.62,67.77
+TXN-10191,2023-03-11,CUST-1377,26,Male,Clothing,Slim Fit Denim Jeans,2,53.18,0.0,UPI / Direct Debit,106.36,0.0,106.36,47.86
+TXN-10192,2023-03-11,CUST-1283,39,Female,Electronics,Smartwatch Ultra,1,198.58,0.05,UPI / Direct Debit,198.58,9.93,188.65,32.07
+TXN-10193,2023-03-12,CUST-1121,64,Male,Sports & Outdoors,Cycling Helmet,5,104.85,0.0,UPI / Direct Debit,524.25,0.0,524.25,183.49
+TXN-10194,2023-03-12,CUST-1116,22,Male,Electronics,Smartwatch Ultra,2,542.75,0.0,Digital Wallet,1085.5,0.0,1085.5,184.53
+TXN-10195,2023-03-13,CUST-1233,29,Male,Home & Kitchen,Air Fryer Deluxe,1,281.0,0.0,UPI / Direct Debit,281.0,0.0,281.0,84.3
+TXN-10196,2023-03-13,CUST-1259,18,Male,Electronics,4K Monitor 27in,2,817.14,0.05,Debit Card,1634.28,81.71,1552.57,263.94
+TXN-10197,2023-03-13,CUST-1359,61,Female,Beauty & Personal Care,Sunscreen SPF 50,1,17.86,0.2,Credit Card,17.86,3.57,14.29,7.86
+TXN-10198,2023-03-14,CUST-1198,39,Female,Sports & Outdoors,Cycling Helmet,1,113.93,0.05,Credit Card,113.93,5.7,108.23,37.88
+TXN-10199,2023-03-14,CUST-1137,55,Female,Clothing,Classic Cotton T-Shirt,1,43.62,0.0,Credit Card,43.62,0.0,43.62,19.63
+TXN-10200,2023-03-14,CUST-1318,68,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,24.5,0.1,UPI / Direct Debit,24.5,2.45,22.05,12.13
+TXN-10201,2023-03-15,CUST-1165,36,Male,Electronics,Wireless Earbuds,2,1006.58,0.0,Debit Card,2013.16,0.0,2013.16,342.24
+TXN-10202,2023-03-15,CUST-1225,33,Male,Beauty & Personal Care,Perfume Eau de Parfum,1,15.71,0.15,Credit Card,15.71,2.36,13.35,7.34
+TXN-10203,2023-03-15,CUST-1307,48,Female,Electronics,Smartphone Pro,2,549.48,0.05,UPI / Direct Debit,1098.96,54.95,1044.01,177.48
+TXN-10204,2023-03-16,CUST-1234,68,Female,Sports & Outdoors,Camping Tent 4-Person,2,62.85,0.0,Credit Card,125.7,0.0,125.7,44.0
+TXN-10205,2023-03-16,CUST-1172,20,Female,Electronics,Smartwatch Ultra,1,1064.85,0.0,Credit Card,1064.85,0.0,1064.85,181.02
+TXN-10206,2023-03-17,CUST-1152,40,Female,Clothing,Classic Cotton T-Shirt,3,92.41,0.1,Digital Wallet,277.23,27.72,249.51,112.28
+TXN-10207,2023-03-17,CUST-1315,59,Female,Home & Kitchen,Espresso Coffee Maker,1,119.22,0.0,UPI / Direct Debit,119.22,0.0,119.22,35.77
+TXN-10208,2023-03-17,CUST-1374,35,Female,Electronics,Bluetooth Speaker,1,642.72,0.1,Credit Card,642.72,64.27,578.45,98.34
+TXN-10209,2023-03-18,CUST-1160,43,Female,Electronics,Bluetooth Speaker,1,899.26,0.0,Debit Card,899.26,0.0,899.26,152.87
+TXN-10210,2023-03-18,CUST-1096,30,Male,Electronics,Smartwatch Ultra,1,1153.09,0.0,Debit Card,1153.09,0.0,1153.09,196.03
+TXN-10211,2023-03-18,CUST-1233,35,Male,Clothing,Leather Jacket,1,48.65,0.05,Debit Card,48.65,2.43,46.22,20.8
+TXN-10212,2023-03-19,CUST-1180,20,Female,Clothing,Leather Jacket,2,135.19,0.2,Credit Card,270.38,54.08,216.3,97.34
+TXN-10213,2023-03-19,CUST-1113,40,Female,Electronics,Smartphone Pro,1,1126.42,0.2,UPI / Direct Debit,1126.42,225.28,901.14,153.19
+TXN-10214,2023-03-19,CUST-1318,20,Other,Clothing,Summer Floral Dress,1,139.12,0.0,Credit Card,139.12,0.0,139.12,62.6
+TXN-10215,2023-03-20,CUST-1052,42,Male,Electronics,Smartwatch Ultra,4,791.66,0.0,Cash on Delivery,3166.64,0.0,3166.64,538.33
+TXN-10216,2023-03-20,CUST-1268,44,Male,Beauty & Personal Care,Hydrating Face Serum,2,60.68,0.0,Debit Card,121.36,0.0,121.36,66.75
+TXN-10217,2023-03-21,CUST-1295,61,Other,Electronics,4K Monitor 27in,3,531.6,0.05,UPI / Direct Debit,1594.8,79.74,1515.06,257.56
+TXN-10218,2023-03-21,CUST-1386,44,Female,Clothing,Classic Cotton T-Shirt,1,117.8,0.05,Credit Card,117.8,5.89,111.91,50.36
+TXN-10219,2023-03-21,CUST-1387,69,Male,Electronics,Smartphone Pro,2,675.05,0.2,Credit Card,1350.1,270.02,1080.08,183.61
+TXN-10220,2023-03-22,CUST-1113,56,Female,Clothing,Leather Jacket,3,108.06,0.2,Credit Card,324.18,64.84,259.34,116.7
+TXN-10221,2023-03-22,CUST-1101,42,Male,Beauty & Personal Care,Electric Toothbrush,2,45.28,0.0,Digital Wallet,90.56,0.0,90.56,49.81
+TXN-10222,2023-03-22,CUST-1113,41,Male,Clothing,Hooded Sweatshirt,2,115.08,0.05,Credit Card,230.16,11.51,218.65,98.39
+TXN-10223,2023-03-23,CUST-1081,25,Female,Electronics,Smartwatch Ultra,1,1003.41,0.15,Credit Card,1003.41,150.51,852.9,144.99
+TXN-10224,2023-03-23,CUST-1187,26,Female,Home & Kitchen,Blender 1000W,1,88.3,0.15,Digital Wallet,88.3,13.24,75.06,22.52
+TXN-10225,2023-03-23,CUST-1113,63,Male,Beauty & Personal Care,Perfume Eau de Parfum,1,76.22,0.0,UPI / Direct Debit,76.22,0.0,76.22,41.92
+TXN-10226,2023-03-24,CUST-1002,54,Male,Electronics,Wireless Earbuds,1,685.13,0.0,Debit Card,685.13,0.0,685.13,116.47
+TXN-10227,2023-03-24,CUST-1130,47,Female,Home & Kitchen,Air Fryer Deluxe,3,342.46,0.05,Credit Card,1027.38,51.37,976.01,292.8
+TXN-10228,2023-03-25,CUST-1220,36,Male,Sports & Outdoors,Cycling Helmet,1,122.04,0.0,UPI / Direct Debit,122.04,0.0,122.04,42.71
+TXN-10229,2023-03-25,CUST-1054,33,Female,Electronics,4K Monitor 27in,4,504.53,0.0,UPI / Direct Debit,2018.12,0.0,2018.12,343.08
+TXN-10230,2023-03-25,CUST-1343,41,Female,Home & Kitchen,Air Fryer Deluxe,4,368.08,0.0,Debit Card,1472.32,0.0,1472.32,441.7
+TXN-10231,2023-03-26,CUST-1224,61,Male,Home & Kitchen,Non-Stick Cookware Set,1,126.43,0.1,Credit Card,126.43,12.64,113.79,34.14
+TXN-10232,2023-03-26,CUST-1225,38,Female,Clothing,Slim Fit Denim Jeans,1,129.74,0.0,UPI / Direct Debit,129.74,0.0,129.74,58.38
+TXN-10233,2023-03-26,CUST-1385,53,Female,Electronics,Smartwatch Ultra,3,622.1,0.0,Debit Card,1866.3,0.0,1866.3,317.27
+TXN-10234,2023-03-27,CUST-1126,57,Male,Electronics,4K Monitor 27in,4,655.79,0.0,UPI / Direct Debit,2623.16,0.0,2623.16,445.94
+TXN-10235,2023-03-27,CUST-1130,56,Male,Beauty & Personal Care,Hydrating Face Serum,1,36.1,0.15,UPI / Direct Debit,36.1,5.42,30.68,16.87
+TXN-10236,2023-03-27,CUST-1053,64,Male,Sports & Outdoors,Camping Tent 4-Person,1,153.93,0.15,Credit Card,153.93,23.09,130.84,45.79
+TXN-10237,2023-03-28,CUST-1172,23,Female,Home & Kitchen,Air Fryer Deluxe,1,153.38,0.05,Credit Card,153.38,7.67,145.71,43.71
+TXN-10238,2023-03-28,CUST-1218,22,Female,Clothing,Leather Jacket,2,25.1,0.05,Debit Card,50.2,2.51,47.69,21.46
+TXN-10239,2023-03-29,CUST-1160,31,Male,Home & Kitchen,Espresso Coffee Maker,1,134.01,0.25,Debit Card,134.01,33.5,100.51,30.15
+TXN-10240,2023-03-29,CUST-1198,62,Male,Clothing,Leather Jacket,2,20.82,0.0,Digital Wallet,41.64,0.0,41.64,18.74
+TXN-10241,2023-03-29,CUST-1247,59,Male,Clothing,Leather Jacket,1,147.18,0.0,Debit Card,147.18,0.0,147.18,66.23
+TXN-10242,2023-03-30,CUST-1324,67,Female,Electronics,4K Monitor 27in,1,1161.64,0.0,UPI / Direct Debit,1161.64,0.0,1161.64,197.48
+TXN-10243,2023-03-30,CUST-1203,21,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,42.73,0.0,Cash on Delivery,42.73,0.0,42.73,23.5
+TXN-10244,2023-03-30,CUST-1184,25,Female,Clothing,Classic Cotton T-Shirt,1,114.68,0.0,Credit Card,114.68,0.0,114.68,51.61
+TXN-10245,2023-03-31,CUST-1123,41,Male,Beauty & Personal Care,Hydrating Face Serum,1,38.95,0.2,UPI / Direct Debit,38.95,7.79,31.16,17.14
+TXN-10246,2023-03-31,CUST-1255,28,Female,Electronics,Smartwatch Ultra,1,831.62,0.1,Credit Card,831.62,83.16,748.46,127.24
+TXN-10247,2023-03-31,CUST-1294,34,Female,Electronics,Smartphone Pro,1,982.08,0.05,Credit Card,982.08,49.1,932.98,158.61
+TXN-10248,2023-04-01,CUST-1280,67,Female,Electronics,4K Monitor 27in,1,1140.37,0.2,Debit Card,1140.37,228.07,912.3,155.09
+TXN-10249,2023-04-01,CUST-1325,38,Male,Clothing,Leather Jacket,1,72.02,0.0,UPI / Direct Debit,72.02,0.0,72.02,32.41
+TXN-10250,2023-04-02,CUST-1372,43,Female,Sports & Outdoors,Cycling Helmet,5,201.24,0.0,UPI / Direct Debit,1006.2,0.0,1006.2,352.17
+TXN-10251,2023-04-02,CUST-1098,60,Male,Electronics,Bluetooth Speaker,1,377.84,0.05,UPI / Direct Debit,377.84,18.89,358.95,61.02
+TXN-10252,2023-04-02,CUST-1198,65,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,88.26,0.1,UPI / Direct Debit,88.26,8.83,79.43,43.69
+TXN-10253,2023-04-03,CUST-1395,61,Female,Clothing,Classic Cotton T-Shirt,2,23.34,0.0,Credit Card,46.68,0.0,46.68,21.01
+TXN-10254,2023-04-03,CUST-1240,62,Female,Beauty & Personal Care,Electric Toothbrush,5,58.67,0.05,Debit Card,293.35,14.67,278.68,153.27
+TXN-10255,2023-04-03,CUST-1144,44,Male,Clothing,Slim Fit Denim Jeans,1,105.73,0.1,UPI / Direct Debit,105.73,10.57,95.16,42.82
+TXN-10256,2023-04-04,CUST-1097,33,Male,Beauty & Personal Care,Sunscreen SPF 50,2,65.14,0.1,Cash on Delivery,130.28,13.03,117.25,64.49
+TXN-10257,2023-04-04,CUST-1201,43,Female,Home & Kitchen,Blender 1000W,2,78.82,0.1,Credit Card,157.64,15.76,141.88,42.56
+TXN-10258,2023-04-04,CUST-1124,50,Female,Electronics,4K Monitor 27in,2,1131.15,0.0,Credit Card,2262.3,0.0,2262.3,384.59
+TXN-10259,2023-04-05,CUST-1187,48,Male,Electronics,4K Monitor 27in,1,282.93,0.0,UPI / Direct Debit,282.93,0.0,282.93,48.1
+TXN-10260,2023-04-05,CUST-1326,65,Female,Beauty & Personal Care,Perfume Eau de Parfum,2,60.14,0.05,Cash on Delivery,120.28,6.01,114.27,62.85
+TXN-10261,2023-04-06,CUST-1349,64,Male,Sports & Outdoors,Camping Tent 4-Person,1,75.1,0.0,UPI / Direct Debit,75.1,0.0,75.1,26.29
+TXN-10262,2023-04-06,CUST-1259,23,Female,Electronics,Smartphone Pro,2,424.08,0.2,Debit Card,848.16,169.63,678.53,115.35
+TXN-10263,2023-04-06,CUST-1148,61,Female,Home & Kitchen,Blender 1000W,2,233.91,0.05,Digital Wallet,467.82,23.39,444.43,133.33
+TXN-10264,2023-04-07,CUST-1252,25,Male,Sports & Outdoors,Cycling Helmet,1,118.87,0.0,Digital Wallet,118.87,0.0,118.87,41.6
+TXN-10265,2023-04-07,CUST-1346,24,Female,Beauty & Personal Care,Electric Toothbrush,3,24.76,0.1,Debit Card,74.28,7.43,66.85,36.77
+TXN-10266,2023-04-07,CUST-1147,51,Female,Sports & Outdoors,Running Hydration Backpack,1,63.46,0.05,Debit Card,63.46,3.17,60.29,21.1
+TXN-10267,2023-04-08,CUST-1148,61,Female,Home & Kitchen,Non-Stick Cookware Set,3,187.2,0.0,Credit Card,561.6,0.0,561.6,168.48
+TXN-10268,2023-04-08,CUST-1352,31,Female,Clothing,Leather Jacket,1,118.44,0.15,Cash on Delivery,118.44,17.77,100.67,45.3
+TXN-10269,2023-04-08,CUST-1199,33,Female,Clothing,Classic Cotton T-Shirt,1,136.73,0.15,UPI / Direct Debit,136.73,20.51,116.22,52.3
+TXN-10270,2023-04-09,CUST-1308,60,Male,Clothing,Classic Cotton T-Shirt,1,30.93,0.1,Digital Wallet,30.93,3.09,27.84,12.53
+TXN-10271,2023-04-09,CUST-1128,69,Male,Home & Kitchen,Espresso Coffee Maker,4,178.09,0.0,Credit Card,712.36,0.0,712.36,213.71
+TXN-10272,2023-04-10,CUST-1039,26,Male,Home & Kitchen,Robot Vacuum Cleaner,1,71.49,0.05,UPI / Direct Debit,71.49,3.57,67.92,20.38
+TXN-10273,2023-04-10,CUST-1338,27,Other,Electronics,4K Monitor 27in,1,98.58,0.1,UPI / Direct Debit,98.58,9.86,88.72,15.08
+TXN-10274,2023-04-10,CUST-1360,34,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,63.12,0.0,UPI / Direct Debit,63.12,0.0,63.12,34.72
+TXN-10275,2023-04-11,CUST-1129,29,Female,Home & Kitchen,Espresso Coffee Maker,2,254.29,0.0,Credit Card,508.58,0.0,508.58,152.57
+TXN-10276,2023-04-11,CUST-1267,23,Male,Clothing,Leather Jacket,1,41.18,0.15,UPI / Direct Debit,41.18,6.18,35.0,15.75
+TXN-10277,2023-04-11,CUST-1151,36,Female,Clothing,Leather Jacket,1,50.39,0.0,Debit Card,50.39,0.0,50.39,22.68
+TXN-10278,2023-04-12,CUST-1298,60,Female,Clothing,Slim Fit Denim Jeans,1,23.07,0.1,UPI / Direct Debit,23.07,2.31,20.76,9.34
+TXN-10279,2023-04-12,CUST-1099,58,Female,Electronics,Smartphone Pro,1,1015.14,0.05,Credit Card,1015.14,50.76,964.38,163.94
+TXN-10280,2023-04-12,CUST-1263,46,Male,Electronics,4K Monitor 27in,1,1171.65,0.05,Debit Card,1171.65,58.58,1113.07,189.22
+TXN-10281,2023-04-13,CUST-1252,23,Male,Electronics,Wireless Earbuds,1,231.71,0.0,Credit Card,231.71,0.0,231.71,39.39
+TXN-10282,2023-04-13,CUST-1144,42,Female,Electronics,Smartwatch Ultra,2,339.25,0.15,Credit Card,678.5,101.78,576.72,98.04
+TXN-10283,2023-04-14,CUST-1346,41,Female,Clothing,Classic Cotton T-Shirt,1,132.88,0.0,Debit Card,132.88,0.0,132.88,59.8
+TXN-10284,2023-04-14,CUST-1112,42,Male,Clothing,Hooded Sweatshirt,1,140.43,0.05,Cash on Delivery,140.43,7.02,133.41,60.03
+TXN-10285,2023-04-14,CUST-1060,33,Female,Electronics,Smartphone Pro,1,549.98,0.1,UPI / Direct Debit,549.98,55.0,494.98,84.15
+TXN-10286,2023-04-15,CUST-1369,69,Male,Beauty & Personal Care,Electric Toothbrush,5,16.37,0.1,UPI / Direct Debit,81.85,8.18,73.67,40.52
+TXN-10287,2023-04-15,CUST-1002,33,Female,Clothing,Summer Floral Dress,4,25.11,0.2,Credit Card,100.44,20.09,80.35,36.16
+TXN-10288,2023-04-15,CUST-1385,23,Female,Sports & Outdoors,Cycling Helmet,3,154.14,0.05,UPI / Direct Debit,462.42,23.12,439.3,153.76
+TXN-10289,2023-04-16,CUST-1304,54,Male,Sports & Outdoors,Running Hydration Backpack,1,113.4,0.0,Credit Card,113.4,0.0,113.4,39.69
+TXN-10290,2023-04-16,CUST-1254,38,Female,Electronics,Smartphone Pro,1,112.09,0.2,Digital Wallet,112.09,22.42,89.67,15.24
+TXN-10291,2023-04-16,CUST-1140,21,Male,Clothing,Summer Floral Dress,1,95.81,0.1,Cash on Delivery,95.81,9.58,86.23,38.8
+TXN-10292,2023-04-17,CUST-1037,51,Male,Electronics,Wireless Earbuds,1,92.66,0.0,Debit Card,92.66,0.0,92.66,15.75
+TXN-10293,2023-04-17,CUST-1160,45,Female,Clothing,Summer Floral Dress,1,122.35,0.0,UPI / Direct Debit,122.35,0.0,122.35,55.06
+TXN-10294,2023-04-18,CUST-1009,55,Male,Home & Kitchen,Espresso Coffee Maker,2,146.54,0.15,Debit Card,293.08,43.96,249.12,74.74
+TXN-10295,2023-04-18,CUST-1233,58,Male,Electronics,Smartphone Pro,3,125.09,0.0,UPI / Direct Debit,375.27,0.0,375.27,63.8
+TXN-10296,2023-04-18,CUST-1099,45,Male,Clothing,Summer Floral Dress,3,96.48,0.1,Credit Card,289.44,28.94,260.5,117.22
+TXN-10297,2023-04-19,CUST-1147,34,Male,Electronics,4K Monitor 27in,1,525.41,0.05,Credit Card,525.41,26.27,499.14,84.85
+TXN-10298,2023-04-19,CUST-1304,31,Male,Electronics,Smartphone Pro,2,1170.66,0.0,UPI / Direct Debit,2341.32,0.0,2341.32,398.02
+TXN-10299,2023-04-19,CUST-1208,24,Male,Home & Kitchen,Blender 1000W,1,233.09,0.1,Digital Wallet,233.09,23.31,209.78,62.93
+TXN-10300,2023-04-20,CUST-1131,39,Female,Clothing,Slim Fit Denim Jeans,1,55.77,0.0,Credit Card,55.77,0.0,55.77,25.1
+TXN-10301,2023-04-20,CUST-1152,68,Male,Clothing,Summer Floral Dress,2,112.22,0.05,Credit Card,224.44,11.22,213.22,95.95
+TXN-10302,2023-04-21,CUST-1054,18,Female,Clothing,Hooded Sweatshirt,1,55.28,0.05,UPI / Direct Debit,55.28,2.76,52.52,23.63
+TXN-10303,2023-04-21,CUST-1120,46,Male,Sports & Outdoors,Cycling Helmet,1,228.45,0.05,Cash on Delivery,228.45,11.42,217.03,75.96
+TXN-10304,2023-04-21,CUST-1161,69,Male,Electronics,Wireless Earbuds,1,499.69,0.1,Credit Card,499.69,49.97,449.72,76.45
+TXN-10305,2023-04-22,CUST-1116,48,Male,Clothing,Hooded Sweatshirt,2,91.47,0.15,Credit Card,182.94,27.44,155.5,69.97
+TXN-10306,2023-04-22,CUST-1075,47,Female,Home & Kitchen,Air Fryer Deluxe,2,53.41,0.1,UPI / Direct Debit,106.82,10.68,96.14,28.84
+TXN-10307,2023-04-22,CUST-1113,32,Female,Clothing,Slim Fit Denim Jeans,1,75.39,0.0,UPI / Direct Debit,75.39,0.0,75.39,33.93
+TXN-10308,2023-04-23,CUST-1104,35,Female,Sports & Outdoors,Cycling Helmet,3,212.28,0.0,Credit Card,636.84,0.0,636.84,222.89
+TXN-10309,2023-04-23,CUST-1340,52,Male,Home & Kitchen,Robot Vacuum Cleaner,1,328.26,0.05,Credit Card,328.26,16.41,311.85,93.56
+TXN-10310,2023-04-23,CUST-1254,67,Female,Home & Kitchen,Air Fryer Deluxe,1,116.65,0.2,UPI / Direct Debit,116.65,23.33,93.32,28.0
+TXN-10311,2023-04-24,CUST-1227,47,Male,Home & Kitchen,Air Fryer Deluxe,2,117.29,0.15,UPI / Direct Debit,234.58,35.19,199.39,59.82
+TXN-10312,2023-04-24,CUST-1112,51,Male,Sports & Outdoors,Adjustable Dumbbells Set,2,208.89,0.15,Digital Wallet,417.78,62.67,355.11,124.29
+TXN-10313,2023-04-25,CUST-1099,59,Female,Sports & Outdoors,Camping Tent 4-Person,5,234.34,0.0,Debit Card,1171.7,0.0,1171.7,410.1
+TXN-10314,2023-04-25,CUST-1153,28,Male,Home & Kitchen,Air Fryer Deluxe,1,69.71,0.05,Credit Card,69.71,3.49,66.22,19.87
+TXN-10315,2023-04-25,CUST-1349,44,Other,Home & Kitchen,Blender 1000W,2,198.82,0.05,UPI / Direct Debit,397.64,19.88,377.76,113.33
+TXN-10316,2023-04-26,CUST-1384,41,Male,Electronics,Smartwatch Ultra,2,457.95,0.0,UPI / Direct Debit,915.9,0.0,915.9,155.7
+TXN-10317,2023-04-26,CUST-1366,52,Other,Electronics,Bluetooth Speaker,3,1055.17,0.0,Credit Card,3165.51,0.0,3165.51,538.14
+TXN-10318,2023-04-26,CUST-1338,56,Female,Clothing,Summer Floral Dress,1,30.85,0.2,Digital Wallet,30.85,6.17,24.68,11.11
+TXN-10319,2023-04-27,CUST-1194,25,Female,Electronics,Bluetooth Speaker,2,316.46,0.0,Cash on Delivery,632.92,0.0,632.92,107.6
+TXN-10320,2023-04-27,CUST-1310,68,Male,Clothing,Summer Floral Dress,2,117.81,0.0,Credit Card,235.62,0.0,235.62,106.03
+TXN-10321,2023-04-27,CUST-1163,35,Male,Electronics,Smartwatch Ultra,1,137.45,0.0,Credit Card,137.45,0.0,137.45,23.37
+TXN-10322,2023-04-28,CUST-1208,30,Female,Clothing,Classic Cotton T-Shirt,1,84.02,0.2,Credit Card,84.02,16.8,67.22,30.25
+TXN-10323,2023-04-28,CUST-1169,62,Male,Home & Kitchen,Non-Stick Cookware Set,1,195.93,0.05,Credit Card,195.93,9.8,186.13,55.84
+TXN-10324,2023-04-29,CUST-1161,41,Female,Sports & Outdoors,Yoga Mat Non-Slip,2,100.24,0.1,UPI / Direct Debit,200.48,20.05,180.43,63.15
+TXN-10325,2023-04-29,CUST-1068,68,Other,Electronics,Smartphone Pro,3,521.92,0.2,UPI / Direct Debit,1565.76,313.15,1252.61,212.94
+TXN-10326,2023-04-29,CUST-1289,40,Male,Clothing,Leather Jacket,2,88.88,0.0,Digital Wallet,177.76,0.0,177.76,79.99
+TXN-10327,2023-04-30,CUST-1398,29,Female,Beauty & Personal Care,Sunscreen SPF 50,2,24.84,0.1,Credit Card,49.68,4.97,44.71,24.59
+TXN-10328,2023-04-30,CUST-1277,66,Female,Electronics,4K Monitor 27in,1,720.64,0.0,UPI / Direct Debit,720.64,0.0,720.64,122.51
+TXN-10329,2023-04-30,CUST-1304,47,Male,Beauty & Personal Care,Sunscreen SPF 50,1,74.12,0.0,Cash on Delivery,74.12,0.0,74.12,40.77
+TXN-10330,2023-05-01,CUST-1384,48,Male,Clothing,Leather Jacket,1,118.81,0.15,UPI / Direct Debit,118.81,17.82,100.99,45.45
+TXN-10331,2023-05-01,CUST-1392,45,Male,Clothing,Classic Cotton T-Shirt,1,40.0,0.1,Credit Card,40.0,4.0,36.0,16.2
+TXN-10332,2023-05-01,CUST-1135,39,Male,Sports & Outdoors,Cycling Helmet,1,58.58,0.0,Credit Card,58.58,0.0,58.58,20.5
+TXN-10333,2023-05-02,CUST-1195,61,Female,Electronics,Wireless Earbuds,1,380.36,0.0,Credit Card,380.36,0.0,380.36,64.66
+TXN-10334,2023-05-02,CUST-1128,45,Male,Home & Kitchen,Espresso Coffee Maker,1,166.43,0.05,Digital Wallet,166.43,8.32,158.11,47.43
+TXN-10335,2023-05-03,CUST-1033,30,Other,Beauty & Personal Care,Electric Toothbrush,1,43.75,0.0,Digital Wallet,43.75,0.0,43.75,24.06
+TXN-10336,2023-05-03,CUST-1176,42,Male,Electronics,Bluetooth Speaker,1,841.26,0.0,Digital Wallet,841.26,0.0,841.26,143.01
+TXN-10337,2023-05-03,CUST-1371,61,Female,Home & Kitchen,Blender 1000W,1,55.63,0.0,Cash on Delivery,55.63,0.0,55.63,16.69
+TXN-10338,2023-05-04,CUST-1375,68,Female,Sports & Outdoors,Camping Tent 4-Person,1,32.8,0.0,UPI / Direct Debit,32.8,0.0,32.8,11.48
+TXN-10339,2023-05-04,CUST-1022,63,Male,Electronics,Wireless Earbuds,4,518.94,0.15,Digital Wallet,2075.76,311.36,1764.4,299.95
+TXN-10340,2023-05-04,CUST-1238,24,Male,Beauty & Personal Care,Electric Toothbrush,3,65.83,0.0,Digital Wallet,197.49,0.0,197.49,108.62
+TXN-10341,2023-05-05,CUST-1158,62,Female,Clothing,Slim Fit Denim Jeans,2,45.14,0.0,UPI / Direct Debit,90.28,0.0,90.28,40.63
+TXN-10342,2023-05-05,CUST-1038,23,Female,Home & Kitchen,Air Fryer Deluxe,1,268.51,0.05,Credit Card,268.51,13.43,255.08,76.52
+TXN-10343,2023-05-05,CUST-1230,41,Male,Home & Kitchen,Robot Vacuum Cleaner,2,129.58,0.15,UPI / Direct Debit,259.16,38.87,220.29,66.09
+TXN-10344,2023-05-06,CUST-1365,36,Male,Clothing,Summer Floral Dress,3,135.18,0.0,Credit Card,405.54,0.0,405.54,182.49
+TXN-10345,2023-05-06,CUST-1051,36,Male,Sports & Outdoors,Adjustable Dumbbells Set,2,226.53,0.0,Credit Card,453.06,0.0,453.06,158.57
+TXN-10346,2023-05-07,CUST-1264,53,Male,Sports & Outdoors,Running Hydration Backpack,1,91.89,0.0,Digital Wallet,91.89,0.0,91.89,32.16
+TXN-10347,2023-05-07,CUST-1283,68,Female,Home & Kitchen,Blender 1000W,2,118.72,0.1,Digital Wallet,237.44,23.74,213.7,64.11
+TXN-10348,2023-05-07,CUST-1027,26,Female,Beauty & Personal Care,Hydrating Face Serum,3,43.96,0.05,Credit Card,131.88,6.59,125.29,68.91
+TXN-10349,2023-05-08,CUST-1226,65,Male,Home & Kitchen,Air Fryer Deluxe,2,122.55,0.15,UPI / Direct Debit,245.1,36.76,208.34,62.5
+TXN-10350,2023-05-08,CUST-1277,53,Other,Clothing,Hooded Sweatshirt,2,107.4,0.2,Cash on Delivery,214.8,42.96,171.84,77.33
+TXN-10351,2023-05-08,CUST-1286,55,Male,Home & Kitchen,Espresso Coffee Maker,1,335.69,0.15,Debit Card,335.69,50.35,285.34,85.6
+TXN-10352,2023-05-09,CUST-1097,57,Female,Clothing,Summer Floral Dress,1,107.49,0.1,UPI / Direct Debit,107.49,10.75,96.74,43.53
+TXN-10353,2023-05-09,CUST-1284,46,Male,Clothing,Slim Fit Denim Jeans,1,127.16,0.05,Debit Card,127.16,6.36,120.8,54.36
+TXN-10354,2023-05-09,CUST-1367,41,Male,Beauty & Personal Care,Hydrating Face Serum,2,42.87,0.0,Cash on Delivery,85.74,0.0,85.74,47.16
+TXN-10355,2023-05-10,CUST-1317,65,Male,Clothing,Slim Fit Denim Jeans,1,40.31,0.25,Digital Wallet,40.31,10.08,30.23,13.6
+TXN-10356,2023-05-10,CUST-1304,22,Male,Electronics,Smartphone Pro,1,906.51,0.0,UPI / Direct Debit,906.51,0.0,906.51,154.11
+TXN-10357,2023-05-11,CUST-1147,59,Female,Electronics,Wireless Earbuds,1,483.73,0.0,Credit Card,483.73,0.0,483.73,82.23
+TXN-10358,2023-05-11,CUST-1004,62,Female,Clothing,Hooded Sweatshirt,1,107.26,0.1,Digital Wallet,107.26,10.73,96.53,43.44
+TXN-10359,2023-05-11,CUST-1035,43,Male,Home & Kitchen,Robot Vacuum Cleaner,1,133.51,0.0,Credit Card,133.51,0.0,133.51,40.05
+TXN-10360,2023-05-12,CUST-1192,31,Female,Clothing,Hooded Sweatshirt,2,30.55,0.05,Debit Card,61.1,3.06,58.04,26.12
+TXN-10361,2023-05-12,CUST-1049,56,Male,Home & Kitchen,Non-Stick Cookware Set,2,396.3,0.05,Credit Card,792.6,39.63,752.97,225.89
+TXN-10362,2023-05-12,CUST-1017,46,Female,Clothing,Leather Jacket,1,40.3,0.05,UPI / Direct Debit,40.3,2.02,38.28,17.23
+TXN-10363,2023-05-13,CUST-1172,69,Male,Home & Kitchen,Robot Vacuum Cleaner,1,394.79,0.15,UPI / Direct Debit,394.79,59.22,335.57,100.67
+TXN-10364,2023-05-13,CUST-1220,23,Male,Clothing,Summer Floral Dress,1,147.04,0.0,Credit Card,147.04,0.0,147.04,66.17
+TXN-10365,2023-05-13,CUST-1158,24,Male,Clothing,Summer Floral Dress,3,123.19,0.05,Digital Wallet,369.57,18.48,351.09,157.99
+TXN-10366,2023-05-14,CUST-1046,54,Female,Home & Kitchen,Non-Stick Cookware Set,1,275.03,0.05,Credit Card,275.03,13.75,261.28,78.38
+TXN-10367,2023-05-14,CUST-1373,35,Female,Beauty & Personal Care,Sunscreen SPF 50,1,56.7,0.1,Cash on Delivery,56.7,5.67,51.03,28.07
+TXN-10368,2023-05-15,CUST-1006,40,Male,Clothing,Classic Cotton T-Shirt,1,132.58,0.15,Cash on Delivery,132.58,19.89,112.69,50.71
+TXN-10369,2023-05-15,CUST-1099,61,Male,Electronics,Smartphone Pro,2,404.17,0.0,Credit Card,808.34,0.0,808.34,137.42
+TXN-10370,2023-05-15,CUST-1380,55,Male,Electronics,4K Monitor 27in,3,603.8,0.1,Debit Card,1811.4,181.14,1630.26,277.14
+TXN-10371,2023-05-16,CUST-1233,18,Female,Electronics,4K Monitor 27in,3,773.72,0.0,Credit Card,2321.16,0.0,2321.16,394.6
+TXN-10372,2023-05-16,CUST-1037,21,Female,Home & Kitchen,Air Fryer Deluxe,2,184.67,0.2,Debit Card,369.34,73.87,295.47,88.64
+TXN-10373,2023-05-16,CUST-1280,68,Male,Clothing,Classic Cotton T-Shirt,1,75.56,0.0,UPI / Direct Debit,75.56,0.0,75.56,34.0
+TXN-10374,2023-05-17,CUST-1349,61,Male,Clothing,Slim Fit Denim Jeans,1,62.93,0.1,Credit Card,62.93,6.29,56.64,25.49
+TXN-10375,2023-05-17,CUST-1302,64,Female,Clothing,Slim Fit Denim Jeans,1,93.34,0.0,UPI / Direct Debit,93.34,0.0,93.34,42.0
+TXN-10376,2023-05-17,CUST-1181,52,Male,Electronics,Smartphone Pro,1,1032.64,0.0,Debit Card,1032.64,0.0,1032.64,175.55
+TXN-10377,2023-05-18,CUST-1095,40,Male,Clothing,Slim Fit Denim Jeans,1,46.19,0.05,Digital Wallet,46.19,2.31,43.88,19.75
+TXN-10378,2023-05-18,CUST-1099,44,Male,Electronics,Bluetooth Speaker,1,1126.57,0.15,Credit Card,1126.57,168.99,957.58,162.79
+TXN-10379,2023-05-19,CUST-1188,43,Male,Clothing,Summer Floral Dress,1,109.57,0.05,UPI / Direct Debit,109.57,5.48,104.09,46.84
+TXN-10380,2023-05-19,CUST-1116,69,Female,Electronics,4K Monitor 27in,4,1002.07,0.2,Credit Card,4008.28,801.66,3206.62,545.13
+TXN-10381,2023-05-19,CUST-1191,25,Female,Beauty & Personal Care,Hydrating Face Serum,2,55.05,0.05,Cash on Delivery,110.1,5.5,104.6,57.53
+TXN-10382,2023-05-20,CUST-1253,60,Male,Electronics,Smartwatch Ultra,3,953.06,0.05,Credit Card,2859.18,142.96,2716.22,461.76
+TXN-10383,2023-05-20,CUST-1161,33,Female,Sports & Outdoors,Yoga Mat Non-Slip,2,28.65,0.0,Debit Card,57.3,0.0,57.3,20.05
+TXN-10384,2023-05-20,CUST-1256,58,Male,Clothing,Slim Fit Denim Jeans,1,126.38,0.15,Credit Card,126.38,18.96,107.42,48.34
+TXN-10385,2023-05-21,CUST-1323,20,Female,Beauty & Personal Care,Sunscreen SPF 50,2,15.57,0.0,UPI / Direct Debit,31.14,0.0,31.14,17.13
+TXN-10386,2023-05-21,CUST-1128,49,Female,Home & Kitchen,Espresso Coffee Maker,1,358.93,0.15,Cash on Delivery,358.93,53.84,305.09,91.53
+TXN-10387,2023-05-21,CUST-1018,22,Female,Home & Kitchen,Robot Vacuum Cleaner,2,396.07,0.2,Debit Card,792.14,158.43,633.71,190.11
+TXN-10388,2023-05-22,CUST-1281,37,Male,Home & Kitchen,Espresso Coffee Maker,1,142.04,0.2,Debit Card,142.04,28.41,113.63,34.09
+TXN-10389,2023-05-22,CUST-1223,31,Male,Clothing,Leather Jacket,5,47.33,0.05,UPI / Direct Debit,236.65,11.83,224.82,101.17
+TXN-10390,2023-05-23,CUST-1054,49,Male,Clothing,Leather Jacket,1,119.49,0.1,Cash on Delivery,119.49,11.95,107.54,48.39
+TXN-10391,2023-05-23,CUST-1058,43,Female,Clothing,Slim Fit Denim Jeans,1,52.88,0.1,UPI / Direct Debit,52.88,5.29,47.59,21.42
+TXN-10392,2023-05-23,CUST-1323,64,Male,Clothing,Slim Fit Denim Jeans,4,132.51,0.0,Digital Wallet,530.04,0.0,530.04,238.52
+TXN-10393,2023-05-24,CUST-1360,23,Female,Electronics,Bluetooth Speaker,1,195.18,0.1,UPI / Direct Debit,195.18,19.52,175.66,29.86
+TXN-10394,2023-05-24,CUST-1174,53,Other,Clothing,Hooded Sweatshirt,2,36.36,0.0,UPI / Direct Debit,72.72,0.0,72.72,32.72
+TXN-10395,2023-05-24,CUST-1280,57,Female,Home & Kitchen,Robot Vacuum Cleaner,2,391.41,0.05,Credit Card,782.82,39.14,743.68,223.1
+TXN-10396,2023-05-25,CUST-1114,68,Female,Clothing,Summer Floral Dress,3,107.59,0.0,UPI / Direct Debit,322.77,0.0,322.77,145.25
+TXN-10397,2023-05-25,CUST-1288,22,Male,Beauty & Personal Care,Perfume Eau de Parfum,5,77.29,0.0,Credit Card,386.45,0.0,386.45,212.55
+TXN-10398,2023-05-25,CUST-1342,30,Male,Home & Kitchen,Non-Stick Cookware Set,5,153.06,0.0,Cash on Delivery,765.3,0.0,765.3,229.59
+TXN-10399,2023-05-26,CUST-1151,49,Male,Sports & Outdoors,Camping Tent 4-Person,1,177.21,0.05,Debit Card,177.21,8.86,168.35,58.92
+TXN-10400,2023-05-26,CUST-1127,33,Female,Clothing,Classic Cotton T-Shirt,3,97.24,0.1,Digital Wallet,291.72,29.17,262.55,118.15
+TXN-10401,2023-05-27,CUST-1155,18,Male,Clothing,Classic Cotton T-Shirt,2,98.4,0.0,Credit Card,196.8,0.0,196.8,88.56
+TXN-10402,2023-05-27,CUST-1386,30,Female,Clothing,Hooded Sweatshirt,2,108.72,0.05,Credit Card,217.44,10.87,206.57,92.96
+TXN-10403,2023-05-27,CUST-1273,28,Male,Clothing,Leather Jacket,1,94.79,0.0,Cash on Delivery,94.79,0.0,94.79,42.66
+TXN-10404,2023-05-28,CUST-1104,25,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,2,45.32,0.05,UPI / Direct Debit,90.64,4.53,86.11,47.36
+TXN-10405,2023-05-28,CUST-1393,42,Female,Electronics,Smartwatch Ultra,5,389.03,0.1,UPI / Direct Debit,1945.15,194.52,1750.63,297.61
+TXN-10406,2023-05-28,CUST-1299,57,Male,Home & Kitchen,Blender 1000W,3,314.76,0.05,Cash on Delivery,944.28,47.21,897.07,269.12
+TXN-10407,2023-05-29,CUST-1246,49,Male,Clothing,Summer Floral Dress,1,49.41,0.1,UPI / Direct Debit,49.41,4.94,44.47,20.01
+TXN-10408,2023-05-29,CUST-1176,41,Female,Home & Kitchen,Air Fryer Deluxe,1,287.02,0.0,Credit Card,287.02,0.0,287.02,86.11
+TXN-10409,2023-05-29,CUST-1039,45,Male,Home & Kitchen,Blender 1000W,1,119.93,0.1,Cash on Delivery,119.93,11.99,107.94,32.38
+TXN-10410,2023-05-30,CUST-1170,31,Male,Clothing,Hooded Sweatshirt,3,101.28,0.05,Credit Card,303.84,15.19,288.65,129.89
+TXN-10411,2023-05-30,CUST-1247,62,Male,Clothing,Summer Floral Dress,2,117.11,0.05,Cash on Delivery,234.22,11.71,222.51,100.13
+TXN-10412,2023-05-31,CUST-1026,20,Female,Clothing,Hooded Sweatshirt,1,48.42,0.1,Credit Card,48.42,4.84,43.58,19.61
+TXN-10413,2023-05-31,CUST-1355,53,Female,Electronics,Wireless Earbuds,1,147.14,0.0,Debit Card,147.14,0.0,147.14,25.01
+TXN-10414,2023-05-31,CUST-1306,44,Female,Clothing,Classic Cotton T-Shirt,1,37.02,0.1,Credit Card,37.02,3.7,33.32,14.99
+TXN-10415,2023-06-01,CUST-1013,37,Male,Electronics,4K Monitor 27in,1,758.72,0.1,Debit Card,758.72,75.87,682.85,116.08
+TXN-10416,2023-06-01,CUST-1316,64,Male,Clothing,Hooded Sweatshirt,4,130.42,0.0,Credit Card,521.68,0.0,521.68,234.76
+TXN-10417,2023-06-01,CUST-1391,32,Male,Clothing,Leather Jacket,2,25.84,0.0,Cash on Delivery,51.68,0.0,51.68,23.26
+TXN-10418,2023-06-02,CUST-1313,44,Other,Clothing,Classic Cotton T-Shirt,1,115.43,0.0,UPI / Direct Debit,115.43,0.0,115.43,51.94
+TXN-10419,2023-06-02,CUST-1036,62,Male,Home & Kitchen,Espresso Coffee Maker,1,159.24,0.2,Credit Card,159.24,31.85,127.39,38.22
+TXN-10420,2023-06-02,CUST-1173,58,Male,Electronics,Smartwatch Ultra,1,615.95,0.1,Debit Card,615.95,61.6,554.35,94.24
+TXN-10421,2023-06-03,CUST-1020,45,Female,Home & Kitchen,Espresso Coffee Maker,5,373.1,0.0,UPI / Direct Debit,1865.5,0.0,1865.5,559.65
+TXN-10422,2023-06-03,CUST-1321,42,Female,Clothing,Slim Fit Denim Jeans,1,63.15,0.0,Credit Card,63.15,0.0,63.15,28.42
+TXN-10423,2023-06-04,CUST-1264,59,Male,Clothing,Summer Floral Dress,1,80.48,0.05,Credit Card,80.48,4.02,76.46,34.41
+TXN-10424,2023-06-04,CUST-1142,61,Male,Beauty & Personal Care,Electric Toothbrush,1,13.55,0.15,UPI / Direct Debit,13.55,2.03,11.52,6.34
+TXN-10425,2023-06-04,CUST-1371,63,Male,Electronics,Smartwatch Ultra,2,171.39,0.0,Credit Card,342.78,0.0,342.78,58.27
+TXN-10426,2023-06-05,CUST-1143,50,Male,Clothing,Leather Jacket,2,53.61,0.0,Credit Card,107.22,0.0,107.22,48.25
+TXN-10427,2023-06-05,CUST-1092,63,Female,Clothing,Hooded Sweatshirt,2,23.61,0.15,Credit Card,47.22,7.08,40.14,18.06
+TXN-10428,2023-06-05,CUST-1354,31,Female,Clothing,Leather Jacket,1,102.07,0.0,UPI / Direct Debit,102.07,0.0,102.07,45.93
+TXN-10429,2023-06-06,CUST-1322,25,Female,Electronics,Wireless Earbuds,1,557.57,0.0,UPI / Direct Debit,557.57,0.0,557.57,94.79
+TXN-10430,2023-06-06,CUST-1288,65,Male,Electronics,Smartphone Pro,1,693.92,0.2,Credit Card,693.92,138.78,555.14,94.37
+TXN-10431,2023-06-06,CUST-1215,31,Male,Beauty & Personal Care,Sunscreen SPF 50,2,25.86,0.1,Digital Wallet,51.72,5.17,46.55,25.6
+TXN-10432,2023-06-07,CUST-1342,18,Male,Clothing,Hooded Sweatshirt,1,58.46,0.0,Cash on Delivery,58.46,0.0,58.46,26.31
+TXN-10433,2023-06-07,CUST-1051,33,Male,Clothing,Leather Jacket,2,106.29,0.0,Credit Card,212.58,0.0,212.58,95.66
+TXN-10434,2023-06-08,CUST-1153,35,Female,Clothing,Slim Fit Denim Jeans,3,145.48,0.0,Credit Card,436.44,0.0,436.44,196.4
+TXN-10435,2023-06-08,CUST-1186,24,Male,Home & Kitchen,Espresso Coffee Maker,3,53.35,0.0,Digital Wallet,160.05,0.0,160.05,48.02
+TXN-10436,2023-06-08,CUST-1063,32,Male,Electronics,Bluetooth Speaker,1,1077.23,0.15,UPI / Direct Debit,1077.23,161.58,915.65,155.66
+TXN-10437,2023-06-09,CUST-1190,41,Male,Clothing,Slim Fit Denim Jeans,1,94.98,0.05,Credit Card,94.98,4.75,90.23,40.6
+TXN-10438,2023-06-09,CUST-1125,66,Male,Clothing,Summer Floral Dress,1,93.3,0.1,UPI / Direct Debit,93.3,9.33,83.97,37.79
+TXN-10439,2023-06-09,CUST-1150,68,Male,Sports & Outdoors,Yoga Mat Non-Slip,2,137.56,0.2,Debit Card,275.12,55.02,220.1,77.04
+TXN-10440,2023-06-10,CUST-1314,30,Female,Electronics,Smartwatch Ultra,3,157.72,0.05,Credit Card,473.16,23.66,449.5,76.41
+TXN-10441,2023-06-10,CUST-1058,26,Male,Clothing,Classic Cotton T-Shirt,1,31.67,0.0,Debit Card,31.67,0.0,31.67,14.25
+TXN-10442,2023-06-10,CUST-1342,32,Female,Clothing,Hooded Sweatshirt,1,98.11,0.05,Debit Card,98.11,4.91,93.2,41.94
+TXN-10443,2023-06-11,CUST-1305,52,Male,Home & Kitchen,Blender 1000W,3,159.11,0.2,UPI / Direct Debit,477.33,95.47,381.86,114.56
+TXN-10444,2023-06-11,CUST-1180,41,Male,Clothing,Slim Fit Denim Jeans,3,139.23,0.15,Cash on Delivery,417.69,62.65,355.04,159.77
+TXN-10445,2023-06-12,CUST-1170,50,Female,Clothing,Leather Jacket,1,72.85,0.0,Credit Card,72.85,0.0,72.85,32.78
+TXN-10446,2023-06-12,CUST-1326,33,Male,Beauty & Personal Care,Electric Toothbrush,2,23.46,0.1,UPI / Direct Debit,46.92,4.69,42.23,23.23
+TXN-10447,2023-06-12,CUST-1271,25,Female,Home & Kitchen,Air Fryer Deluxe,1,295.16,0.05,UPI / Direct Debit,295.16,14.76,280.4,84.12
+TXN-10448,2023-06-13,CUST-1054,46,Male,Clothing,Leather Jacket,1,58.13,0.2,UPI / Direct Debit,58.13,11.63,46.5,20.93
+TXN-10449,2023-06-13,CUST-1101,40,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,3,52.7,0.0,Credit Card,158.1,0.0,158.1,86.95
+TXN-10450,2023-06-13,CUST-1264,62,Female,Clothing,Summer Floral Dress,3,110.71,0.05,UPI / Direct Debit,332.13,16.61,315.52,141.98
+TXN-10451,2023-06-14,CUST-1053,48,Female,Clothing,Leather Jacket,2,137.02,0.15,Credit Card,274.04,41.11,232.93,104.82
+TXN-10452,2023-06-14,CUST-1060,57,Female,Electronics,4K Monitor 27in,1,967.25,0.05,Credit Card,967.25,48.36,918.89,156.21
+TXN-10453,2023-06-15,CUST-1108,66,Female,Sports & Outdoors,Camping Tent 4-Person,3,177.18,0.05,Credit Card,531.54,26.58,504.96,176.74
+TXN-10454,2023-06-15,CUST-1005,31,Male,Electronics,Wireless Earbuds,1,841.19,0.0,Debit Card,841.19,0.0,841.19,143.0
+TXN-10455,2023-06-15,CUST-1103,47,Female,Electronics,Smartwatch Ultra,1,1139.44,0.0,Credit Card,1139.44,0.0,1139.44,193.7
+TXN-10456,2023-06-16,CUST-1196,56,Female,Electronics,Bluetooth Speaker,1,411.32,0.0,Debit Card,411.32,0.0,411.32,69.92
+TXN-10457,2023-06-16,CUST-1262,44,Male,Home & Kitchen,Espresso Coffee Maker,1,35.4,0.2,Credit Card,35.4,7.08,28.32,8.5
+TXN-10458,2023-06-16,CUST-1365,64,Male,Electronics,4K Monitor 27in,2,384.59,0.0,Credit Card,769.18,0.0,769.18,130.76
+TXN-10459,2023-06-17,CUST-1372,33,Female,Electronics,Wireless Earbuds,2,324.04,0.05,Credit Card,648.08,32.4,615.68,104.67
+TXN-10460,2023-06-17,CUST-1350,68,Female,Electronics,Smartwatch Ultra,1,821.25,0.1,Credit Card,821.25,82.12,739.13,125.65
+TXN-10461,2023-06-17,CUST-1047,23,Male,Electronics,Bluetooth Speaker,1,789.76,0.0,UPI / Direct Debit,789.76,0.0,789.76,134.26
+TXN-10462,2023-06-18,CUST-1355,50,Female,Clothing,Hooded Sweatshirt,1,97.14,0.05,UPI / Direct Debit,97.14,4.86,92.28,41.53
+TXN-10463,2023-06-18,CUST-1311,61,Male,Home & Kitchen,Air Fryer Deluxe,1,40.91,0.1,Digital Wallet,40.91,4.09,36.82,11.05
+TXN-10464,2023-06-19,CUST-1308,35,Male,Clothing,Leather Jacket,2,114.73,0.15,Digital Wallet,229.46,34.42,195.04,87.77
+TXN-10465,2023-06-19,CUST-1144,33,Female,Clothing,Hooded Sweatshirt,3,62.05,0.1,UPI / Direct Debit,186.15,18.62,167.53,75.39
+TXN-10466,2023-06-19,CUST-1269,29,Male,Home & Kitchen,Blender 1000W,1,277.08,0.1,Debit Card,277.08,27.71,249.37,74.81
+TXN-10467,2023-06-20,CUST-1370,37,Female,Electronics,Bluetooth Speaker,1,703.37,0.0,Credit Card,703.37,0.0,703.37,119.57
+TXN-10468,2023-06-20,CUST-1124,62,Male,Clothing,Leather Jacket,2,64.55,0.2,UPI / Direct Debit,129.1,25.82,103.28,46.48
+TXN-10469,2023-06-20,CUST-1106,57,Male,Sports & Outdoors,Adjustable Dumbbells Set,3,55.28,0.0,Debit Card,165.84,0.0,165.84,58.04
+TXN-10470,2023-06-21,CUST-1158,46,Male,Clothing,Summer Floral Dress,1,32.26,0.1,Credit Card,32.26,3.23,29.03,13.06
+TXN-10471,2023-06-21,CUST-1147,47,Female,Electronics,Smartphone Pro,1,1011.3,0.0,Credit Card,1011.3,0.0,1011.3,171.92
+TXN-10472,2023-06-21,CUST-1145,43,Male,Clothing,Hooded Sweatshirt,2,139.38,0.2,Credit Card,278.76,55.75,223.01,100.35
+TXN-10473,2023-06-22,CUST-1120,39,Male,Clothing,Slim Fit Denim Jeans,1,104.46,0.1,UPI / Direct Debit,104.46,10.45,94.01,42.3
+TXN-10474,2023-06-22,CUST-1319,50,Male,Clothing,Hooded Sweatshirt,1,33.44,0.1,UPI / Direct Debit,33.44,3.34,30.1,13.54
+TXN-10475,2023-06-23,CUST-1275,56,Male,Electronics,Smartphone Pro,2,530.27,0.0,UPI / Direct Debit,1060.54,0.0,1060.54,180.29
+TXN-10476,2023-06-23,CUST-1092,64,Male,Electronics,Smartphone Pro,2,896.41,0.05,UPI / Direct Debit,1792.82,89.64,1703.18,289.54
+TXN-10477,2023-06-23,CUST-1058,46,Male,Electronics,Bluetooth Speaker,2,953.4,0.1,UPI / Direct Debit,1906.8,190.68,1716.12,291.74
+TXN-10478,2023-06-24,CUST-1346,39,Female,Sports & Outdoors,Yoga Mat Non-Slip,2,51.6,0.1,Debit Card,103.2,10.32,92.88,32.51
+TXN-10479,2023-06-24,CUST-1229,62,Male,Home & Kitchen,Non-Stick Cookware Set,2,35.01,0.0,Credit Card,70.02,0.0,70.02,21.01
+TXN-10480,2023-06-24,CUST-1117,30,Female,Electronics,4K Monitor 27in,1,877.59,0.25,Debit Card,877.59,219.4,658.19,111.89
+TXN-10481,2023-06-25,CUST-1318,26,Female,Electronics,4K Monitor 27in,1,479.39,0.15,Debit Card,479.39,71.91,407.48,69.27
+TXN-10482,2023-06-25,CUST-1279,41,Male,Home & Kitchen,Robot Vacuum Cleaner,1,127.63,0.0,Debit Card,127.63,0.0,127.63,38.29
+TXN-10483,2023-06-25,CUST-1127,32,Male,Electronics,Smartwatch Ultra,1,94.45,0.15,Debit Card,94.45,14.17,80.28,13.65
+TXN-10484,2023-06-26,CUST-1393,53,Female,Electronics,Smartwatch Ultra,2,685.14,0.05,UPI / Direct Debit,1370.28,68.51,1301.77,221.3
+TXN-10485,2023-06-26,CUST-1396,30,Female,Sports & Outdoors,Yoga Mat Non-Slip,3,216.51,0.05,Credit Card,649.53,32.48,617.05,215.97
+TXN-10486,2023-06-27,CUST-1129,44,Male,Electronics,Smartwatch Ultra,4,1152.55,0.0,UPI / Direct Debit,4610.2,0.0,4610.2,783.73
+TXN-10487,2023-06-27,CUST-1058,61,Female,Home & Kitchen,Espresso Coffee Maker,2,240.93,0.05,Digital Wallet,481.86,24.09,457.77,137.33
+TXN-10488,2023-06-27,CUST-1122,54,Male,Sports & Outdoors,Yoga Mat Non-Slip,1,140.75,0.1,UPI / Direct Debit,140.75,14.08,126.67,44.33
+TXN-10489,2023-06-28,CUST-1001,24,Male,Clothing,Slim Fit Denim Jeans,1,31.05,0.05,Credit Card,31.05,1.55,29.5,13.28
+TXN-10490,2023-06-28,CUST-1239,25,Male,Electronics,Bluetooth Speaker,3,694.74,0.1,Credit Card,2084.22,208.42,1875.8,318.89
+TXN-10491,2023-06-28,CUST-1290,54,Female,Electronics,4K Monitor 27in,2,505.58,0.1,Digital Wallet,1011.16,101.12,910.04,154.71
+TXN-10492,2023-06-29,CUST-1096,58,Female,Beauty & Personal Care,Perfume Eau de Parfum,2,58.95,0.1,Credit Card,117.9,11.79,106.11,58.36
+TXN-10493,2023-06-29,CUST-1126,31,Female,Beauty & Personal Care,Electric Toothbrush,2,42.24,0.0,Credit Card,84.48,0.0,84.48,46.46
+TXN-10494,2023-06-29,CUST-1118,29,Male,Home & Kitchen,Robot Vacuum Cleaner,2,122.47,0.15,UPI / Direct Debit,244.94,36.74,208.2,62.46
+TXN-10495,2023-06-30,CUST-1048,53,Female,Electronics,Smartwatch Ultra,3,186.36,0.05,Digital Wallet,559.08,27.95,531.13,90.29
+TXN-10496,2023-06-30,CUST-1089,69,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,36.59,0.0,Credit Card,36.59,0.0,36.59,20.12
+TXN-10497,2023-07-01,CUST-1237,57,Female,Sports & Outdoors,Camping Tent 4-Person,2,46.75,0.0,UPI / Direct Debit,93.5,0.0,93.5,32.73
+TXN-10498,2023-07-01,CUST-1373,34,Male,Home & Kitchen,Air Fryer Deluxe,3,99.39,0.05,UPI / Direct Debit,298.17,14.91,283.26,84.98
+TXN-10499,2023-07-01,CUST-1385,57,Male,Sports & Outdoors,Adjustable Dumbbells Set,1,247.15,0.15,Credit Card,247.15,37.07,210.08,73.53
+TXN-10500,2023-07-02,CUST-1272,46,Male,Beauty & Personal Care,Hydrating Face Serum,2,46.47,0.0,Cash on Delivery,92.94,0.0,92.94,51.12
+TXN-10501,2023-07-02,CUST-1189,44,Female,Home & Kitchen,Espresso Coffee Maker,1,228.6,0.1,UPI / Direct Debit,228.6,22.86,205.74,61.72
+TXN-10502,2023-07-02,CUST-1192,18,Male,Clothing,Slim Fit Denim Jeans,4,133.56,0.0,UPI / Direct Debit,534.24,0.0,534.24,240.41
+TXN-10503,2023-07-03,CUST-1069,69,Male,Clothing,Leather Jacket,1,149.41,0.05,Cash on Delivery,149.41,7.47,141.94,63.87
+TXN-10504,2023-07-03,CUST-1278,51,Male,Electronics,4K Monitor 27in,2,732.64,0.25,Digital Wallet,1465.28,366.32,1098.96,186.82
+TXN-10505,2023-07-03,CUST-1349,21,Other,Home & Kitchen,Blender 1000W,1,330.74,0.1,UPI / Direct Debit,330.74,33.07,297.67,89.3
+TXN-10506,2023-07-04,CUST-1247,41,Female,Clothing,Slim Fit Denim Jeans,2,62.49,0.0,Credit Card,124.98,0.0,124.98,56.24
+TXN-10507,2023-07-04,CUST-1076,38,Female,Beauty & Personal Care,Sunscreen SPF 50,1,35.89,0.05,Cash on Delivery,35.89,1.79,34.1,18.76
+TXN-10508,2023-07-05,CUST-1154,50,Male,Sports & Outdoors,Running Hydration Backpack,1,115.61,0.0,UPI / Direct Debit,115.61,0.0,115.61,40.46
+TXN-10509,2023-07-05,CUST-1144,24,Male,Home & Kitchen,Air Fryer Deluxe,1,279.79,0.05,Digital Wallet,279.79,13.99,265.8,79.74
+TXN-10510,2023-07-05,CUST-1086,18,Female,Electronics,Smartphone Pro,3,844.05,0.15,Digital Wallet,2532.15,379.82,2152.33,365.9
+TXN-10511,2023-07-06,CUST-1185,58,Male,Clothing,Leather Jacket,1,60.97,0.1,Credit Card,60.97,6.1,54.87,24.69
+TXN-10512,2023-07-06,CUST-1285,20,Male,Electronics,Wireless Earbuds,1,229.2,0.0,Digital Wallet,229.2,0.0,229.2,38.96
+TXN-10513,2023-07-06,CUST-1220,61,Male,Home & Kitchen,Air Fryer Deluxe,2,265.19,0.2,UPI / Direct Debit,530.38,106.08,424.3,127.29
+TXN-10514,2023-07-07,CUST-1069,68,Female,Home & Kitchen,Air Fryer Deluxe,1,81.71,0.05,UPI / Direct Debit,81.71,4.09,77.62,23.29
+TXN-10515,2023-07-07,CUST-1047,32,Male,Sports & Outdoors,Adjustable Dumbbells Set,3,155.16,0.0,Credit Card,465.48,0.0,465.48,162.92
+TXN-10516,2023-07-07,CUST-1094,48,Female,Clothing,Leather Jacket,1,110.13,0.05,Cash on Delivery,110.13,5.51,104.62,47.08
+TXN-10517,2023-07-08,CUST-1238,33,Female,Sports & Outdoors,Yoga Mat Non-Slip,2,182.64,0.1,UPI / Direct Debit,365.28,36.53,328.75,115.06
+TXN-10518,2023-07-08,CUST-1204,27,Male,Beauty & Personal Care,Perfume Eau de Parfum,1,70.14,0.05,UPI / Direct Debit,70.14,3.51,66.63,36.65
+TXN-10519,2023-07-09,CUST-1218,46,Male,Clothing,Summer Floral Dress,1,133.46,0.05,Digital Wallet,133.46,6.67,126.79,57.06
+TXN-10520,2023-07-09,CUST-1341,23,Other,Beauty & Personal Care,Perfume Eau de Parfum,2,50.75,0.05,UPI / Direct Debit,101.5,5.08,96.42,53.03
+TXN-10521,2023-07-09,CUST-1039,46,Female,Clothing,Hooded Sweatshirt,2,114.92,0.0,UPI / Direct Debit,229.84,0.0,229.84,103.43
+TXN-10522,2023-07-10,CUST-1100,34,Female,Clothing,Hooded Sweatshirt,2,100.48,0.15,Cash on Delivery,200.96,30.14,170.82,76.87
+TXN-10523,2023-07-10,CUST-1289,39,Female,Home & Kitchen,Robot Vacuum Cleaner,1,102.94,0.05,Debit Card,102.94,5.15,97.79,29.34
+TXN-10524,2023-07-10,CUST-1254,41,Male,Clothing,Hooded Sweatshirt,1,23.33,0.0,Digital Wallet,23.33,0.0,23.33,10.5
+TXN-10525,2023-07-11,CUST-1222,34,Female,Home & Kitchen,Blender 1000W,1,138.57,0.1,Digital Wallet,138.57,13.86,124.71,37.41
+TXN-10526,2023-07-11,CUST-1357,38,Male,Home & Kitchen,Espresso Coffee Maker,5,196.26,0.2,UPI / Direct Debit,981.3,196.26,785.04,235.51
+TXN-10527,2023-07-11,CUST-1023,68,Female,Clothing,Hooded Sweatshirt,1,100.21,0.2,UPI / Direct Debit,100.21,20.04,80.17,36.08
+TXN-10528,2023-07-12,CUST-1250,67,Female,Clothing,Hooded Sweatshirt,1,130.48,0.0,Credit Card,130.48,0.0,130.48,58.72
+TXN-10529,2023-07-12,CUST-1010,28,Female,Clothing,Leather Jacket,1,45.5,0.0,Debit Card,45.5,0.0,45.5,20.48
+TXN-10530,2023-07-13,CUST-1246,24,Female,Clothing,Summer Floral Dress,2,36.31,0.05,UPI / Direct Debit,72.62,3.63,68.99,31.05
+TXN-10531,2023-07-13,CUST-1325,59,Female,Clothing,Slim Fit Denim Jeans,1,145.24,0.0,Debit Card,145.24,0.0,145.24,65.36
+TXN-10532,2023-07-13,CUST-1100,56,Male,Clothing,Leather Jacket,3,34.04,0.2,Credit Card,102.12,20.42,81.7,36.77
+TXN-10533,2023-07-14,CUST-1290,22,Female,Electronics,Bluetooth Speaker,1,615.91,0.0,Credit Card,615.91,0.0,615.91,104.7
+TXN-10534,2023-07-14,CUST-1180,61,Male,Clothing,Summer Floral Dress,3,96.11,0.0,Credit Card,288.33,0.0,288.33,129.75
+TXN-10535,2023-07-14,CUST-1223,65,Female,Electronics,Wireless Earbuds,1,686.34,0.05,Credit Card,686.34,34.32,652.02,110.84
+TXN-10536,2023-07-15,CUST-1394,38,Male,Home & Kitchen,Blender 1000W,2,66.32,0.0,UPI / Direct Debit,132.64,0.0,132.64,39.79
+TXN-10537,2023-07-15,CUST-1250,35,Male,Home & Kitchen,Espresso Coffee Maker,3,55.76,0.15,Credit Card,167.28,25.09,142.19,42.66
+TXN-10538,2023-07-15,CUST-1147,52,Female,Clothing,Summer Floral Dress,1,33.7,0.05,Credit Card,33.7,1.69,32.01,14.4
+TXN-10539,2023-07-16,CUST-1096,37,Other,Clothing,Leather Jacket,4,96.12,0.0,Credit Card,384.48,0.0,384.48,173.02
+TXN-10540,2023-07-16,CUST-1257,32,Male,Sports & Outdoors,Cycling Helmet,1,147.48,0.0,Debit Card,147.48,0.0,147.48,51.62
+TXN-10541,2023-07-17,CUST-1325,22,Female,Beauty & Personal Care,Hydrating Face Serum,4,30.38,0.05,Cash on Delivery,121.52,6.08,115.44,63.49
+TXN-10542,2023-07-17,CUST-1004,30,Female,Sports & Outdoors,Running Hydration Backpack,2,168.5,0.0,Credit Card,337.0,0.0,337.0,117.95
+TXN-10543,2023-07-17,CUST-1016,68,Female,Beauty & Personal Care,Electric Toothbrush,1,75.24,0.1,Debit Card,75.24,7.52,67.72,37.25
+TXN-10544,2023-07-18,CUST-1280,29,Male,Electronics,Smartphone Pro,1,126.57,0.05,UPI / Direct Debit,126.57,6.33,120.24,20.44
+TXN-10545,2023-07-18,CUST-1336,38,Female,Electronics,Smartwatch Ultra,1,637.91,0.1,Credit Card,637.91,63.79,574.12,97.6
+TXN-10546,2023-07-18,CUST-1247,54,Female,Clothing,Summer Floral Dress,1,109.6,0.2,UPI / Direct Debit,109.6,21.92,87.68,39.46
+TXN-10547,2023-07-19,CUST-1258,23,Male,Electronics,Wireless Earbuds,1,362.59,0.2,Credit Card,362.59,72.52,290.07,49.31
+TXN-10548,2023-07-19,CUST-1384,24,Female,Clothing,Hooded Sweatshirt,1,60.0,0.2,Debit Card,60.0,12.0,48.0,21.6
+TXN-10549,2023-07-19,CUST-1160,43,Female,Clothing,Leather Jacket,1,99.76,0.0,Credit Card,99.76,0.0,99.76,44.89
+TXN-10550,2023-07-20,CUST-1340,59,Female,Clothing,Classic Cotton T-Shirt,2,136.72,0.0,Digital Wallet,273.44,0.0,273.44,123.05
+TXN-10551,2023-07-20,CUST-1152,65,Male,Home & Kitchen,Non-Stick Cookware Set,1,329.81,0.0,Credit Card,329.81,0.0,329.81,98.94
+TXN-10552,2023-07-21,CUST-1396,25,Male,Home & Kitchen,Non-Stick Cookware Set,1,247.26,0.15,UPI / Direct Debit,247.26,37.09,210.17,63.05
+TXN-10553,2023-07-21,CUST-1178,26,Female,Clothing,Leather Jacket,2,114.92,0.25,Digital Wallet,229.84,57.46,172.38,77.57
+TXN-10554,2023-07-21,CUST-1163,44,Male,Beauty & Personal Care,Electric Toothbrush,1,40.41,0.15,Credit Card,40.41,6.06,34.35,18.89
+TXN-10555,2023-07-22,CUST-1380,21,Female,Clothing,Slim Fit Denim Jeans,1,103.32,0.0,UPI / Direct Debit,103.32,0.0,103.32,46.49
+TXN-10556,2023-07-22,CUST-1033,38,Male,Beauty & Personal Care,Perfume Eau de Parfum,1,48.16,0.2,UPI / Direct Debit,48.16,9.63,38.53,21.19
+TXN-10557,2023-07-22,CUST-1179,48,Male,Electronics,Wireless Earbuds,4,292.73,0.05,UPI / Direct Debit,1170.92,58.55,1112.37,189.1
+TXN-10558,2023-07-23,CUST-1101,38,Male,Sports & Outdoors,Camping Tent 4-Person,3,182.89,0.0,Credit Card,548.67,0.0,548.67,192.03
+TXN-10559,2023-07-23,CUST-1268,57,Female,Home & Kitchen,Non-Stick Cookware Set,1,237.55,0.05,Credit Card,237.55,11.88,225.67,67.7
+TXN-10560,2023-07-23,CUST-1323,42,Male,Clothing,Slim Fit Denim Jeans,2,66.61,0.0,UPI / Direct Debit,133.22,0.0,133.22,59.95
+TXN-10561,2023-07-24,CUST-1065,56,Female,Electronics,Smartphone Pro,1,1100.7,0.05,UPI / Direct Debit,1100.7,55.04,1045.66,177.76
+TXN-10562,2023-07-24,CUST-1168,32,Female,Clothing,Classic Cotton T-Shirt,2,22.71,0.0,UPI / Direct Debit,45.42,0.0,45.42,20.44
+TXN-10563,2023-07-25,CUST-1330,52,Female,Electronics,Bluetooth Speaker,2,433.67,0.05,Credit Card,867.34,43.37,823.97,140.07
+TXN-10564,2023-07-25,CUST-1043,66,Female,Electronics,4K Monitor 27in,2,143.71,0.1,Credit Card,287.42,28.74,258.68,43.98
+TXN-10565,2023-07-25,CUST-1044,60,Male,Home & Kitchen,Robot Vacuum Cleaner,1,314.02,0.15,UPI / Direct Debit,314.02,47.1,266.92,80.08
+TXN-10566,2023-07-26,CUST-1285,58,Male,Clothing,Leather Jacket,1,111.26,0.1,UPI / Direct Debit,111.26,11.13,100.13,45.06
+TXN-10567,2023-07-26,CUST-1397,54,Male,Home & Kitchen,Robot Vacuum Cleaner,1,155.61,0.05,UPI / Direct Debit,155.61,7.78,147.83,44.35
+TXN-10568,2023-07-26,CUST-1012,59,Female,Sports & Outdoors,Yoga Mat Non-Slip,3,177.02,0.15,Credit Card,531.06,79.66,451.4,157.99
+TXN-10569,2023-07-27,CUST-1095,64,Female,Clothing,Classic Cotton T-Shirt,2,71.46,0.2,Credit Card,142.92,28.58,114.34,51.45
+TXN-10570,2023-07-27,CUST-1302,45,Male,Clothing,Leather Jacket,3,118.3,0.0,Credit Card,354.9,0.0,354.9,159.7
+TXN-10571,2023-07-27,CUST-1386,31,Male,Electronics,Smartphone Pro,5,588.69,0.05,Credit Card,2943.45,147.17,2796.28,475.37
+TXN-10572,2023-07-28,CUST-1253,21,Female,Home & Kitchen,Blender 1000W,1,185.07,0.0,Credit Card,185.07,0.0,185.07,55.52
+TXN-10573,2023-07-28,CUST-1242,37,Male,Clothing,Leather Jacket,2,141.5,0.0,UPI / Direct Debit,283.0,0.0,283.0,127.35
+TXN-10574,2023-07-29,CUST-1035,51,Female,Sports & Outdoors,Yoga Mat Non-Slip,2,81.45,0.1,UPI / Direct Debit,162.9,16.29,146.61,51.31
+TXN-10575,2023-07-29,CUST-1215,29,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,5,21.71,0.15,UPI / Direct Debit,108.55,16.28,92.27,50.75
+TXN-10576,2023-07-29,CUST-1337,50,Female,Clothing,Leather Jacket,5,95.98,0.0,Credit Card,479.9,0.0,479.9,215.95
+TXN-10577,2023-07-30,CUST-1090,41,Male,Electronics,Bluetooth Speaker,2,1165.64,0.15,Credit Card,2331.28,349.69,1981.59,336.87
+TXN-10578,2023-07-30,CUST-1264,37,Male,Beauty & Personal Care,Electric Toothbrush,1,41.4,0.15,UPI / Direct Debit,41.4,6.21,35.19,19.35
+TXN-10579,2023-07-30,CUST-1093,22,Male,Beauty & Personal Care,Sunscreen SPF 50,2,17.25,0.2,Digital Wallet,34.5,6.9,27.6,15.18
+TXN-10580,2023-07-31,CUST-1090,55,Male,Electronics,Smartwatch Ultra,1,460.02,0.0,Debit Card,460.02,0.0,460.02,78.2
+TXN-10581,2023-07-31,CUST-1115,47,Male,Clothing,Summer Floral Dress,2,85.76,0.2,Debit Card,171.52,34.3,137.22,61.75
+TXN-10582,2023-07-31,CUST-1105,41,Male,Beauty & Personal Care,Electric Toothbrush,3,24.89,0.0,Cash on Delivery,74.67,0.0,74.67,41.07
+TXN-10583,2023-08-01,CUST-1391,60,Female,Electronics,4K Monitor 27in,1,817.07,0.05,UPI / Direct Debit,817.07,40.85,776.22,131.96
+TXN-10584,2023-08-01,CUST-1196,57,Male,Sports & Outdoors,Running Hydration Backpack,2,249.49,0.0,Credit Card,498.98,0.0,498.98,174.64
+TXN-10585,2023-08-02,CUST-1314,24,Female,Clothing,Summer Floral Dress,1,78.72,0.0,UPI / Direct Debit,78.72,0.0,78.72,35.42
+TXN-10586,2023-08-02,CUST-1114,53,Male,Electronics,Smartphone Pro,1,477.3,0.1,Credit Card,477.3,47.73,429.57,73.03
+TXN-10587,2023-08-02,CUST-1075,55,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,43.15,0.05,UPI / Direct Debit,43.15,2.16,40.99,22.54
+TXN-10588,2023-08-03,CUST-1376,33,Female,Clothing,Leather Jacket,2,34.96,0.0,Debit Card,69.92,0.0,69.92,31.46
+TXN-10589,2023-08-03,CUST-1217,69,Male,Clothing,Slim Fit Denim Jeans,4,134.82,0.0,Debit Card,539.28,0.0,539.28,242.68
+TXN-10590,2023-08-03,CUST-1277,32,Male,Electronics,Wireless Earbuds,4,544.6,0.1,Credit Card,2178.4,217.84,1960.56,333.3
+TXN-10591,2023-08-04,CUST-1249,63,Male,Electronics,Bluetooth Speaker,1,513.75,0.0,UPI / Direct Debit,513.75,0.0,513.75,87.34
+TXN-10592,2023-08-04,CUST-1164,40,Male,Home & Kitchen,Air Fryer Deluxe,3,275.13,0.15,UPI / Direct Debit,825.39,123.81,701.58,210.47
+TXN-10593,2023-08-04,CUST-1394,29,Female,Clothing,Hooded Sweatshirt,2,77.45,0.0,Cash on Delivery,154.9,0.0,154.9,69.7
+TXN-10594,2023-08-05,CUST-1357,46,Female,Clothing,Hooded Sweatshirt,1,104.26,0.0,Debit Card,104.26,0.0,104.26,46.92
+TXN-10595,2023-08-05,CUST-1192,61,Female,Beauty & Personal Care,Hydrating Face Serum,1,17.2,0.0,Digital Wallet,17.2,0.0,17.2,9.46
+TXN-10596,2023-08-06,CUST-1227,65,Female,Home & Kitchen,Non-Stick Cookware Set,1,331.2,0.05,Credit Card,331.2,16.56,314.64,94.39
+TXN-10597,2023-08-06,CUST-1177,32,Female,Electronics,4K Monitor 27in,3,1133.36,0.0,UPI / Direct Debit,3400.08,0.0,3400.08,578.01
+TXN-10598,2023-08-06,CUST-1099,46,Female,Clothing,Leather Jacket,2,104.33,0.0,Credit Card,208.66,0.0,208.66,93.9
+TXN-10599,2023-08-07,CUST-1036,62,Female,Sports & Outdoors,Cycling Helmet,2,239.78,0.25,Credit Card,479.56,119.89,359.67,125.88
+TXN-10600,2023-08-07,CUST-1096,60,Female,Home & Kitchen,Air Fryer Deluxe,1,90.12,0.1,Digital Wallet,90.12,9.01,81.11,24.33
+TXN-10601,2023-08-07,CUST-1152,66,Male,Clothing,Hooded Sweatshirt,2,82.05,0.0,Digital Wallet,164.1,0.0,164.1,73.84
+TXN-10602,2023-08-08,CUST-1151,38,Male,Electronics,Wireless Earbuds,1,754.02,0.05,Credit Card,754.02,37.7,716.32,121.77
+TXN-10603,2023-08-08,CUST-1190,32,Female,Clothing,Slim Fit Denim Jeans,1,95.62,0.15,Credit Card,95.62,14.34,81.28,36.58
+TXN-10604,2023-08-09,CUST-1224,31,Male,Home & Kitchen,Non-Stick Cookware Set,2,181.13,0.0,Credit Card,362.26,0.0,362.26,108.68
+TXN-10605,2023-08-09,CUST-1037,59,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,38.36,0.0,Cash on Delivery,38.36,0.0,38.36,21.1
+TXN-10606,2023-08-09,CUST-1268,61,Male,Home & Kitchen,Air Fryer Deluxe,3,81.16,0.1,Credit Card,243.48,24.35,219.13,65.74
+TXN-10607,2023-08-10,CUST-1369,33,Male,Beauty & Personal Care,Hydrating Face Serum,1,42.47,0.1,Credit Card,42.47,4.25,38.22,21.02
+TXN-10608,2023-08-10,CUST-1183,32,Female,Home & Kitchen,Non-Stick Cookware Set,2,94.21,0.05,Credit Card,188.42,9.42,179.0,53.7
+TXN-10609,2023-08-10,CUST-1013,59,Male,Electronics,Wireless Earbuds,1,902.49,0.0,UPI / Direct Debit,902.49,0.0,902.49,153.42
+TXN-10610,2023-08-11,CUST-1279,21,Female,Clothing,Classic Cotton T-Shirt,2,47.14,0.0,Digital Wallet,94.28,0.0,94.28,42.43
+TXN-10611,2023-08-11,CUST-1217,44,Female,Electronics,Smartphone Pro,1,145.59,0.1,Credit Card,145.59,14.56,131.03,22.28
+TXN-10612,2023-08-11,CUST-1355,40,Male,Electronics,4K Monitor 27in,1,698.65,0.0,UPI / Direct Debit,698.65,0.0,698.65,118.77
+TXN-10613,2023-08-12,CUST-1361,46,Female,Beauty & Personal Care,Electric Toothbrush,3,58.04,0.05,Credit Card,174.12,8.71,165.41,90.98
+TXN-10614,2023-08-12,CUST-1286,58,Female,Clothing,Classic Cotton T-Shirt,1,133.34,0.05,UPI / Direct Debit,133.34,6.67,126.67,57.0
+TXN-10615,2023-08-13,CUST-1273,69,Male,Clothing,Hooded Sweatshirt,3,95.0,0.0,Debit Card,285.0,0.0,285.0,128.25
+TXN-10616,2023-08-13,CUST-1369,26,Male,Electronics,Bluetooth Speaker,5,466.94,0.2,Credit Card,2334.7,466.94,1867.76,317.52
+TXN-10617,2023-08-13,CUST-1062,69,Male,Clothing,Leather Jacket,1,124.38,0.15,Credit Card,124.38,18.66,105.72,47.57
+TXN-10618,2023-08-14,CUST-1084,60,Female,Electronics,Smartphone Pro,1,685.11,0.1,Cash on Delivery,685.11,68.51,616.6,104.82
+TXN-10619,2023-08-14,CUST-1368,60,Female,Electronics,Smartphone Pro,2,168.79,0.0,Credit Card,337.58,0.0,337.58,57.39
+TXN-10620,2023-08-14,CUST-1217,24,Male,Home & Kitchen,Air Fryer Deluxe,4,240.97,0.0,UPI / Direct Debit,963.88,0.0,963.88,289.16
+TXN-10621,2023-08-15,CUST-1342,59,Male,Electronics,Smartwatch Ultra,3,1096.98,0.05,UPI / Direct Debit,3290.94,164.55,3126.39,531.49
+TXN-10622,2023-08-15,CUST-1397,21,Male,Home & Kitchen,Blender 1000W,1,179.26,0.0,Credit Card,179.26,0.0,179.26,53.78
+TXN-10623,2023-08-15,CUST-1187,22,Female,Electronics,Smartphone Pro,2,411.88,0.25,Debit Card,823.76,205.94,617.82,105.03
+TXN-10624,2023-08-16,CUST-1019,22,Male,Electronics,Smartphone Pro,1,240.69,0.0,Cash on Delivery,240.69,0.0,240.69,40.92
+TXN-10625,2023-08-16,CUST-1177,28,Female,Electronics,Wireless Earbuds,5,249.62,0.05,UPI / Direct Debit,1248.1,62.4,1185.7,201.57
+TXN-10626,2023-08-17,CUST-1100,58,Male,Clothing,Hooded Sweatshirt,4,76.25,0.0,Credit Card,305.0,0.0,305.0,137.25
+TXN-10627,2023-08-17,CUST-1396,45,Female,Home & Kitchen,Air Fryer Deluxe,1,251.83,0.1,UPI / Direct Debit,251.83,25.18,226.65,68.0
+TXN-10628,2023-08-17,CUST-1233,33,Female,Clothing,Slim Fit Denim Jeans,1,30.47,0.0,UPI / Direct Debit,30.47,0.0,30.47,13.71
+TXN-10629,2023-08-18,CUST-1076,58,Female,Clothing,Leather Jacket,1,142.13,0.05,UPI / Direct Debit,142.13,7.11,135.02,60.76
+TXN-10630,2023-08-18,CUST-1265,47,Male,Home & Kitchen,Air Fryer Deluxe,1,309.87,0.0,Debit Card,309.87,0.0,309.87,92.96
+TXN-10631,2023-08-18,CUST-1284,21,Female,Electronics,Smartphone Pro,3,737.02,0.15,Credit Card,2211.06,331.66,1879.4,319.5
+TXN-10632,2023-08-19,CUST-1206,19,Male,Clothing,Slim Fit Denim Jeans,1,127.69,0.0,UPI / Direct Debit,127.69,0.0,127.69,57.46
+TXN-10633,2023-08-19,CUST-1223,63,Male,Beauty & Personal Care,Sunscreen SPF 50,1,18.63,0.2,UPI / Direct Debit,18.63,3.73,14.9,8.2
+TXN-10634,2023-08-19,CUST-1384,20,Female,Home & Kitchen,Air Fryer Deluxe,1,208.57,0.15,Credit Card,208.57,31.29,177.28,53.18
+TXN-10635,2023-08-20,CUST-1052,67,Female,Clothing,Leather Jacket,5,101.9,0.0,Debit Card,509.5,0.0,509.5,229.28
+TXN-10636,2023-08-20,CUST-1339,38,Female,Sports & Outdoors,Yoga Mat Non-Slip,2,211.45,0.15,Credit Card,422.9,63.43,359.47,125.81
+TXN-10637,2023-08-21,CUST-1367,23,Male,Home & Kitchen,Robot Vacuum Cleaner,1,320.18,0.0,Credit Card,320.18,0.0,320.18,96.05
+TXN-10638,2023-08-21,CUST-1144,60,Female,Electronics,4K Monitor 27in,1,390.32,0.25,Digital Wallet,390.32,97.58,292.74,49.77
+TXN-10639,2023-08-21,CUST-1373,35,Female,Home & Kitchen,Blender 1000W,5,377.48,0.05,Credit Card,1887.4,94.37,1793.03,537.91
+TXN-10640,2023-08-22,CUST-1069,61,Female,Clothing,Leather Jacket,3,36.15,0.0,Credit Card,108.45,0.0,108.45,48.8
+TXN-10641,2023-08-22,CUST-1099,22,Female,Clothing,Hooded Sweatshirt,1,133.76,0.0,UPI / Direct Debit,133.76,0.0,133.76,60.19
+TXN-10642,2023-08-22,CUST-1396,26,Female,Clothing,Classic Cotton T-Shirt,1,146.21,0.0,Digital Wallet,146.21,0.0,146.21,65.79
+TXN-10643,2023-08-23,CUST-1025,37,Male,Clothing,Classic Cotton T-Shirt,1,43.02,0.25,Digital Wallet,43.02,10.76,32.26,14.52
+TXN-10644,2023-08-23,CUST-1379,45,Female,Home & Kitchen,Blender 1000W,1,297.83,0.0,UPI / Direct Debit,297.83,0.0,297.83,89.35
+TXN-10645,2023-08-23,CUST-1053,43,Female,Clothing,Leather Jacket,2,25.23,0.1,Credit Card,50.46,5.05,45.41,20.43
+TXN-10646,2023-08-24,CUST-1151,35,Other,Beauty & Personal Care,Hydrating Face Serum,4,43.51,0.05,Digital Wallet,174.04,8.7,165.34,90.94
+TXN-10647,2023-08-24,CUST-1144,36,Male,Home & Kitchen,Air Fryer Deluxe,1,222.93,0.2,UPI / Direct Debit,222.93,44.59,178.34,53.5
+TXN-10648,2023-08-25,CUST-1057,20,Male,Electronics,Smartwatch Ultra,3,730.32,0.0,UPI / Direct Debit,2190.96,0.0,2190.96,372.46
+TXN-10649,2023-08-25,CUST-1039,26,Male,Home & Kitchen,Espresso Coffee Maker,1,375.68,0.05,Cash on Delivery,375.68,18.78,356.9,107.07
+TXN-10650,2023-08-25,CUST-1109,53,Female,Electronics,4K Monitor 27in,2,832.92,0.05,UPI / Direct Debit,1665.84,83.29,1582.55,269.03
+TXN-10651,2023-08-26,CUST-1181,48,Female,Clothing,Summer Floral Dress,2,82.56,0.1,Credit Card,165.12,16.51,148.61,66.87
+TXN-10652,2023-08-26,CUST-1042,66,Male,Home & Kitchen,Espresso Coffee Maker,1,329.72,0.0,Cash on Delivery,329.72,0.0,329.72,98.92
+TXN-10653,2023-08-26,CUST-1186,34,Female,Electronics,Smartphone Pro,1,1144.6,0.0,UPI / Direct Debit,1144.6,0.0,1144.6,194.58
+TXN-10654,2023-08-27,CUST-1398,40,Female,Clothing,Hooded Sweatshirt,2,22.86,0.0,Credit Card,45.72,0.0,45.72,20.57
+TXN-10655,2023-08-27,CUST-1223,51,Female,Electronics,Smartwatch Ultra,1,1180.42,0.1,Credit Card,1180.42,118.04,1062.38,180.6
+TXN-10656,2023-08-27,CUST-1122,58,Male,Electronics,4K Monitor 27in,1,176.47,0.0,UPI / Direct Debit,176.47,0.0,176.47,30.0
+TXN-10657,2023-08-28,CUST-1133,58,Female,Clothing,Hooded Sweatshirt,1,125.86,0.05,Credit Card,125.86,6.29,119.57,53.81
+TXN-10658,2023-08-28,CUST-1163,22,Male,Clothing,Slim Fit Denim Jeans,5,56.43,0.0,Credit Card,282.15,0.0,282.15,126.97
+TXN-10659,2023-08-29,CUST-1215,32,Female,Sports & Outdoors,Yoga Mat Non-Slip,1,54.74,0.15,UPI / Direct Debit,54.74,8.21,46.53,16.29
+TXN-10660,2023-08-29,CUST-1221,64,Male,Clothing,Slim Fit Denim Jeans,3,77.17,0.2,Cash on Delivery,231.51,46.3,185.21,83.34
+TXN-10661,2023-08-29,CUST-1235,20,Male,Clothing,Leather Jacket,1,103.7,0.05,UPI / Direct Debit,103.7,5.18,98.52,44.33
+TXN-10662,2023-08-30,CUST-1331,36,Female,Clothing,Summer Floral Dress,2,69.51,0.0,Debit Card,139.02,0.0,139.02,62.56
+TXN-10663,2023-08-30,CUST-1146,45,Male,Electronics,Smartwatch Ultra,2,141.11,0.0,Debit Card,282.22,0.0,282.22,47.98
+TXN-10664,2023-08-30,CUST-1239,20,Male,Sports & Outdoors,Cycling Helmet,3,159.88,0.0,Debit Card,479.64,0.0,479.64,167.87
+TXN-10665,2023-08-31,CUST-1076,55,Female,Home & Kitchen,Non-Stick Cookware Set,1,363.47,0.0,Credit Card,363.47,0.0,363.47,109.04
+TXN-10666,2023-08-31,CUST-1009,21,Female,Home & Kitchen,Air Fryer Deluxe,2,174.49,0.1,Cash on Delivery,348.98,34.9,314.08,94.22
+TXN-10667,2023-08-31,CUST-1074,41,Female,Electronics,Smartphone Pro,2,322.29,0.05,UPI / Direct Debit,644.58,32.23,612.35,104.1
+TXN-10668,2023-09-01,CUST-1253,48,Male,Clothing,Classic Cotton T-Shirt,1,77.53,0.2,Credit Card,77.53,15.51,62.02,27.91
+TXN-10669,2023-09-01,CUST-1230,62,Male,Clothing,Hooded Sweatshirt,1,26.28,0.0,Credit Card,26.28,0.0,26.28,11.83
+TXN-10670,2023-09-02,CUST-1007,62,Male,Beauty & Personal Care,Perfume Eau de Parfum,1,75.27,0.1,Debit Card,75.27,7.53,67.74,37.26
+TXN-10671,2023-09-02,CUST-1174,28,Male,Electronics,Smartphone Pro,1,1005.5,0.05,Credit Card,1005.5,50.28,955.22,162.39
+TXN-10672,2023-09-02,CUST-1141,54,Female,Clothing,Leather Jacket,3,96.43,0.05,Credit Card,289.29,14.46,274.83,123.67
+TXN-10673,2023-09-03,CUST-1168,18,Male,Sports & Outdoors,Running Hydration Backpack,1,104.45,0.0,Debit Card,104.45,0.0,104.45,36.56
+TXN-10674,2023-09-03,CUST-1170,26,Male,Clothing,Leather Jacket,1,123.96,0.05,Cash on Delivery,123.96,6.2,117.76,52.99
+TXN-10675,2023-09-03,CUST-1393,34,Male,Clothing,Hooded Sweatshirt,2,92.1,0.05,UPI / Direct Debit,184.2,9.21,174.99,78.75
+TXN-10676,2023-09-04,CUST-1283,18,Male,Electronics,Smartwatch Ultra,1,1005.04,0.1,Credit Card,1005.04,100.5,904.54,153.77
+TXN-10677,2023-09-04,CUST-1122,20,Female,Sports & Outdoors,Camping Tent 4-Person,1,167.08,0.2,Credit Card,167.08,33.42,133.66,46.78
+TXN-10678,2023-09-04,CUST-1194,64,Female,Electronics,Smartwatch Ultra,1,958.53,0.0,UPI / Direct Debit,958.53,0.0,958.53,162.95
+TXN-10679,2023-09-05,CUST-1005,43,Male,Home & Kitchen,Non-Stick Cookware Set,4,252.88,0.0,Credit Card,1011.52,0.0,1011.52,303.46
+TXN-10680,2023-09-05,CUST-1029,48,Male,Home & Kitchen,Espresso Coffee Maker,3,185.75,0.05,UPI / Direct Debit,557.25,27.86,529.39,158.82
+TXN-10681,2023-09-06,CUST-1165,43,Male,Electronics,Smartphone Pro,3,1152.9,0.05,Credit Card,3458.7,172.94,3285.76,558.58
+TXN-10682,2023-09-06,CUST-1339,40,Female,Home & Kitchen,Blender 1000W,1,231.97,0.0,Digital Wallet,231.97,0.0,231.97,69.59
+TXN-10683,2023-09-06,CUST-1136,47,Female,Electronics,4K Monitor 27in,2,757.7,0.1,UPI / Direct Debit,1515.4,151.54,1363.86,231.86
+TXN-10684,2023-09-07,CUST-1365,27,Male,Electronics,4K Monitor 27in,1,326.95,0.25,Credit Card,326.95,81.74,245.21,41.69
+TXN-10685,2023-09-07,CUST-1321,25,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,60.36,0.2,Cash on Delivery,60.36,12.07,48.29,26.56
+TXN-10686,2023-09-07,CUST-1342,61,Female,Beauty & Personal Care,Sunscreen SPF 50,1,56.23,0.0,Credit Card,56.23,0.0,56.23,30.93
+TXN-10687,2023-09-08,CUST-1145,42,Female,Home & Kitchen,Air Fryer Deluxe,2,102.28,0.15,Credit Card,204.56,30.68,173.88,52.16
+TXN-10688,2023-09-08,CUST-1327,39,Female,Clothing,Leather Jacket,1,27.74,0.1,Cash on Delivery,27.74,2.77,24.97,11.24
+TXN-10689,2023-09-08,CUST-1217,32,Male,Electronics,Smartwatch Ultra,1,756.88,0.05,Credit Card,756.88,37.84,719.04,122.24
+TXN-10690,2023-09-09,CUST-1301,58,Male,Electronics,Wireless Earbuds,1,935.34,0.05,UPI / Direct Debit,935.34,46.77,888.57,151.06
+TXN-10691,2023-09-09,CUST-1132,27,Male,Electronics,Smartwatch Ultra,1,666.21,0.15,Credit Card,666.21,99.93,566.28,96.27
+TXN-10692,2023-09-10,CUST-1292,37,Female,Electronics,Smartwatch Ultra,2,333.99,0.05,Credit Card,667.98,33.4,634.58,107.88
+TXN-10693,2023-09-10,CUST-1070,58,Other,Clothing,Slim Fit Denim Jeans,1,106.64,0.0,Credit Card,106.64,0.0,106.64,47.99
+TXN-10694,2023-09-10,CUST-1252,64,Male,Clothing,Summer Floral Dress,2,30.4,0.05,Debit Card,60.8,3.04,57.76,25.99
+TXN-10695,2023-09-11,CUST-1275,40,Male,Clothing,Summer Floral Dress,1,77.43,0.05,UPI / Direct Debit,77.43,3.87,73.56,33.1
+TXN-10696,2023-09-11,CUST-1364,18,Male,Electronics,Smartphone Pro,3,262.97,0.0,Credit Card,788.91,0.0,788.91,134.11
+TXN-10697,2023-09-11,CUST-1182,19,Male,Clothing,Classic Cotton T-Shirt,2,43.97,0.2,Credit Card,87.94,17.59,70.35,31.66
+TXN-10698,2023-09-12,CUST-1167,36,Male,Beauty & Personal Care,Electric Toothbrush,1,27.98,0.1,Digital Wallet,27.98,2.8,25.18,13.85
+TXN-10699,2023-09-12,CUST-1091,31,Female,Electronics,Bluetooth Speaker,1,513.11,0.1,Digital Wallet,513.11,51.31,461.8,78.51
+TXN-10700,2023-09-12,CUST-1202,25,Male,Sports & Outdoors,Running Hydration Backpack,2,36.51,0.0,UPI / Direct Debit,73.02,0.0,73.02,25.56
+TXN-10701,2023-09-13,CUST-1346,55,Male,Beauty & Personal Care,Perfume Eau de Parfum,3,42.93,0.1,Cash on Delivery,128.79,12.88,115.91,63.75
+TXN-10702,2023-09-13,CUST-1019,29,Female,Electronics,Smartwatch Ultra,1,653.11,0.0,Debit Card,653.11,0.0,653.11,111.03
+TXN-10703,2023-09-14,CUST-1039,43,Male,Beauty & Personal Care,Electric Toothbrush,1,49.47,0.0,Credit Card,49.47,0.0,49.47,27.21
+TXN-10704,2023-09-14,CUST-1126,44,Male,Clothing,Classic Cotton T-Shirt,3,69.75,0.05,Credit Card,209.25,10.46,198.79,89.46
+TXN-10705,2023-09-14,CUST-1173,46,Male,Clothing,Classic Cotton T-Shirt,2,129.08,0.05,Credit Card,258.16,12.91,245.25,110.36
+TXN-10706,2023-09-15,CUST-1141,32,Female,Clothing,Leather Jacket,1,38.88,0.05,Cash on Delivery,38.88,1.94,36.94,16.62
+TXN-10707,2023-09-15,CUST-1242,63,Female,Clothing,Classic Cotton T-Shirt,1,85.73,0.0,Debit Card,85.73,0.0,85.73,38.58
+TXN-10708,2023-09-15,CUST-1220,18,Male,Clothing,Summer Floral Dress,1,28.06,0.05,Debit Card,28.06,1.4,26.66,12.0
+TXN-10709,2023-09-16,CUST-1126,60,Female,Clothing,Leather Jacket,2,29.24,0.0,Credit Card,58.48,0.0,58.48,26.32
+TXN-10710,2023-09-16,CUST-1058,45,Male,Home & Kitchen,Non-Stick Cookware Set,1,243.89,0.25,UPI / Direct Debit,243.89,60.97,182.92,54.88
+TXN-10711,2023-09-16,CUST-1148,20,Female,Home & Kitchen,Air Fryer Deluxe,5,241.03,0.05,Debit Card,1205.15,60.26,1144.89,343.47
+TXN-10712,2023-09-17,CUST-1317,68,Female,Clothing,Slim Fit Denim Jeans,1,134.13,0.1,Cash on Delivery,134.13,13.41,120.72,54.32
+TXN-10713,2023-09-17,CUST-1383,35,Female,Home & Kitchen,Air Fryer Deluxe,1,238.07,0.0,Credit Card,238.07,0.0,238.07,71.42
+TXN-10714,2023-09-18,CUST-1361,69,Male,Electronics,Smartwatch Ultra,2,1154.97,0.0,Debit Card,2309.94,0.0,2309.94,392.69
+TXN-10715,2023-09-18,CUST-1001,51,Other,Electronics,Bluetooth Speaker,3,134.54,0.25,Credit Card,403.62,100.9,302.72,51.46
+TXN-10716,2023-09-18,CUST-1387,49,Other,Beauty & Personal Care,Sunscreen SPF 50,3,20.0,0.0,Debit Card,60.0,0.0,60.0,33.0
+TXN-10717,2023-09-19,CUST-1348,46,Female,Clothing,Slim Fit Denim Jeans,1,25.72,0.05,UPI / Direct Debit,25.72,1.29,24.43,10.99
+TXN-10718,2023-09-19,CUST-1190,42,Female,Electronics,4K Monitor 27in,2,287.51,0.1,Credit Card,575.02,57.5,517.52,87.98
+TXN-10719,2023-09-19,CUST-1191,43,Male,Electronics,Smartphone Pro,2,686.22,0.0,Debit Card,1372.44,0.0,1372.44,233.31
+TXN-10720,2023-09-20,CUST-1369,56,Male,Electronics,Bluetooth Speaker,1,803.04,0.15,Credit Card,803.04,120.46,682.58,116.04
+TXN-10721,2023-09-20,CUST-1312,25,Male,Sports & Outdoors,Camping Tent 4-Person,1,35.26,0.05,Cash on Delivery,35.26,1.76,33.5,11.72
+TXN-10722,2023-09-20,CUST-1117,36,Male,Clothing,Hooded Sweatshirt,1,142.97,0.0,Credit Card,142.97,0.0,142.97,64.34
+TXN-10723,2023-09-21,CUST-1134,64,Female,Sports & Outdoors,Cycling Helmet,1,214.49,0.0,Debit Card,214.49,0.0,214.49,75.07
+TXN-10724,2023-09-21,CUST-1058,59,Female,Clothing,Summer Floral Dress,3,58.55,0.0,Digital Wallet,175.65,0.0,175.65,79.04
+TXN-10725,2023-09-22,CUST-1044,39,Female,Clothing,Leather Jacket,1,30.02,0.15,Credit Card,30.02,4.5,25.52,11.48
+TXN-10726,2023-09-22,CUST-1173,46,Male,Clothing,Slim Fit Denim Jeans,4,42.08,0.1,UPI / Direct Debit,168.32,16.83,151.49,68.17
+TXN-10727,2023-09-22,CUST-1160,50,Male,Home & Kitchen,Espresso Coffee Maker,1,81.21,0.0,UPI / Direct Debit,81.21,0.0,81.21,24.36
+TXN-10728,2023-09-23,CUST-1173,55,Female,Electronics,Smartphone Pro,2,218.08,0.0,Credit Card,436.16,0.0,436.16,74.15
+TXN-10729,2023-09-23,CUST-1317,62,Male,Beauty & Personal Care,Hydrating Face Serum,1,52.17,0.1,UPI / Direct Debit,52.17,5.22,46.95,25.82
+TXN-10730,2023-09-23,CUST-1303,63,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,31.31,0.05,Debit Card,31.31,1.57,29.74,16.36
+TXN-10731,2023-09-24,CUST-1149,52,Other,Clothing,Leather Jacket,1,66.55,0.05,Digital Wallet,66.55,3.33,63.22,28.45
+TXN-10732,2023-09-24,CUST-1080,60,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,247.64,0.0,Cash on Delivery,247.64,0.0,247.64,86.67
+TXN-10733,2023-09-24,CUST-1374,20,Male,Beauty & Personal Care,Hydrating Face Serum,2,64.85,0.0,UPI / Direct Debit,129.7,0.0,129.7,71.33
+TXN-10734,2023-09-25,CUST-1213,36,Female,Home & Kitchen,Espresso Coffee Maker,1,380.43,0.1,Debit Card,380.43,38.04,342.39,102.72
+TXN-10735,2023-09-25,CUST-1203,27,Female,Electronics,Wireless Earbuds,2,239.66,0.25,Cash on Delivery,479.32,119.83,359.49,61.11
+TXN-10736,2023-09-26,CUST-1252,44,Female,Clothing,Leather Jacket,1,69.67,0.0,UPI / Direct Debit,69.67,0.0,69.67,31.35
+TXN-10737,2023-09-26,CUST-1229,32,Female,Clothing,Summer Floral Dress,1,92.11,0.05,Credit Card,92.11,4.61,87.5,39.38
+TXN-10738,2023-09-26,CUST-1164,28,Male,Electronics,Smartphone Pro,1,165.97,0.05,UPI / Direct Debit,165.97,8.3,157.67,26.8
+TXN-10739,2023-09-27,CUST-1227,64,Female,Electronics,Bluetooth Speaker,4,84.69,0.05,Cash on Delivery,338.76,16.94,321.82,54.71
+TXN-10740,2023-09-27,CUST-1147,43,Male,Home & Kitchen,Espresso Coffee Maker,2,279.04,0.0,UPI / Direct Debit,558.08,0.0,558.08,167.42
+TXN-10741,2023-09-27,CUST-1020,41,Male,Electronics,Wireless Earbuds,1,798.84,0.15,Debit Card,798.84,119.83,679.01,115.43
+TXN-10742,2023-09-28,CUST-1047,30,Female,Clothing,Summer Floral Dress,1,73.39,0.05,Credit Card,73.39,3.67,69.72,31.37
+TXN-10743,2023-09-28,CUST-1233,49,Female,Sports & Outdoors,Yoga Mat Non-Slip,1,135.17,0.05,Digital Wallet,135.17,6.76,128.41,44.94
+TXN-10744,2023-09-28,CUST-1305,54,Female,Beauty & Personal Care,Hydrating Face Serum,5,44.28,0.0,UPI / Direct Debit,221.4,0.0,221.4,121.77
+TXN-10745,2023-09-29,CUST-1014,21,Female,Electronics,Smartwatch Ultra,2,106.89,0.0,Debit Card,213.78,0.0,213.78,36.34
+TXN-10746,2023-09-29,CUST-1143,30,Female,Beauty & Personal Care,Hydrating Face Serum,1,38.16,0.0,Credit Card,38.16,0.0,38.16,20.99
+TXN-10747,2023-09-30,CUST-1001,26,Female,Electronics,4K Monitor 27in,2,278.33,0.1,Credit Card,556.66,55.67,500.99,85.17
+TXN-10748,2023-09-30,CUST-1373,66,Female,Electronics,Smartwatch Ultra,1,190.24,0.0,Debit Card,190.24,0.0,190.24,32.34
+TXN-10749,2023-09-30,CUST-1054,51,Male,Home & Kitchen,Non-Stick Cookware Set,4,383.25,0.1,Digital Wallet,1533.0,153.3,1379.7,413.91
+TXN-10750,2023-10-01,CUST-1374,54,Male,Clothing,Slim Fit Denim Jeans,1,97.91,0.0,Credit Card,97.91,0.0,97.91,44.06
+TXN-10751,2023-10-01,CUST-1259,65,Male,Clothing,Slim Fit Denim Jeans,2,114.72,0.05,Credit Card,229.44,11.47,217.97,98.09
+TXN-10752,2023-10-01,CUST-1144,24,Male,Clothing,Classic Cotton T-Shirt,1,60.99,0.05,UPI / Direct Debit,60.99,3.05,57.94,26.07
+TXN-10753,2023-10-02,CUST-1012,18,Female,Electronics,Smartwatch Ultra,2,520.32,0.0,Credit Card,1040.64,0.0,1040.64,176.91
+TXN-10754,2023-10-02,CUST-1330,29,Female,Electronics,Wireless Earbuds,2,345.35,0.0,Credit Card,690.7,0.0,690.7,117.42
+TXN-10755,2023-10-03,CUST-1224,38,Other,Clothing,Summer Floral Dress,2,32.6,0.0,Debit Card,65.2,0.0,65.2,29.34
+TXN-10756,2023-10-03,CUST-1272,28,Female,Home & Kitchen,Espresso Coffee Maker,2,100.17,0.1,Digital Wallet,200.34,20.03,180.31,54.09
+TXN-10757,2023-10-03,CUST-1358,61,Female,Home & Kitchen,Espresso Coffee Maker,3,325.3,0.1,Credit Card,975.9,97.59,878.31,263.49
+TXN-10758,2023-10-04,CUST-1156,68,Male,Clothing,Hooded Sweatshirt,1,108.07,0.0,UPI / Direct Debit,108.07,0.0,108.07,48.63
+TXN-10759,2023-10-04,CUST-1373,61,Male,Clothing,Hooded Sweatshirt,1,91.09,0.05,Credit Card,91.09,4.55,86.54,38.94
+TXN-10760,2023-10-04,CUST-1008,61,Male,Electronics,Bluetooth Speaker,1,612.1,0.0,Credit Card,612.1,0.0,612.1,104.06
+TXN-10761,2023-10-05,CUST-1122,31,Female,Electronics,4K Monitor 27in,5,1113.13,0.0,Credit Card,5565.65,0.0,5565.65,946.16
+TXN-10762,2023-10-05,CUST-1348,51,Male,Beauty & Personal Care,Sunscreen SPF 50,1,18.06,0.0,UPI / Direct Debit,18.06,0.0,18.06,9.93
+TXN-10763,2023-10-05,CUST-1164,51,Female,Electronics,Smartphone Pro,2,394.27,0.15,Credit Card,788.54,118.28,670.26,113.94
+TXN-10764,2023-10-06,CUST-1090,42,Female,Electronics,4K Monitor 27in,2,471.93,0.0,UPI / Direct Debit,943.86,0.0,943.86,160.46
+TXN-10765,2023-10-06,CUST-1136,21,Male,Home & Kitchen,Blender 1000W,1,319.8,0.0,Credit Card,319.8,0.0,319.8,95.94
+TXN-10766,2023-10-07,CUST-1186,69,Male,Home & Kitchen,Non-Stick Cookware Set,1,396.28,0.0,Credit Card,396.28,0.0,396.28,118.88
+TXN-10767,2023-10-07,CUST-1316,43,Female,Home & Kitchen,Blender 1000W,1,122.6,0.0,Credit Card,122.6,0.0,122.6,36.78
+TXN-10768,2023-10-07,CUST-1178,33,Male,Electronics,Smartwatch Ultra,1,1059.22,0.1,Cash on Delivery,1059.22,105.92,953.3,162.06
+TXN-10769,2023-10-08,CUST-1028,27,Female,Electronics,Wireless Earbuds,1,1010.3,0.0,Debit Card,1010.3,0.0,1010.3,171.75
+TXN-10770,2023-10-08,CUST-1220,62,Female,Electronics,Bluetooth Speaker,1,331.62,0.0,Cash on Delivery,331.62,0.0,331.62,56.38
+TXN-10771,2023-10-08,CUST-1357,19,Female,Electronics,Wireless Earbuds,3,527.25,0.1,UPI / Direct Debit,1581.75,158.18,1423.57,242.01
+TXN-10772,2023-10-09,CUST-1041,52,Female,Home & Kitchen,Non-Stick Cookware Set,4,184.12,0.0,Credit Card,736.48,0.0,736.48,220.94
+TXN-10773,2023-10-09,CUST-1228,36,Female,Beauty & Personal Care,Sunscreen SPF 50,1,87.33,0.1,UPI / Direct Debit,87.33,8.73,78.6,43.23
+TXN-10774,2023-10-09,CUST-1192,23,Female,Home & Kitchen,Espresso Coffee Maker,1,100.84,0.05,Credit Card,100.84,5.04,95.8,28.74
+TXN-10775,2023-10-10,CUST-1145,36,Male,Beauty & Personal Care,Hydrating Face Serum,1,73.64,0.0,Debit Card,73.64,0.0,73.64,40.5
+TXN-10776,2023-10-10,CUST-1201,69,Female,Clothing,Classic Cotton T-Shirt,2,63.44,0.1,Credit Card,126.88,12.69,114.19,51.39
+TXN-10777,2023-10-11,CUST-1212,68,Male,Home & Kitchen,Air Fryer Deluxe,3,301.04,0.0,Credit Card,903.12,0.0,903.12,270.94
+TXN-10778,2023-10-11,CUST-1220,25,Male,Clothing,Hooded Sweatshirt,1,74.59,0.05,UPI / Direct Debit,74.59,3.73,70.86,31.89
+TXN-10779,2023-10-11,CUST-1240,31,Male,Clothing,Summer Floral Dress,1,95.18,0.05,UPI / Direct Debit,95.18,4.76,90.42,40.69
+TXN-10780,2023-10-12,CUST-1397,27,Female,Clothing,Hooded Sweatshirt,2,128.23,0.0,Digital Wallet,256.46,0.0,256.46,115.41
+TXN-10781,2023-10-12,CUST-1046,20,Male,Electronics,4K Monitor 27in,2,980.67,0.1,UPI / Direct Debit,1961.34,196.13,1765.21,300.09
+TXN-10782,2023-10-12,CUST-1035,55,Male,Clothing,Slim Fit Denim Jeans,1,132.63,0.15,UPI / Direct Debit,132.63,19.89,112.74,50.73
+TXN-10783,2023-10-13,CUST-1253,46,Other,Sports & Outdoors,Cycling Helmet,2,38.41,0.25,Credit Card,76.82,19.2,57.62,20.17
+TXN-10784,2023-10-13,CUST-1390,32,Female,Electronics,4K Monitor 27in,1,855.1,0.1,Digital Wallet,855.1,85.51,769.59,130.83
+TXN-10785,2023-10-13,CUST-1082,40,Female,Electronics,Smartphone Pro,1,236.79,0.05,UPI / Direct Debit,236.79,11.84,224.95,38.24
+TXN-10786,2023-10-14,CUST-1371,40,Female,Clothing,Hooded Sweatshirt,2,74.05,0.0,UPI / Direct Debit,148.1,0.0,148.1,66.64
+TXN-10787,2023-10-14,CUST-1256,35,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,3,54.47,0.0,Credit Card,163.41,0.0,163.41,89.88
+TXN-10788,2023-10-15,CUST-1197,63,Female,Clothing,Classic Cotton T-Shirt,1,72.35,0.05,Debit Card,72.35,3.62,68.73,30.93
+TXN-10789,2023-10-15,CUST-1303,36,Male,Home & Kitchen,Espresso Coffee Maker,4,224.14,0.0,Credit Card,896.56,0.0,896.56,268.97
+TXN-10790,2023-10-15,CUST-1010,45,Female,Electronics,Bluetooth Speaker,1,1196.11,0.2,UPI / Direct Debit,1196.11,239.22,956.89,162.67
+TXN-10791,2023-10-16,CUST-1312,43,Female,Home & Kitchen,Non-Stick Cookware Set,2,84.22,0.0,Cash on Delivery,168.44,0.0,168.44,50.53
+TXN-10792,2023-10-16,CUST-1286,27,Male,Clothing,Hooded Sweatshirt,1,107.8,0.0,Digital Wallet,107.8,0.0,107.8,48.51
+TXN-10793,2023-10-16,CUST-1242,64,Male,Beauty & Personal Care,Perfume Eau de Parfum,3,42.79,0.0,UPI / Direct Debit,128.37,0.0,128.37,70.6
+TXN-10794,2023-10-17,CUST-1251,21,Male,Home & Kitchen,Non-Stick Cookware Set,3,83.42,0.15,Cash on Delivery,250.26,37.54,212.72,63.82
+TXN-10795,2023-10-17,CUST-1365,19,Female,Electronics,4K Monitor 27in,1,257.79,0.1,Credit Card,257.79,25.78,232.01,39.44
+TXN-10796,2023-10-17,CUST-1005,20,Male,Electronics,Wireless Earbuds,4,1143.19,0.1,Cash on Delivery,4572.76,457.28,4115.48,699.63
+TXN-10797,2023-10-18,CUST-1119,24,Female,Electronics,Smartphone Pro,3,1065.15,0.0,UPI / Direct Debit,3195.45,0.0,3195.45,543.23
+TXN-10798,2023-10-18,CUST-1289,33,Female,Clothing,Leather Jacket,2,137.91,0.15,UPI / Direct Debit,275.82,41.37,234.45,105.5
+TXN-10799,2023-10-19,CUST-1374,48,Female,Electronics,4K Monitor 27in,1,1190.52,0.0,Cash on Delivery,1190.52,0.0,1190.52,202.39
+TXN-10800,2023-10-19,CUST-1065,27,Female,Home & Kitchen,Air Fryer Deluxe,3,110.83,0.15,Cash on Delivery,332.49,49.87,282.62,84.79
+TXN-10801,2023-10-19,CUST-1146,36,Male,Clothing,Classic Cotton T-Shirt,3,66.2,0.05,Credit Card,198.6,9.93,188.67,84.9
+TXN-10802,2023-10-20,CUST-1224,45,Male,Electronics,Bluetooth Speaker,1,829.53,0.0,Debit Card,829.53,0.0,829.53,141.02
+TXN-10803,2023-10-20,CUST-1239,34,Male,Electronics,4K Monitor 27in,4,621.86,0.05,Credit Card,2487.44,124.37,2363.07,401.72
+TXN-10804,2023-10-20,CUST-1177,45,Female,Electronics,Smartphone Pro,1,548.6,0.1,Cash on Delivery,548.6,54.86,493.74,83.94
+TXN-10805,2023-10-21,CUST-1267,36,Male,Beauty & Personal Care,Hydrating Face Serum,1,39.87,0.0,Debit Card,39.87,0.0,39.87,21.93
+TXN-10806,2023-10-21,CUST-1341,54,Male,Electronics,4K Monitor 27in,1,745.03,0.15,Credit Card,745.03,111.75,633.28,107.66
+TXN-10807,2023-10-21,CUST-1282,40,Male,Home & Kitchen,Non-Stick Cookware Set,2,244.52,0.05,Debit Card,489.04,24.45,464.59,139.38
+TXN-10808,2023-10-22,CUST-1063,37,Female,Beauty & Personal Care,Hydrating Face Serum,2,24.85,0.0,UPI / Direct Debit,49.7,0.0,49.7,27.34
+TXN-10809,2023-10-22,CUST-1217,30,Male,Home & Kitchen,Espresso Coffee Maker,1,206.71,0.0,UPI / Direct Debit,206.71,0.0,206.71,62.01
+TXN-10810,2023-10-23,CUST-1342,30,Female,Beauty & Personal Care,Electric Toothbrush,4,54.84,0.05,Credit Card,219.36,10.97,208.39,114.61
+TXN-10811,2023-10-23,CUST-1315,60,Male,Clothing,Classic Cotton T-Shirt,1,94.13,0.05,Credit Card,94.13,4.71,89.42,40.24
+TXN-10812,2023-10-23,CUST-1283,28,Female,Sports & Outdoors,Cycling Helmet,1,72.27,0.05,Debit Card,72.27,3.61,68.66,24.03
+TXN-10813,2023-10-24,CUST-1177,65,Male,Electronics,Wireless Earbuds,1,911.34,0.1,Credit Card,911.34,91.13,820.21,139.44
+TXN-10814,2023-10-24,CUST-1098,32,Female,Electronics,Smartphone Pro,2,108.22,0.05,UPI / Direct Debit,216.44,10.82,205.62,34.96
+TXN-10815,2023-10-24,CUST-1105,34,Female,Home & Kitchen,Espresso Coffee Maker,4,164.16,0.25,Debit Card,656.64,164.16,492.48,147.74
+TXN-10816,2023-10-25,CUST-1099,67,Male,Sports & Outdoors,Adjustable Dumbbells Set,2,200.55,0.05,Credit Card,401.1,20.06,381.04,133.36
+TXN-10817,2023-10-25,CUST-1385,45,Female,Beauty & Personal Care,Sunscreen SPF 50,3,55.64,0.15,UPI / Direct Debit,166.92,25.04,141.88,78.03
+TXN-10818,2023-10-25,CUST-1311,36,Female,Electronics,Wireless Earbuds,1,372.5,0.0,UPI / Direct Debit,372.5,0.0,372.5,63.33
+TXN-10819,2023-10-26,CUST-1006,21,Female,Electronics,Smartwatch Ultra,1,858.35,0.0,Debit Card,858.35,0.0,858.35,145.92
+TXN-10820,2023-10-26,CUST-1197,39,Female,Sports & Outdoors,Camping Tent 4-Person,1,152.66,0.0,UPI / Direct Debit,152.66,0.0,152.66,53.43
+TXN-10821,2023-10-27,CUST-1351,39,Male,Electronics,Smartwatch Ultra,1,971.79,0.05,UPI / Direct Debit,971.79,48.59,923.2,156.94
+TXN-10822,2023-10-27,CUST-1133,54,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,68.73,0.15,Credit Card,68.73,10.31,58.42,32.13
+TXN-10823,2023-10-27,CUST-1358,56,Other,Beauty & Personal Care,Hydrating Face Serum,2,59.17,0.0,Cash on Delivery,118.34,0.0,118.34,65.09
+TXN-10824,2023-10-28,CUST-1259,51,Female,Clothing,Summer Floral Dress,1,83.45,0.0,Credit Card,83.45,0.0,83.45,37.55
+TXN-10825,2023-10-28,CUST-1023,50,Female,Clothing,Summer Floral Dress,2,37.3,0.15,Digital Wallet,74.6,11.19,63.41,28.53
+TXN-10826,2023-10-28,CUST-1053,61,Male,Clothing,Leather Jacket,1,53.96,0.0,UPI / Direct Debit,53.96,0.0,53.96,24.28
+TXN-10827,2023-10-29,CUST-1165,59,Female,Electronics,Smartwatch Ultra,1,549.39,0.1,Cash on Delivery,549.39,54.94,494.45,84.06
+TXN-10828,2023-10-29,CUST-1202,57,Female,Beauty & Personal Care,Hydrating Face Serum,2,58.35,0.05,UPI / Direct Debit,116.7,5.84,110.86,60.97
+TXN-10829,2023-10-29,CUST-1083,50,Male,Clothing,Hooded Sweatshirt,1,86.77,0.15,Credit Card,86.77,13.02,73.75,33.19
+TXN-10830,2023-10-30,CUST-1145,29,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,3,34.55,0.0,Digital Wallet,103.65,0.0,103.65,57.01
+TXN-10831,2023-10-30,CUST-1085,19,Female,Electronics,Smartwatch Ultra,2,87.24,0.0,Credit Card,174.48,0.0,174.48,29.66
+TXN-10832,2023-10-31,CUST-1078,45,Male,Sports & Outdoors,Camping Tent 4-Person,1,136.65,0.05,Credit Card,136.65,6.83,129.82,45.44
+TXN-10833,2023-10-31,CUST-1366,27,Male,Clothing,Classic Cotton T-Shirt,4,57.12,0.2,Credit Card,228.48,45.7,182.78,82.25
+TXN-10834,2023-10-31,CUST-1001,39,Female,Electronics,Smartwatch Ultra,1,902.76,0.05,Digital Wallet,902.76,45.14,857.62,145.8
+TXN-10835,2023-11-01,CUST-1051,34,Male,Electronics,Smartphone Pro,1,106.82,0.0,UPI / Direct Debit,106.82,0.0,106.82,18.16
+TXN-10836,2023-11-01,CUST-1173,43,Male,Home & Kitchen,Air Fryer Deluxe,2,247.88,0.1,UPI / Direct Debit,495.76,49.58,446.18,133.85
+TXN-10837,2023-11-01,CUST-1205,20,Male,Home & Kitchen,Espresso Coffee Maker,1,377.7,0.2,Debit Card,377.7,75.54,302.16,90.65
+TXN-10838,2023-11-02,CUST-1260,24,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,3,25.84,0.15,UPI / Direct Debit,77.52,11.63,65.89,36.24
+TXN-10839,2023-11-02,CUST-1369,61,Female,Electronics,4K Monitor 27in,3,608.25,0.25,Debit Card,1824.75,456.19,1368.56,232.66
+TXN-10840,2023-11-02,CUST-1288,25,Male,Electronics,Bluetooth Speaker,5,182.39,0.0,UPI / Direct Debit,911.95,0.0,911.95,155.03
+TXN-10841,2023-11-03,CUST-1034,37,Female,Clothing,Classic Cotton T-Shirt,1,101.33,0.0,Cash on Delivery,101.33,0.0,101.33,45.6
+TXN-10842,2023-11-03,CUST-1348,29,Female,Clothing,Leather Jacket,1,91.56,0.1,Credit Card,91.56,9.16,82.4,37.08
+TXN-10843,2023-11-04,CUST-1095,52,Female,Clothing,Summer Floral Dress,2,72.95,0.15,Credit Card,145.9,21.88,124.02,55.81
+TXN-10844,2023-11-04,CUST-1072,34,Male,Sports & Outdoors,Yoga Mat Non-Slip,1,142.31,0.0,UPI / Direct Debit,142.31,0.0,142.31,49.81
+TXN-10845,2023-11-04,CUST-1039,45,Female,Sports & Outdoors,Yoga Mat Non-Slip,1,226.73,0.0,UPI / Direct Debit,226.73,0.0,226.73,79.36
+TXN-10846,2023-11-05,CUST-1154,58,Male,Sports & Outdoors,Cycling Helmet,1,69.17,0.15,UPI / Direct Debit,69.17,10.38,58.79,20.58
+TXN-10847,2023-11-05,CUST-1250,27,Male,Beauty & Personal Care,Sunscreen SPF 50,1,14.23,0.0,UPI / Direct Debit,14.23,0.0,14.23,7.83
+TXN-10848,2023-11-05,CUST-1162,39,Female,Clothing,Slim Fit Denim Jeans,1,132.01,0.0,Credit Card,132.01,0.0,132.01,59.4
+TXN-10849,2023-11-06,CUST-1118,55,Female,Clothing,Hooded Sweatshirt,3,95.02,0.05,UPI / Direct Debit,285.06,14.25,270.81,121.86
+TXN-10850,2023-11-06,CUST-1259,50,Female,Clothing,Leather Jacket,3,135.78,0.05,UPI / Direct Debit,407.34,20.37,386.97,174.14
+TXN-10851,2023-11-06,CUST-1379,39,Other,Beauty & Personal Care,Organic Shampoo & Conditioner,1,58.17,0.1,Credit Card,58.17,5.82,52.35,28.79
+TXN-10852,2023-11-07,CUST-1306,61,Female,Electronics,Smartwatch Ultra,1,987.38,0.0,UPI / Direct Debit,987.38,0.0,987.38,167.85
+TXN-10853,2023-11-07,CUST-1268,54,Female,Clothing,Slim Fit Denim Jeans,1,75.85,0.1,Credit Card,75.85,7.58,68.27,30.72
+TXN-10854,2023-11-08,CUST-1054,30,Female,Electronics,Smartphone Pro,3,919.84,0.05,UPI / Direct Debit,2759.52,137.98,2621.54,445.66
+TXN-10855,2023-11-08,CUST-1236,44,Male,Clothing,Hooded Sweatshirt,1,138.69,0.05,Credit Card,138.69,6.93,131.76,59.29
+TXN-10856,2023-11-08,CUST-1389,32,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,2,56.27,0.1,Digital Wallet,112.54,11.25,101.29,55.71
+TXN-10857,2023-11-09,CUST-1222,39,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,26.33,0.0,Debit Card,26.33,0.0,26.33,14.48
+TXN-10858,2023-11-09,CUST-1251,47,Female,Electronics,Wireless Earbuds,2,381.05,0.0,Credit Card,762.1,0.0,762.1,129.56
+TXN-10859,2023-11-09,CUST-1313,60,Male,Sports & Outdoors,Running Hydration Backpack,1,69.7,0.0,UPI / Direct Debit,69.7,0.0,69.7,24.4
+TXN-10860,2023-11-10,CUST-1112,57,Male,Home & Kitchen,Blender 1000W,2,124.86,0.0,Cash on Delivery,249.72,0.0,249.72,74.92
+TXN-10861,2023-11-10,CUST-1255,54,Male,Electronics,Smartwatch Ultra,1,423.19,0.05,UPI / Direct Debit,423.19,21.16,402.03,68.35
+TXN-10862,2023-11-10,CUST-1303,51,Female,Electronics,Bluetooth Speaker,2,701.75,0.15,Cash on Delivery,1403.5,210.52,1192.98,202.81
+TXN-10863,2023-11-11,CUST-1207,61,Female,Electronics,Smartwatch Ultra,1,738.55,0.1,Credit Card,738.55,73.86,664.69,113.0
+TXN-10864,2023-11-11,CUST-1229,51,Female,Electronics,Wireless Earbuds,2,557.68,0.15,Cash on Delivery,1115.36,167.3,948.06,161.17
+TXN-10865,2023-11-12,CUST-1341,65,Female,Sports & Outdoors,Yoga Mat Non-Slip,3,163.47,0.0,UPI / Direct Debit,490.41,0.0,490.41,171.64
+TXN-10866,2023-11-12,CUST-1398,52,Female,Clothing,Hooded Sweatshirt,1,30.59,0.05,Credit Card,30.59,1.53,29.06,13.08
+TXN-10867,2023-11-12,CUST-1066,59,Male,Beauty & Personal Care,Sunscreen SPF 50,3,19.22,0.0,UPI / Direct Debit,57.66,0.0,57.66,31.71
+TXN-10868,2023-11-13,CUST-1075,36,Male,Clothing,Slim Fit Denim Jeans,2,42.33,0.0,Digital Wallet,84.66,0.0,84.66,38.1
+TXN-10869,2023-11-13,CUST-1103,25,Male,Electronics,Smartphone Pro,1,660.25,0.0,Debit Card,660.25,0.0,660.25,112.24
+TXN-10870,2023-11-13,CUST-1192,56,Female,Clothing,Classic Cotton T-Shirt,1,47.81,0.05,UPI / Direct Debit,47.81,2.39,45.42,20.44
+TXN-10871,2023-11-14,CUST-1252,50,Male,Electronics,Bluetooth Speaker,1,397.28,0.25,Credit Card,397.28,99.32,297.96,50.65
+TXN-10872,2023-11-14,CUST-1226,61,Female,Clothing,Hooded Sweatshirt,2,72.03,0.0,UPI / Direct Debit,144.06,0.0,144.06,64.83
+TXN-10873,2023-11-14,CUST-1294,45,Female,Sports & Outdoors,Yoga Mat Non-Slip,2,207.67,0.0,Credit Card,415.34,0.0,415.34,145.37
+TXN-10874,2023-11-15,CUST-1306,54,Male,Clothing,Classic Cotton T-Shirt,1,21.79,0.1,Credit Card,21.79,2.18,19.61,8.82
+TXN-10875,2023-11-15,CUST-1098,65,Female,Home & Kitchen,Blender 1000W,1,271.37,0.0,UPI / Direct Debit,271.37,0.0,271.37,81.41
+TXN-10876,2023-11-16,CUST-1338,42,Female,Electronics,4K Monitor 27in,3,829.14,0.15,Cash on Delivery,2487.42,373.11,2114.31,359.43
+TXN-10877,2023-11-16,CUST-1286,53,Male,Electronics,Smartphone Pro,4,974.49,0.1,Debit Card,3897.96,389.8,3508.16,596.39
+TXN-10878,2023-11-16,CUST-1335,34,Male,Electronics,Bluetooth Speaker,1,1124.68,0.2,Credit Card,1124.68,224.94,899.74,152.96
+TXN-10879,2023-11-17,CUST-1347,41,Female,Clothing,Classic Cotton T-Shirt,4,22.61,0.05,UPI / Direct Debit,90.44,4.52,85.92,38.66
+TXN-10880,2023-11-17,CUST-1308,38,Male,Electronics,Wireless Earbuds,1,252.24,0.1,Digital Wallet,252.24,25.22,227.02,38.59
+TXN-10881,2023-11-17,CUST-1249,19,Male,Clothing,Hooded Sweatshirt,1,135.19,0.05,Debit Card,135.19,6.76,128.43,57.79
+TXN-10882,2023-11-18,CUST-1166,48,Female,Clothing,Leather Jacket,3,79.6,0.1,Debit Card,238.8,23.88,214.92,96.71
+TXN-10883,2023-11-18,CUST-1335,61,Female,Clothing,Slim Fit Denim Jeans,1,93.39,0.05,Digital Wallet,93.39,4.67,88.72,39.92
+TXN-10884,2023-11-18,CUST-1030,50,Female,Electronics,Bluetooth Speaker,1,822.59,0.0,Debit Card,822.59,0.0,822.59,139.84
+TXN-10885,2023-11-19,CUST-1247,47,Female,Electronics,Wireless Earbuds,1,840.55,0.05,Credit Card,840.55,42.03,798.52,135.75
+TXN-10886,2023-11-19,CUST-1106,29,Female,Sports & Outdoors,Running Hydration Backpack,3,234.64,0.05,Credit Card,703.92,35.2,668.72,234.05
+TXN-10887,2023-11-20,CUST-1051,61,Male,Home & Kitchen,Non-Stick Cookware Set,3,397.89,0.15,Digital Wallet,1193.67,179.05,1014.62,304.39
+TXN-10888,2023-11-20,CUST-1081,29,Female,Clothing,Summer Floral Dress,1,113.61,0.1,UPI / Direct Debit,113.61,11.36,102.25,46.01
+TXN-10889,2023-11-20,CUST-1133,68,Male,Electronics,Wireless Earbuds,1,401.69,0.1,Credit Card,401.69,40.17,361.52,61.46
+TXN-10890,2023-11-21,CUST-1285,66,Male,Sports & Outdoors,Camping Tent 4-Person,1,222.94,0.0,UPI / Direct Debit,222.94,0.0,222.94,78.03
+TXN-10891,2023-11-21,CUST-1388,69,Female,Home & Kitchen,Espresso Coffee Maker,2,52.92,0.1,Debit Card,105.84,10.58,95.26,28.58
+TXN-10892,2023-11-21,CUST-1138,41,Female,Clothing,Summer Floral Dress,1,50.03,0.05,Digital Wallet,50.03,2.5,47.53,21.39
+TXN-10893,2023-11-22,CUST-1184,41,Male,Beauty & Personal Care,Sunscreen SPF 50,2,81.15,0.15,Credit Card,162.3,24.35,137.95,75.87
+TXN-10894,2023-11-22,CUST-1330,28,Female,Electronics,Bluetooth Speaker,1,366.93,0.2,UPI / Direct Debit,366.93,73.39,293.54,49.9
+TXN-10895,2023-11-22,CUST-1273,30,Female,Clothing,Summer Floral Dress,1,48.67,0.0,Cash on Delivery,48.67,0.0,48.67,21.9
+TXN-10896,2023-11-23,CUST-1340,44,Female,Home & Kitchen,Espresso Coffee Maker,1,85.28,0.15,UPI / Direct Debit,85.28,12.79,72.49,21.75
+TXN-10897,2023-11-23,CUST-1069,25,Male,Electronics,Wireless Earbuds,1,1042.21,0.0,Credit Card,1042.21,0.0,1042.21,177.18
+TXN-10898,2023-11-24,CUST-1034,27,Female,Sports & Outdoors,Running Hydration Backpack,4,137.51,0.0,Digital Wallet,550.04,0.0,550.04,192.51
+TXN-10899,2023-11-24,CUST-1262,25,Male,Home & Kitchen,Espresso Coffee Maker,1,280.66,0.05,UPI / Direct Debit,280.66,14.03,266.63,79.99
+TXN-10900,2023-11-24,CUST-1053,37,Male,Clothing,Classic Cotton T-Shirt,1,51.07,0.0,UPI / Direct Debit,51.07,0.0,51.07,22.98
+TXN-10901,2023-11-25,CUST-1205,25,Female,Electronics,Bluetooth Speaker,1,929.01,0.1,UPI / Direct Debit,929.01,92.9,836.11,142.14
+TXN-10902,2023-11-25,CUST-1126,26,Female,Electronics,4K Monitor 27in,1,931.21,0.0,Credit Card,931.21,0.0,931.21,158.31
+TXN-10903,2023-11-25,CUST-1235,24,Female,Clothing,Leather Jacket,1,60.63,0.0,Digital Wallet,60.63,0.0,60.63,27.28
+TXN-10904,2023-11-26,CUST-1043,31,Female,Home & Kitchen,Non-Stick Cookware Set,1,184.49,0.05,UPI / Direct Debit,184.49,9.22,175.27,52.58
+TXN-10905,2023-11-26,CUST-1240,45,Male,Electronics,4K Monitor 27in,1,314.85,0.1,UPI / Direct Debit,314.85,31.49,283.36,48.17
+TXN-10906,2023-11-27,CUST-1371,19,Female,Clothing,Summer Floral Dress,2,146.94,0.2,Credit Card,293.88,58.78,235.1,105.8
+TXN-10907,2023-11-27,CUST-1111,60,Male,Home & Kitchen,Air Fryer Deluxe,1,270.0,0.1,UPI / Direct Debit,270.0,27.0,243.0,72.9
+TXN-10908,2023-11-27,CUST-1249,25,Female,Electronics,Smartwatch Ultra,1,1126.69,0.1,Cash on Delivery,1126.69,112.67,1014.02,172.38
+TXN-10909,2023-11-28,CUST-1151,30,Male,Home & Kitchen,Espresso Coffee Maker,4,145.43,0.0,Debit Card,581.72,0.0,581.72,174.52
+TXN-10910,2023-11-28,CUST-1183,38,Female,Electronics,Smartphone Pro,1,955.72,0.0,Digital Wallet,955.72,0.0,955.72,162.47
+TXN-10911,2023-11-28,CUST-1336,64,Female,Sports & Outdoors,Yoga Mat Non-Slip,1,197.32,0.0,UPI / Direct Debit,197.32,0.0,197.32,69.06
+TXN-10912,2023-11-29,CUST-1095,45,Female,Clothing,Leather Jacket,1,109.91,0.05,Debit Card,109.91,5.5,104.41,46.98
+TXN-10913,2023-11-29,CUST-1374,52,Female,Electronics,Bluetooth Speaker,1,1161.52,0.1,UPI / Direct Debit,1161.52,116.15,1045.37,177.71
+TXN-10914,2023-11-29,CUST-1008,40,Female,Clothing,Leather Jacket,2,71.15,0.05,Cash on Delivery,142.3,7.12,135.18,60.83
+TXN-10915,2023-11-30,CUST-1388,63,Male,Clothing,Classic Cotton T-Shirt,1,36.98,0.1,Debit Card,36.98,3.7,33.28,14.98
+TXN-10916,2023-11-30,CUST-1360,32,Male,Home & Kitchen,Espresso Coffee Maker,2,279.5,0.05,UPI / Direct Debit,559.0,27.95,531.05,159.31
+TXN-10917,2023-12-01,CUST-1388,19,Female,Home & Kitchen,Blender 1000W,1,300.47,0.0,Credit Card,300.47,0.0,300.47,90.14
+TXN-10918,2023-12-01,CUST-1184,68,Male,Home & Kitchen,Robot Vacuum Cleaner,1,244.32,0.0,Credit Card,244.32,0.0,244.32,73.3
+TXN-10919,2023-12-01,CUST-1281,29,Female,Electronics,Wireless Earbuds,2,311.64,0.15,UPI / Direct Debit,623.28,93.49,529.79,90.06
+TXN-10920,2023-12-02,CUST-1195,69,Male,Electronics,Smartwatch Ultra,1,644.99,0.1,Digital Wallet,644.99,64.5,580.49,98.68
+TXN-10921,2023-12-02,CUST-1352,53,Male,Electronics,Bluetooth Speaker,2,429.65,0.15,Credit Card,859.3,128.89,730.41,124.17
+TXN-10922,2023-12-02,CUST-1195,20,Female,Clothing,Summer Floral Dress,1,75.56,0.0,Credit Card,75.56,0.0,75.56,34.0
+TXN-10923,2023-12-03,CUST-1155,22,Other,Beauty & Personal Care,Sunscreen SPF 50,2,61.86,0.25,Credit Card,123.72,30.93,92.79,51.03
+TXN-10924,2023-12-03,CUST-1093,20,Female,Clothing,Hooded Sweatshirt,1,116.87,0.0,Debit Card,116.87,0.0,116.87,52.59
+TXN-10925,2023-12-03,CUST-1160,64,Female,Electronics,4K Monitor 27in,3,340.09,0.0,UPI / Direct Debit,1020.27,0.0,1020.27,173.45
+TXN-10926,2023-12-04,CUST-1061,36,Female,Clothing,Leather Jacket,1,72.68,0.25,Credit Card,72.68,18.17,54.51,24.53
+TXN-10927,2023-12-04,CUST-1122,19,Male,Beauty & Personal Care,Hydrating Face Serum,3,33.09,0.0,UPI / Direct Debit,99.27,0.0,99.27,54.6
+TXN-10928,2023-12-05,CUST-1051,61,Male,Home & Kitchen,Blender 1000W,1,107.3,0.1,UPI / Direct Debit,107.3,10.73,96.57,28.97
+TXN-10929,2023-12-05,CUST-1277,54,Female,Beauty & Personal Care,Electric Toothbrush,2,72.43,0.0,UPI / Direct Debit,144.86,0.0,144.86,79.67
+TXN-10930,2023-12-05,CUST-1005,34,Female,Electronics,4K Monitor 27in,1,1098.36,0.05,Debit Card,1098.36,54.92,1043.44,177.38
+TXN-10931,2023-12-06,CUST-1092,31,Female,Electronics,Smartwatch Ultra,3,494.66,0.2,Credit Card,1483.98,296.8,1187.18,201.82
+TXN-10932,2023-12-06,CUST-1170,45,Other,Beauty & Personal Care,Organic Shampoo & Conditioner,1,69.97,0.0,UPI / Direct Debit,69.97,0.0,69.97,38.48
+TXN-10933,2023-12-06,CUST-1317,44,Male,Home & Kitchen,Air Fryer Deluxe,1,361.51,0.1,Credit Card,361.51,36.15,325.36,97.61
+TXN-10934,2023-12-07,CUST-1022,27,Male,Clothing,Leather Jacket,1,129.99,0.0,Credit Card,129.99,0.0,129.99,58.5
+TXN-10935,2023-12-07,CUST-1326,20,Female,Home & Kitchen,Robot Vacuum Cleaner,1,101.54,0.1,UPI / Direct Debit,101.54,10.15,91.39,27.42
+TXN-10936,2023-12-07,CUST-1001,53,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,85.66,0.0,Credit Card,85.66,0.0,85.66,47.11
+TXN-10937,2023-12-08,CUST-1133,55,Male,Home & Kitchen,Blender 1000W,4,172.11,0.0,UPI / Direct Debit,688.44,0.0,688.44,206.53
+TXN-10938,2023-12-08,CUST-1233,42,Male,Home & Kitchen,Air Fryer Deluxe,5,158.48,0.0,Credit Card,792.4,0.0,792.4,237.72
+TXN-10939,2023-12-09,CUST-1012,39,Male,Clothing,Leather Jacket,1,28.11,0.0,Credit Card,28.11,0.0,28.11,12.65
+TXN-10940,2023-12-09,CUST-1346,65,Female,Clothing,Leather Jacket,4,83.19,0.2,Cash on Delivery,332.76,66.55,266.21,119.79
+TXN-10941,2023-12-09,CUST-1046,56,Female,Clothing,Summer Floral Dress,1,34.16,0.0,UPI / Direct Debit,34.16,0.0,34.16,15.37
+TXN-10942,2023-12-10,CUST-1034,64,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,31.51,0.0,Debit Card,31.51,0.0,31.51,17.33
+TXN-10943,2023-12-10,CUST-1078,47,Female,Beauty & Personal Care,Hydrating Face Serum,2,36.75,0.05,Cash on Delivery,73.5,3.68,69.82,38.4
+TXN-10944,2023-12-10,CUST-1218,38,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,2,74.38,0.0,UPI / Direct Debit,148.76,0.0,148.76,81.82
+TXN-10945,2023-12-11,CUST-1301,47,Female,Electronics,Wireless Earbuds,5,1060.55,0.1,Debit Card,5302.75,530.28,4772.47,811.32
+TXN-10946,2023-12-11,CUST-1073,45,Male,Home & Kitchen,Air Fryer Deluxe,1,145.1,0.25,UPI / Direct Debit,145.1,36.28,108.82,32.65
+TXN-10947,2023-12-11,CUST-1282,48,Male,Home & Kitchen,Air Fryer Deluxe,2,347.57,0.05,Credit Card,695.14,34.76,660.38,198.11
+TXN-10948,2023-12-12,CUST-1249,69,Male,Home & Kitchen,Robot Vacuum Cleaner,1,347.03,0.15,Credit Card,347.03,52.05,294.98,88.49
+TXN-10949,2023-12-12,CUST-1047,43,Female,Home & Kitchen,Robot Vacuum Cleaner,1,313.33,0.05,UPI / Direct Debit,313.33,15.67,297.66,89.3
+TXN-10950,2023-12-13,CUST-1121,60,Female,Beauty & Personal Care,Hydrating Face Serum,1,23.72,0.0,Credit Card,23.72,0.0,23.72,13.05
+TXN-10951,2023-12-13,CUST-1214,39,Female,Clothing,Hooded Sweatshirt,5,109.73,0.1,Credit Card,548.65,54.86,493.79,222.21
+TXN-10952,2023-12-13,CUST-1239,38,Female,Clothing,Leather Jacket,3,142.84,0.05,Credit Card,428.52,21.43,407.09,183.19
+TXN-10953,2023-12-14,CUST-1056,18,Male,Electronics,Smartwatch Ultra,2,844.45,0.1,Credit Card,1688.9,168.89,1520.01,258.4
+TXN-10954,2023-12-14,CUST-1350,54,Female,Clothing,Classic Cotton T-Shirt,1,63.1,0.15,Credit Card,63.1,9.46,53.64,24.14
+TXN-10955,2023-12-14,CUST-1107,30,Female,Home & Kitchen,Robot Vacuum Cleaner,1,217.21,0.05,Credit Card,217.21,10.86,206.35,61.9
+TXN-10956,2023-12-15,CUST-1319,38,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,61.9,0.2,Credit Card,61.9,12.38,49.52,27.24
+TXN-10957,2023-12-15,CUST-1048,63,Male,Electronics,Smartphone Pro,1,651.84,0.1,Credit Card,651.84,65.18,586.66,99.73
+TXN-10958,2023-12-15,CUST-1061,26,Female,Electronics,4K Monitor 27in,1,214.35,0.05,UPI / Direct Debit,214.35,10.72,203.63,34.62
+TXN-10959,2023-12-16,CUST-1337,34,Female,Home & Kitchen,Non-Stick Cookware Set,2,148.59,0.1,Credit Card,297.18,29.72,267.46,80.24
+TXN-10960,2023-12-16,CUST-1026,64,Female,Electronics,Smartphone Pro,1,978.68,0.0,Cash on Delivery,978.68,0.0,978.68,166.38
+TXN-10961,2023-12-17,CUST-1292,38,Female,Electronics,Smartphone Pro,1,1044.79,0.25,Cash on Delivery,1044.79,261.2,783.59,133.21
+TXN-10962,2023-12-17,CUST-1257,48,Other,Electronics,Bluetooth Speaker,1,233.78,0.1,UPI / Direct Debit,233.78,23.38,210.4,35.77
+TXN-10963,2023-12-17,CUST-1008,56,Male,Electronics,Bluetooth Speaker,1,1146.67,0.0,Debit Card,1146.67,0.0,1146.67,194.93
+TXN-10964,2023-12-18,CUST-1113,39,Male,Electronics,Bluetooth Speaker,1,448.28,0.0,UPI / Direct Debit,448.28,0.0,448.28,76.21
+TXN-10965,2023-12-18,CUST-1355,29,Male,Clothing,Summer Floral Dress,4,106.09,0.1,Credit Card,424.36,42.44,381.92,171.86
+TXN-10966,2023-12-18,CUST-1253,23,Male,Clothing,Leather Jacket,2,117.73,0.0,Digital Wallet,235.46,0.0,235.46,105.96
+TXN-10967,2023-12-19,CUST-1180,33,Female,Beauty & Personal Care,Hydrating Face Serum,3,74.61,0.0,Credit Card,223.83,0.0,223.83,123.11
+TXN-10968,2023-12-19,CUST-1207,43,Female,Clothing,Leather Jacket,1,142.94,0.05,Digital Wallet,142.94,7.15,135.79,61.11
+TXN-10969,2023-12-19,CUST-1303,22,Female,Home & Kitchen,Espresso Coffee Maker,1,148.9,0.0,UPI / Direct Debit,148.9,0.0,148.9,44.67
+TXN-10970,2023-12-20,CUST-1127,26,Male,Electronics,Bluetooth Speaker,1,1041.53,0.05,Credit Card,1041.53,52.08,989.45,168.21
+TXN-10971,2023-12-20,CUST-1056,63,Female,Electronics,4K Monitor 27in,3,227.49,0.0,UPI / Direct Debit,682.47,0.0,682.47,116.02
+TXN-10972,2023-12-21,CUST-1214,57,Male,Home & Kitchen,Espresso Coffee Maker,2,291.63,0.0,UPI / Direct Debit,583.26,0.0,583.26,174.98
+TXN-10973,2023-12-21,CUST-1014,31,Male,Electronics,Smartphone Pro,1,911.02,0.1,Credit Card,911.02,91.1,819.92,139.39
+TXN-10974,2023-12-21,CUST-1028,61,Female,Clothing,Classic Cotton T-Shirt,1,108.09,0.05,UPI / Direct Debit,108.09,5.4,102.69,46.21
+TXN-10975,2023-12-22,CUST-1078,59,Female,Clothing,Hooded Sweatshirt,1,52.79,0.0,Debit Card,52.79,0.0,52.79,23.76
+TXN-10976,2023-12-22,CUST-1216,47,Male,Home & Kitchen,Espresso Coffee Maker,2,352.79,0.0,UPI / Direct Debit,705.58,0.0,705.58,211.67
+TXN-10977,2023-12-22,CUST-1386,69,Male,Electronics,Smartwatch Ultra,4,269.12,0.05,Credit Card,1076.48,53.82,1022.66,173.85
+TXN-10978,2023-12-23,CUST-1365,69,Female,Clothing,Slim Fit Denim Jeans,2,26.96,0.0,Credit Card,53.92,0.0,53.92,24.26
+TXN-10979,2023-12-23,CUST-1154,43,Male,Home & Kitchen,Espresso Coffee Maker,1,296.16,0.0,Cash on Delivery,296.16,0.0,296.16,88.85
+TXN-10980,2023-12-23,CUST-1014,62,Male,Electronics,4K Monitor 27in,1,612.53,0.0,UPI / Direct Debit,612.53,0.0,612.53,104.13
+TXN-10981,2023-12-24,CUST-1187,46,Female,Home & Kitchen,Non-Stick Cookware Set,1,344.07,0.15,UPI / Direct Debit,344.07,51.61,292.46,87.74
+TXN-10982,2023-12-24,CUST-1312,36,Male,Home & Kitchen,Blender 1000W,1,174.56,0.1,Digital Wallet,174.56,17.46,157.1,47.13
+TXN-10983,2023-12-25,CUST-1371,64,Male,Sports & Outdoors,Adjustable Dumbbells Set,1,62.86,0.1,Credit Card,62.86,6.29,56.57,19.8
+TXN-10984,2023-12-25,CUST-1007,25,Female,Electronics,Smartphone Pro,2,1016.82,0.1,UPI / Direct Debit,2033.64,203.36,1830.28,311.15
+TXN-10985,2023-12-25,CUST-1003,40,Other,Beauty & Personal Care,Organic Shampoo & Conditioner,2,54.49,0.1,Cash on Delivery,108.98,10.9,98.08,53.94
+TXN-10986,2023-12-26,CUST-1111,59,Female,Clothing,Summer Floral Dress,1,44.59,0.05,Debit Card,44.59,2.23,42.36,19.06
+TXN-10987,2023-12-26,CUST-1238,52,Male,Clothing,Hooded Sweatshirt,3,113.64,0.1,Credit Card,340.92,34.09,306.83,138.07
+TXN-10988,2023-12-26,CUST-1363,48,Male,Electronics,Smartwatch Ultra,1,652.45,0.0,Credit Card,652.45,0.0,652.45,110.92
+TXN-10989,2023-12-27,CUST-1239,52,Male,Home & Kitchen,Blender 1000W,1,254.97,0.1,Debit Card,254.97,25.5,229.47,68.84
+TXN-10990,2023-12-27,CUST-1274,49,Male,Electronics,Smartwatch Ultra,1,596.21,0.1,Credit Card,596.21,59.62,536.59,91.22
+TXN-10991,2023-12-27,CUST-1294,22,Female,Clothing,Leather Jacket,1,127.72,0.05,Digital Wallet,127.72,6.39,121.33,54.6
+TXN-10992,2023-12-28,CUST-1227,33,Female,Electronics,Smartphone Pro,1,1009.11,0.0,Credit Card,1009.11,0.0,1009.11,171.55
+TXN-10993,2023-12-28,CUST-1371,34,Female,Beauty & Personal Care,Hydrating Face Serum,1,66.77,0.0,Credit Card,66.77,0.0,66.77,36.72
+TXN-10994,2023-12-29,CUST-1015,49,Male,Home & Kitchen,Air Fryer Deluxe,1,73.37,0.1,Credit Card,73.37,7.34,66.03,19.81
+TXN-10995,2023-12-29,CUST-1192,55,Male,Home & Kitchen,Non-Stick Cookware Set,5,340.34,0.1,Debit Card,1701.7,170.17,1531.53,459.46
+TXN-10996,2023-12-29,CUST-1119,49,Female,Clothing,Hooded Sweatshirt,1,107.22,0.15,Cash on Delivery,107.22,16.08,91.14,41.01
+TXN-10997,2023-12-30,CUST-1028,69,Male,Electronics,Wireless Earbuds,1,860.67,0.0,UPI / Direct Debit,860.67,0.0,860.67,146.31
+TXN-10998,2023-12-30,CUST-1202,37,Female,Home & Kitchen,Espresso Coffee Maker,1,167.13,0.1,Digital Wallet,167.13,16.71,150.42,45.13
+TXN-10999,2023-12-30,CUST-1039,65,Female,Clothing,Classic Cotton T-Shirt,2,134.3,0.05,Credit Card,268.6,13.43,255.17,114.83
+TXN-11000,2023-12-31,CUST-1273,19,Female,Electronics,Bluetooth Speaker,1,892.42,0.15,Credit Card,892.42,133.86,758.56,128.96
+TXN-11001,2023-12-31,CUST-1231,37,Male,Home & Kitchen,Espresso Coffee Maker,3,75.98,0.05,Cash on Delivery,227.94,11.4,216.54,64.96
+TXN-11002,2023-12-31,CUST-1086,64,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,116.75,0.05,Cash on Delivery,116.75,5.84,110.91,38.82
+TXN-11003,2024-01-01,CUST-1126,35,Male,Home & Kitchen,Non-Stick Cookware Set,1,357.64,0.05,Cash on Delivery,357.64,17.88,339.76,101.93
+TXN-11004,2024-01-01,CUST-1300,18,Male,Home & Kitchen,Robot Vacuum Cleaner,2,52.18,0.1,Debit Card,104.36,10.44,93.92,28.18
+TXN-11005,2024-01-02,CUST-1025,46,Female,Sports & Outdoors,Yoga Mat Non-Slip,1,241.32,0.25,UPI / Direct Debit,241.32,60.33,180.99,63.35
+TXN-11006,2024-01-02,CUST-1145,46,Male,Electronics,Wireless Earbuds,1,840.66,0.0,Credit Card,840.66,0.0,840.66,142.91
+TXN-11007,2024-01-02,CUST-1013,36,Female,Clothing,Leather Jacket,1,102.07,0.0,Digital Wallet,102.07,0.0,102.07,45.93
+TXN-11008,2024-01-03,CUST-1212,61,Female,Sports & Outdoors,Cycling Helmet,2,85.88,0.2,Credit Card,171.76,34.35,137.41,48.09
+TXN-11009,2024-01-03,CUST-1025,57,Female,Electronics,Smartphone Pro,1,358.65,0.05,UPI / Direct Debit,358.65,17.93,340.72,57.92
+TXN-11010,2024-01-03,CUST-1068,23,Female,Home & Kitchen,Robot Vacuum Cleaner,1,377.91,0.1,Debit Card,377.91,37.79,340.12,102.04
+TXN-11011,2024-01-04,CUST-1394,61,Male,Clothing,Leather Jacket,5,58.77,0.05,Credit Card,293.85,14.69,279.16,125.62
+TXN-11012,2024-01-04,CUST-1067,56,Other,Clothing,Leather Jacket,1,120.81,0.0,Cash on Delivery,120.81,0.0,120.81,54.36
+TXN-11013,2024-01-04,CUST-1233,67,Female,Home & Kitchen,Espresso Coffee Maker,3,178.1,0.1,Credit Card,534.3,53.43,480.87,144.26
+TXN-11014,2024-01-05,CUST-1109,63,Female,Sports & Outdoors,Yoga Mat Non-Slip,2,56.33,0.1,Debit Card,112.66,11.27,101.39,35.49
+TXN-11015,2024-01-05,CUST-1146,25,Male,Beauty & Personal Care,Perfume Eau de Parfum,1,13.32,0.0,UPI / Direct Debit,13.32,0.0,13.32,7.33
+TXN-11016,2024-01-06,CUST-1111,41,Female,Electronics,Bluetooth Speaker,1,689.57,0.0,UPI / Direct Debit,689.57,0.0,689.57,117.23
+TXN-11017,2024-01-06,CUST-1228,37,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,87.15,0.15,UPI / Direct Debit,87.15,13.07,74.08,40.74
+TXN-11018,2024-01-06,CUST-1111,31,Female,Electronics,Smartphone Pro,2,493.43,0.0,Credit Card,986.86,0.0,986.86,167.77
+TXN-11019,2024-01-07,CUST-1034,22,Male,Clothing,Hooded Sweatshirt,2,66.43,0.15,UPI / Direct Debit,132.86,19.93,112.93,50.82
+TXN-11020,2024-01-07,CUST-1111,58,Female,Clothing,Slim Fit Denim Jeans,2,64.72,0.0,UPI / Direct Debit,129.44,0.0,129.44,58.25
+TXN-11021,2024-01-07,CUST-1264,57,Male,Clothing,Classic Cotton T-Shirt,4,87.66,0.05,UPI / Direct Debit,350.64,17.53,333.11,149.9
+TXN-11022,2024-01-08,CUST-1369,51,Male,Clothing,Leather Jacket,2,77.28,0.2,Credit Card,154.56,30.91,123.65,55.64
+TXN-11023,2024-01-08,CUST-1236,33,Male,Sports & Outdoors,Yoga Mat Non-Slip,1,222.98,0.1,Credit Card,222.98,22.3,200.68,70.24
+TXN-11024,2024-01-08,CUST-1083,62,Male,Home & Kitchen,Air Fryer Deluxe,1,219.01,0.05,Credit Card,219.01,10.95,208.06,62.42
+TXN-11025,2024-01-09,CUST-1042,24,Male,Home & Kitchen,Air Fryer Deluxe,3,219.82,0.1,Debit Card,659.46,65.95,593.51,178.05
+TXN-11026,2024-01-09,CUST-1101,33,Female,Electronics,Smartwatch Ultra,1,234.98,0.0,Credit Card,234.98,0.0,234.98,39.95
+TXN-11027,2024-01-10,CUST-1006,24,Female,Sports & Outdoors,Yoga Mat Non-Slip,1,246.12,0.0,Cash on Delivery,246.12,0.0,246.12,86.14
+TXN-11028,2024-01-10,CUST-1180,44,Female,Sports & Outdoors,Running Hydration Backpack,2,81.24,0.25,Debit Card,162.48,40.62,121.86,42.65
+TXN-11029,2024-01-10,CUST-1282,31,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,18.11,0.1,Debit Card,18.11,1.81,16.3,8.96
+TXN-11030,2024-01-11,CUST-1320,31,Male,Electronics,Smartwatch Ultra,4,822.72,0.1,Cash on Delivery,3290.88,329.09,2961.79,503.5
+TXN-11031,2024-01-11,CUST-1226,61,Male,Electronics,Bluetooth Speaker,2,746.81,0.0,Credit Card,1493.62,0.0,1493.62,253.92
+TXN-11032,2024-01-11,CUST-1315,50,Male,Electronics,Bluetooth Speaker,1,544.96,0.0,Cash on Delivery,544.96,0.0,544.96,92.64
+TXN-11033,2024-01-12,CUST-1365,50,Female,Electronics,Smartwatch Ultra,4,552.86,0.0,UPI / Direct Debit,2211.44,0.0,2211.44,375.94
+TXN-11034,2024-01-12,CUST-1229,61,Female,Clothing,Slim Fit Denim Jeans,1,122.05,0.05,Cash on Delivery,122.05,6.1,115.95,52.18
+TXN-11035,2024-01-12,CUST-1377,37,Male,Sports & Outdoors,Camping Tent 4-Person,1,69.04,0.1,Cash on Delivery,69.04,6.9,62.14,21.75
+TXN-11036,2024-01-13,CUST-1289,64,Male,Clothing,Classic Cotton T-Shirt,1,126.62,0.05,Credit Card,126.62,6.33,120.29,54.13
+TXN-11037,2024-01-13,CUST-1150,53,Female,Electronics,4K Monitor 27in,1,806.6,0.15,UPI / Direct Debit,806.6,120.99,685.61,116.55
+TXN-11038,2024-01-14,CUST-1277,24,Female,Clothing,Classic Cotton T-Shirt,1,74.46,0.0,UPI / Direct Debit,74.46,0.0,74.46,33.51
+TXN-11039,2024-01-14,CUST-1198,49,Female,Electronics,Smartphone Pro,1,592.99,0.0,Debit Card,592.99,0.0,592.99,100.81
+TXN-11040,2024-01-14,CUST-1070,65,Female,Electronics,Bluetooth Speaker,1,367.44,0.0,Credit Card,367.44,0.0,367.44,62.46
+TXN-11041,2024-01-15,CUST-1112,20,Female,Electronics,Smartphone Pro,1,922.37,0.05,Credit Card,922.37,46.12,876.25,148.96
+TXN-11042,2024-01-15,CUST-1004,56,Male,Electronics,Smartphone Pro,2,654.42,0.0,UPI / Direct Debit,1308.84,0.0,1308.84,222.5
+TXN-11043,2024-01-15,CUST-1350,46,Male,Beauty & Personal Care,Sunscreen SPF 50,3,37.05,0.2,UPI / Direct Debit,111.15,22.23,88.92,48.91
+TXN-11044,2024-01-16,CUST-1331,41,Female,Sports & Outdoors,Camping Tent 4-Person,1,159.11,0.0,Digital Wallet,159.11,0.0,159.11,55.69
+TXN-11045,2024-01-16,CUST-1318,39,Female,Clothing,Hooded Sweatshirt,1,149.44,0.2,Debit Card,149.44,29.89,119.55,53.8
+TXN-11046,2024-01-16,CUST-1350,23,Female,Clothing,Classic Cotton T-Shirt,1,76.57,0.05,UPI / Direct Debit,76.57,3.83,72.74,32.73
+TXN-11047,2024-01-17,CUST-1095,65,Male,Beauty & Personal Care,Perfume Eau de Parfum,1,82.93,0.25,Credit Card,82.93,20.73,62.2,34.21
+TXN-11048,2024-01-17,CUST-1152,41,Male,Electronics,Smartwatch Ultra,2,466.42,0.05,Credit Card,932.84,46.64,886.2,150.65
+TXN-11049,2024-01-18,CUST-1311,57,Male,Electronics,Smartwatch Ultra,2,141.3,0.2,UPI / Direct Debit,282.6,56.52,226.08,38.43
+TXN-11050,2024-01-18,CUST-1137,40,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,28.12,0.0,Cash on Delivery,28.12,0.0,28.12,15.47
+TXN-11051,2024-01-18,CUST-1247,55,Male,Electronics,Smartphone Pro,1,548.94,0.1,UPI / Direct Debit,548.94,54.89,494.05,83.99
+TXN-11052,2024-01-19,CUST-1387,27,Female,Home & Kitchen,Robot Vacuum Cleaner,1,114.95,0.2,UPI / Direct Debit,114.95,22.99,91.96,27.59
+TXN-11053,2024-01-19,CUST-1243,33,Female,Clothing,Hooded Sweatshirt,2,20.02,0.0,Cash on Delivery,40.04,0.0,40.04,18.02
+TXN-11054,2024-01-19,CUST-1031,28,Male,Clothing,Hooded Sweatshirt,1,138.94,0.0,Digital Wallet,138.94,0.0,138.94,62.52
+TXN-11055,2024-01-20,CUST-1040,49,Female,Clothing,Leather Jacket,5,129.69,0.05,Credit Card,648.45,32.42,616.03,277.21
+TXN-11056,2024-01-20,CUST-1229,62,Male,Home & Kitchen,Air Fryer Deluxe,2,305.19,0.2,Credit Card,610.38,122.08,488.3,146.49
+TXN-11057,2024-01-21,CUST-1036,23,Female,Electronics,Wireless Earbuds,1,267.95,0.05,Credit Card,267.95,13.4,254.55,43.27
+TXN-11058,2024-01-21,CUST-1223,41,Male,Electronics,Smartwatch Ultra,2,214.81,0.05,Debit Card,429.62,21.48,408.14,69.38
+TXN-11059,2024-01-21,CUST-1006,50,Male,Home & Kitchen,Espresso Coffee Maker,3,59.61,0.0,Digital Wallet,178.83,0.0,178.83,53.65
+TXN-11060,2024-01-22,CUST-1322,68,Female,Clothing,Summer Floral Dress,2,114.11,0.0,Credit Card,228.22,0.0,228.22,102.7
+TXN-11061,2024-01-22,CUST-1220,29,Male,Electronics,Smartphone Pro,1,1120.26,0.15,Credit Card,1120.26,168.04,952.22,161.88
+TXN-11062,2024-01-22,CUST-1075,44,Male,Beauty & Personal Care,Electric Toothbrush,1,45.44,0.0,Cash on Delivery,45.44,0.0,45.44,24.99
+TXN-11063,2024-01-23,CUST-1004,55,Male,Clothing,Summer Floral Dress,3,35.48,0.1,Debit Card,106.44,10.64,95.8,43.11
+TXN-11064,2024-01-23,CUST-1335,35,Male,Beauty & Personal Care,Electric Toothbrush,2,51.7,0.2,Digital Wallet,103.4,20.68,82.72,45.5
+TXN-11065,2024-01-23,CUST-1134,62,Male,Beauty & Personal Care,Hydrating Face Serum,2,39.19,0.0,UPI / Direct Debit,78.38,0.0,78.38,43.11
+TXN-11066,2024-01-24,CUST-1118,56,Female,Home & Kitchen,Air Fryer Deluxe,3,171.44,0.1,UPI / Direct Debit,514.32,51.43,462.89,138.87
+TXN-11067,2024-01-24,CUST-1369,30,Female,Clothing,Leather Jacket,3,100.76,0.0,Credit Card,302.28,0.0,302.28,136.03
+TXN-11068,2024-01-25,CUST-1094,57,Female,Sports & Outdoors,Adjustable Dumbbells Set,3,186.71,0.1,Credit Card,560.13,56.01,504.12,176.44
+TXN-11069,2024-01-25,CUST-1062,47,Male,Electronics,Wireless Earbuds,1,203.88,0.0,UPI / Direct Debit,203.88,0.0,203.88,34.66
+TXN-11070,2024-01-25,CUST-1194,66,Male,Home & Kitchen,Robot Vacuum Cleaner,1,47.95,0.1,UPI / Direct Debit,47.95,4.8,43.15,12.94
+TXN-11071,2024-01-26,CUST-1335,58,Male,Electronics,Bluetooth Speaker,2,1193.65,0.0,Credit Card,2387.3,0.0,2387.3,405.84
+TXN-11072,2024-01-26,CUST-1203,69,Male,Clothing,Summer Floral Dress,2,50.24,0.05,Cash on Delivery,100.48,5.02,95.46,42.96
+TXN-11073,2024-01-26,CUST-1392,30,Female,Clothing,Leather Jacket,2,26.99,0.05,Credit Card,53.98,2.7,51.28,23.08
+TXN-11074,2024-01-27,CUST-1026,51,Male,Sports & Outdoors,Running Hydration Backpack,1,67.72,0.0,Debit Card,67.72,0.0,67.72,23.7
+TXN-11075,2024-01-27,CUST-1173,53,Female,Sports & Outdoors,Adjustable Dumbbells Set,2,33.77,0.1,Credit Card,67.54,6.75,60.79,21.28
+TXN-11076,2024-01-27,CUST-1300,47,Male,Electronics,Bluetooth Speaker,2,518.83,0.0,Cash on Delivery,1037.66,0.0,1037.66,176.4
+TXN-11077,2024-01-28,CUST-1133,42,Male,Electronics,Smartwatch Ultra,1,978.69,0.1,Credit Card,978.69,97.87,880.82,149.74
+TXN-11078,2024-01-28,CUST-1326,19,Male,Home & Kitchen,Non-Stick Cookware Set,1,159.21,0.0,Debit Card,159.21,0.0,159.21,47.76
+TXN-11079,2024-01-29,CUST-1118,53,Male,Clothing,Hooded Sweatshirt,1,77.73,0.1,Credit Card,77.73,7.77,69.96,31.48
+TXN-11080,2024-01-29,CUST-1324,35,Male,Electronics,Smartwatch Ultra,1,836.66,0.0,UPI / Direct Debit,836.66,0.0,836.66,142.23
+TXN-11081,2024-01-29,CUST-1275,22,Male,Home & Kitchen,Blender 1000W,1,220.24,0.05,Debit Card,220.24,11.01,209.23,62.77
+TXN-11082,2024-01-30,CUST-1212,36,Male,Clothing,Hooded Sweatshirt,1,131.98,0.0,Credit Card,131.98,0.0,131.98,59.39
+TXN-11083,2024-01-30,CUST-1225,59,Female,Sports & Outdoors,Camping Tent 4-Person,1,219.86,0.1,Credit Card,219.86,21.99,197.87,69.25
+TXN-11084,2024-01-30,CUST-1020,35,Female,Electronics,4K Monitor 27in,2,91.1,0.0,Cash on Delivery,182.2,0.0,182.2,30.97
+TXN-11085,2024-01-31,CUST-1113,49,Male,Clothing,Hooded Sweatshirt,2,121.14,0.15,Cash on Delivery,242.28,36.34,205.94,92.67
+TXN-11086,2024-01-31,CUST-1140,38,Male,Clothing,Slim Fit Denim Jeans,3,79.89,0.15,Credit Card,239.67,35.95,203.72,91.67
+TXN-11087,2024-01-31,CUST-1047,27,Female,Beauty & Personal Care,Sunscreen SPF 50,1,88.15,0.0,Credit Card,88.15,0.0,88.15,48.48
+TXN-11088,2024-02-01,CUST-1001,54,Other,Clothing,Hooded Sweatshirt,1,82.81,0.1,Credit Card,82.81,8.28,74.53,33.54
+TXN-11089,2024-02-01,CUST-1090,66,Female,Home & Kitchen,Non-Stick Cookware Set,3,394.23,0.0,Credit Card,1182.69,0.0,1182.69,354.81
+TXN-11090,2024-02-02,CUST-1142,39,Male,Electronics,Wireless Earbuds,1,925.12,0.0,Digital Wallet,925.12,0.0,925.12,157.27
+TXN-11091,2024-02-02,CUST-1320,30,Female,Beauty & Personal Care,Hydrating Face Serum,5,31.52,0.1,UPI / Direct Debit,157.6,15.76,141.84,78.01
+TXN-11092,2024-02-02,CUST-1038,34,Female,Clothing,Classic Cotton T-Shirt,3,89.98,0.1,UPI / Direct Debit,269.94,26.99,242.95,109.33
+TXN-11093,2024-02-03,CUST-1293,26,Male,Electronics,4K Monitor 27in,1,1191.19,0.1,Digital Wallet,1191.19,119.12,1072.07,182.25
+TXN-11094,2024-02-03,CUST-1382,41,Female,Home & Kitchen,Blender 1000W,5,347.14,0.0,UPI / Direct Debit,1735.7,0.0,1735.7,520.71
+TXN-11095,2024-02-03,CUST-1139,61,Male,Electronics,Wireless Earbuds,1,189.05,0.0,Debit Card,189.05,0.0,189.05,32.14
+TXN-11096,2024-02-04,CUST-1356,31,Female,Electronics,Bluetooth Speaker,1,871.14,0.0,Credit Card,871.14,0.0,871.14,148.09
+TXN-11097,2024-02-04,CUST-1333,63,Female,Beauty & Personal Care,Hydrating Face Serum,2,38.94,0.1,UPI / Direct Debit,77.88,7.79,70.09,38.55
+TXN-11098,2024-02-04,CUST-1259,25,Female,Clothing,Summer Floral Dress,1,20.9,0.05,UPI / Direct Debit,20.9,1.04,19.86,8.94
+TXN-11099,2024-02-05,CUST-1161,54,Female,Home & Kitchen,Air Fryer Deluxe,4,181.87,0.1,Credit Card,727.48,72.75,654.73,196.42
+TXN-11100,2024-02-05,CUST-1390,36,Male,Clothing,Slim Fit Denim Jeans,1,50.51,0.0,Credit Card,50.51,0.0,50.51,22.73
+TXN-11101,2024-02-06,CUST-1178,45,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,75.14,0.0,Credit Card,75.14,0.0,75.14,41.33
+TXN-11102,2024-02-06,CUST-1010,63,Female,Electronics,Bluetooth Speaker,2,457.81,0.0,Credit Card,915.62,0.0,915.62,155.66
+TXN-11103,2024-02-06,CUST-1261,58,Female,Clothing,Leather Jacket,2,127.57,0.0,UPI / Direct Debit,255.14,0.0,255.14,114.81
+TXN-11104,2024-02-07,CUST-1138,47,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,25.13,0.0,UPI / Direct Debit,25.13,0.0,25.13,8.8
+TXN-11105,2024-02-07,CUST-1172,24,Female,Beauty & Personal Care,Electric Toothbrush,1,36.05,0.15,UPI / Direct Debit,36.05,5.41,30.64,16.85
+TXN-11106,2024-02-07,CUST-1386,43,Other,Clothing,Classic Cotton T-Shirt,3,51.34,0.15,Credit Card,154.02,23.1,130.92,58.91
+TXN-11107,2024-02-08,CUST-1013,57,Female,Clothing,Hooded Sweatshirt,1,50.35,0.05,Debit Card,50.35,2.52,47.83,21.52
+TXN-11108,2024-02-08,CUST-1168,63,Female,Beauty & Personal Care,Perfume Eau de Parfum,3,17.72,0.05,Credit Card,53.16,2.66,50.5,27.77
+TXN-11109,2024-02-08,CUST-1130,63,Male,Clothing,Hooded Sweatshirt,2,44.32,0.0,UPI / Direct Debit,88.64,0.0,88.64,39.89
+TXN-11110,2024-02-09,CUST-1084,28,Female,Home & Kitchen,Blender 1000W,2,237.22,0.15,Debit Card,474.44,71.17,403.27,120.98
+TXN-11111,2024-02-09,CUST-1321,31,Male,Home & Kitchen,Robot Vacuum Cleaner,2,141.06,0.0,Credit Card,282.12,0.0,282.12,84.64
+TXN-11112,2024-02-10,CUST-1319,38,Male,Electronics,Smartwatch Ultra,1,547.48,0.2,Debit Card,547.48,109.5,437.98,74.46
+TXN-11113,2024-02-10,CUST-1101,25,Male,Electronics,4K Monitor 27in,2,502.09,0.05,Debit Card,1004.18,50.21,953.97,162.17
+TXN-11114,2024-02-10,CUST-1329,20,Female,Home & Kitchen,Air Fryer Deluxe,3,353.83,0.0,Credit Card,1061.49,0.0,1061.49,318.45
+TXN-11115,2024-02-11,CUST-1273,45,Female,Electronics,4K Monitor 27in,1,1093.93,0.2,Credit Card,1093.93,218.79,875.14,148.77
+TXN-11116,2024-02-11,CUST-1265,46,Female,Electronics,Bluetooth Speaker,4,632.11,0.0,Digital Wallet,2528.44,0.0,2528.44,429.83
+TXN-11117,2024-02-11,CUST-1399,40,Male,Sports & Outdoors,Adjustable Dumbbells Set,1,99.29,0.05,Credit Card,99.29,4.96,94.33,33.02
+TXN-11118,2024-02-12,CUST-1038,35,Female,Clothing,Classic Cotton T-Shirt,1,33.87,0.05,Cash on Delivery,33.87,1.69,32.18,14.48
+TXN-11119,2024-02-12,CUST-1094,52,Female,Home & Kitchen,Non-Stick Cookware Set,1,382.04,0.0,UPI / Direct Debit,382.04,0.0,382.04,114.61
+TXN-11120,2024-02-12,CUST-1095,30,Male,Clothing,Leather Jacket,4,27.82,0.05,Credit Card,111.28,5.56,105.72,47.57
+TXN-11121,2024-02-13,CUST-1305,29,Male,Clothing,Slim Fit Denim Jeans,1,58.68,0.1,Credit Card,58.68,5.87,52.81,23.76
+TXN-11122,2024-02-13,CUST-1069,64,Male,Electronics,4K Monitor 27in,3,413.83,0.1,UPI / Direct Debit,1241.49,124.15,1117.34,189.95
+TXN-11123,2024-02-14,CUST-1318,67,Female,Clothing,Slim Fit Denim Jeans,3,61.64,0.0,UPI / Direct Debit,184.92,0.0,184.92,83.21
+TXN-11124,2024-02-14,CUST-1236,22,Female,Clothing,Leather Jacket,1,41.35,0.2,Debit Card,41.35,8.27,33.08,14.89
+TXN-11125,2024-02-14,CUST-1334,56,Male,Clothing,Leather Jacket,1,121.8,0.0,Digital Wallet,121.8,0.0,121.8,54.81
+TXN-11126,2024-02-15,CUST-1373,28,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,2,21.87,0.0,Cash on Delivery,43.74,0.0,43.74,24.06
+TXN-11127,2024-02-15,CUST-1376,28,Male,Clothing,Summer Floral Dress,1,102.53,0.0,Credit Card,102.53,0.0,102.53,46.14
+TXN-11128,2024-02-15,CUST-1137,64,Male,Clothing,Slim Fit Denim Jeans,2,36.09,0.0,Cash on Delivery,72.18,0.0,72.18,32.48
+TXN-11129,2024-02-16,CUST-1076,59,Male,Clothing,Leather Jacket,1,29.16,0.0,Cash on Delivery,29.16,0.0,29.16,13.12
+TXN-11130,2024-02-16,CUST-1035,64,Male,Electronics,Bluetooth Speaker,1,1098.56,0.25,Digital Wallet,1098.56,274.64,823.92,140.07
+TXN-11131,2024-02-16,CUST-1001,48,Male,Clothing,Hooded Sweatshirt,2,44.71,0.0,UPI / Direct Debit,89.42,0.0,89.42,40.24
+TXN-11132,2024-02-17,CUST-1296,48,Male,Electronics,Smartwatch Ultra,1,999.8,0.0,Debit Card,999.8,0.0,999.8,169.97
+TXN-11133,2024-02-17,CUST-1320,30,Female,Electronics,Smartphone Pro,1,689.99,0.0,UPI / Direct Debit,689.99,0.0,689.99,117.3
+TXN-11134,2024-02-18,CUST-1060,31,Male,Electronics,Bluetooth Speaker,1,167.2,0.1,Credit Card,167.2,16.72,150.48,25.58
+TXN-11135,2024-02-18,CUST-1320,66,Female,Clothing,Hooded Sweatshirt,1,144.2,0.15,Digital Wallet,144.2,21.63,122.57,55.16
+TXN-11136,2024-02-18,CUST-1349,62,Female,Home & Kitchen,Espresso Coffee Maker,1,124.89,0.0,Credit Card,124.89,0.0,124.89,37.47
+TXN-11137,2024-02-19,CUST-1328,59,Male,Electronics,4K Monitor 27in,3,1042.8,0.0,Credit Card,3128.4,0.0,3128.4,531.83
+TXN-11138,2024-02-19,CUST-1267,42,Female,Clothing,Slim Fit Denim Jeans,1,41.94,0.0,Cash on Delivery,41.94,0.0,41.94,18.87
+TXN-11139,2024-02-19,CUST-1361,50,Male,Home & Kitchen,Blender 1000W,1,345.84,0.0,Credit Card,345.84,0.0,345.84,103.75
+TXN-11140,2024-02-20,CUST-1229,50,Female,Electronics,Smartwatch Ultra,2,94.82,0.0,Cash on Delivery,189.64,0.0,189.64,32.24
+TXN-11141,2024-02-20,CUST-1270,32,Female,Beauty & Personal Care,Hydrating Face Serum,1,51.65,0.05,Debit Card,51.65,2.58,49.07,26.99
+TXN-11142,2024-02-20,CUST-1316,33,Male,Clothing,Slim Fit Denim Jeans,1,120.02,0.0,Credit Card,120.02,0.0,120.02,54.01
+TXN-11143,2024-02-21,CUST-1286,61,Female,Clothing,Slim Fit Denim Jeans,4,141.51,0.05,UPI / Direct Debit,566.04,28.3,537.74,241.98
+TXN-11144,2024-02-21,CUST-1291,55,Female,Clothing,Slim Fit Denim Jeans,2,138.19,0.0,Debit Card,276.38,0.0,276.38,124.37
+TXN-11145,2024-02-22,CUST-1213,23,Female,Electronics,4K Monitor 27in,2,997.98,0.2,UPI / Direct Debit,1995.96,399.19,1596.77,271.45
+TXN-11146,2024-02-22,CUST-1165,61,Female,Home & Kitchen,Non-Stick Cookware Set,2,358.3,0.2,Digital Wallet,716.6,143.32,573.28,171.98
+TXN-11147,2024-02-22,CUST-1005,42,Male,Clothing,Slim Fit Denim Jeans,1,45.89,0.05,Cash on Delivery,45.89,2.29,43.6,19.62
+TXN-11148,2024-02-23,CUST-1339,32,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,2,34.24,0.0,Credit Card,68.48,0.0,68.48,37.66
+TXN-11149,2024-02-23,CUST-1379,21,Male,Electronics,Smartphone Pro,1,403.64,0.0,Credit Card,403.64,0.0,403.64,68.62
+TXN-11150,2024-02-23,CUST-1078,21,Male,Clothing,Classic Cotton T-Shirt,1,69.01,0.05,Digital Wallet,69.01,3.45,65.56,29.5
+TXN-11151,2024-02-24,CUST-1062,47,Male,Clothing,Hooded Sweatshirt,1,71.12,0.1,UPI / Direct Debit,71.12,7.11,64.01,28.8
+TXN-11152,2024-02-24,CUST-1132,51,Male,Electronics,Smartwatch Ultra,1,689.9,0.05,Credit Card,689.9,34.49,655.41,111.42
+TXN-11153,2024-02-24,CUST-1089,44,Female,Clothing,Leather Jacket,1,40.77,0.15,Cash on Delivery,40.77,6.12,34.65,15.59
+TXN-11154,2024-02-25,CUST-1237,48,Female,Home & Kitchen,Air Fryer Deluxe,4,286.61,0.2,Cash on Delivery,1146.44,229.29,917.15,275.14
+TXN-11155,2024-02-25,CUST-1042,49,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,25.32,0.0,UPI / Direct Debit,25.32,0.0,25.32,13.93
+TXN-11156,2024-02-26,CUST-1089,61,Male,Clothing,Summer Floral Dress,1,60.33,0.05,UPI / Direct Debit,60.33,3.02,57.31,25.79
+TXN-11157,2024-02-26,CUST-1296,56,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,51.01,0.0,Debit Card,51.01,0.0,51.01,28.06
+TXN-11158,2024-02-26,CUST-1328,69,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,204.2,0.0,Debit Card,204.2,0.0,204.2,71.47
+TXN-11159,2024-02-27,CUST-1295,26,Male,Beauty & Personal Care,Perfume Eau de Parfum,2,69.07,0.05,Cash on Delivery,138.14,6.91,131.23,72.18
+TXN-11160,2024-02-27,CUST-1104,58,Male,Electronics,Smartwatch Ultra,1,803.0,0.0,Digital Wallet,803.0,0.0,803.0,136.51
+TXN-11161,2024-02-27,CUST-1014,25,Female,Home & Kitchen,Blender 1000W,1,91.7,0.15,UPI / Direct Debit,91.7,13.76,77.94,23.38
+TXN-11162,2024-02-28,CUST-1288,31,Female,Clothing,Slim Fit Denim Jeans,1,91.11,0.0,Debit Card,91.11,0.0,91.11,41.0
+TXN-11163,2024-02-28,CUST-1179,50,Female,Sports & Outdoors,Cycling Helmet,2,44.68,0.05,Digital Wallet,89.36,4.47,84.89,29.71
+TXN-11164,2024-02-28,CUST-1125,40,Female,Clothing,Summer Floral Dress,1,69.05,0.1,Credit Card,69.05,6.9,62.15,27.97
+TXN-11165,2024-02-29,CUST-1353,38,Female,Electronics,4K Monitor 27in,1,543.14,0.1,Credit Card,543.14,54.31,488.83,83.1
+TXN-11166,2024-02-29,CUST-1023,29,Male,Home & Kitchen,Espresso Coffee Maker,1,49.49,0.0,Cash on Delivery,49.49,0.0,49.49,14.85
+TXN-11167,2024-03-01,CUST-1063,19,Female,Clothing,Leather Jacket,1,55.61,0.15,Credit Card,55.61,8.34,47.27,21.27
+TXN-11168,2024-03-01,CUST-1143,30,Male,Sports & Outdoors,Camping Tent 4-Person,1,240.02,0.05,Credit Card,240.02,12.0,228.02,79.81
+TXN-11169,2024-03-01,CUST-1153,21,Female,Sports & Outdoors,Camping Tent 4-Person,2,239.57,0.05,Credit Card,479.14,23.96,455.18,159.31
+TXN-11170,2024-03-02,CUST-1145,37,Female,Home & Kitchen,Air Fryer Deluxe,2,163.25,0.0,UPI / Direct Debit,326.5,0.0,326.5,97.95
+TXN-11171,2024-03-02,CUST-1225,67,Female,Electronics,4K Monitor 27in,3,128.27,0.05,Credit Card,384.81,19.24,365.57,62.15
+TXN-11172,2024-03-02,CUST-1309,68,Other,Home & Kitchen,Air Fryer Deluxe,1,100.19,0.15,Credit Card,100.19,15.03,85.16,25.55
+TXN-11173,2024-03-03,CUST-1104,65,Male,Electronics,Bluetooth Speaker,1,519.28,0.1,Digital Wallet,519.28,51.93,467.35,79.45
+TXN-11174,2024-03-03,CUST-1104,31,Female,Electronics,Bluetooth Speaker,1,1141.51,0.15,Debit Card,1141.51,171.23,970.28,164.95
+TXN-11175,2024-03-03,CUST-1039,47,Female,Beauty & Personal Care,Perfume Eau de Parfum,5,23.3,0.05,Debit Card,116.5,5.82,110.68,60.87
+TXN-11176,2024-03-04,CUST-1198,46,Other,Electronics,Smartwatch Ultra,2,935.14,0.0,Credit Card,1870.28,0.0,1870.28,317.95
+TXN-11177,2024-03-04,CUST-1134,25,Female,Clothing,Leather Jacket,2,34.12,0.0,Debit Card,68.24,0.0,68.24,30.71
+TXN-11178,2024-03-05,CUST-1067,29,Male,Sports & Outdoors,Camping Tent 4-Person,1,245.78,0.0,Debit Card,245.78,0.0,245.78,86.02
+TXN-11179,2024-03-05,CUST-1391,58,Female,Clothing,Slim Fit Denim Jeans,1,69.6,0.1,Debit Card,69.6,6.96,62.64,28.19
+TXN-11180,2024-03-05,CUST-1179,55,Female,Clothing,Classic Cotton T-Shirt,1,120.77,0.15,Credit Card,120.77,18.12,102.65,46.19
+TXN-11181,2024-03-06,CUST-1042,43,Male,Sports & Outdoors,Running Hydration Backpack,2,102.08,0.0,UPI / Direct Debit,204.16,0.0,204.16,71.46
+TXN-11182,2024-03-06,CUST-1015,67,Female,Electronics,Bluetooth Speaker,4,782.99,0.05,Cash on Delivery,3131.96,156.6,2975.36,505.81
+TXN-11183,2024-03-06,CUST-1111,19,Female,Home & Kitchen,Robot Vacuum Cleaner,4,104.89,0.05,Debit Card,419.56,20.98,398.58,119.57
+TXN-11184,2024-03-07,CUST-1157,57,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,57.85,0.05,Debit Card,57.85,2.89,54.96,19.24
+TXN-11185,2024-03-07,CUST-1289,31,Male,Sports & Outdoors,Adjustable Dumbbells Set,1,236.06,0.0,UPI / Direct Debit,236.06,0.0,236.06,82.62
+TXN-11186,2024-03-07,CUST-1231,23,Female,Home & Kitchen,Non-Stick Cookware Set,4,369.02,0.0,UPI / Direct Debit,1476.08,0.0,1476.08,442.82
+TXN-11187,2024-03-08,CUST-1157,59,Female,Clothing,Classic Cotton T-Shirt,2,135.36,0.0,Debit Card,270.72,0.0,270.72,121.82
+TXN-11188,2024-03-08,CUST-1038,57,Female,Electronics,Bluetooth Speaker,1,780.49,0.0,Credit Card,780.49,0.0,780.49,132.68
+TXN-11189,2024-03-09,CUST-1097,48,Male,Beauty & Personal Care,Sunscreen SPF 50,1,74.33,0.0,Debit Card,74.33,0.0,74.33,40.88
+TXN-11190,2024-03-09,CUST-1289,34,Male,Beauty & Personal Care,Electric Toothbrush,1,17.78,0.0,Digital Wallet,17.78,0.0,17.78,9.78
+TXN-11191,2024-03-09,CUST-1254,42,Female,Clothing,Summer Floral Dress,1,63.51,0.1,Debit Card,63.51,6.35,57.16,25.72
+TXN-11192,2024-03-10,CUST-1196,49,Female,Electronics,Smartwatch Ultra,1,431.35,0.0,Credit Card,431.35,0.0,431.35,73.33
+TXN-11193,2024-03-10,CUST-1086,29,Male,Electronics,Bluetooth Speaker,2,791.92,0.25,Credit Card,1583.84,395.96,1187.88,201.94
+TXN-11194,2024-03-10,CUST-1322,66,Male,Electronics,Smartwatch Ultra,1,478.67,0.0,Debit Card,478.67,0.0,478.67,81.37
+TXN-11195,2024-03-11,CUST-1010,30,Male,Home & Kitchen,Robot Vacuum Cleaner,1,89.06,0.0,Cash on Delivery,89.06,0.0,89.06,26.72
+TXN-11196,2024-03-11,CUST-1005,36,Female,Clothing,Slim Fit Denim Jeans,1,97.53,0.0,UPI / Direct Debit,97.53,0.0,97.53,43.89
+TXN-11197,2024-03-11,CUST-1123,61,Male,Sports & Outdoors,Running Hydration Backpack,3,208.24,0.0,UPI / Direct Debit,624.72,0.0,624.72,218.65
+TXN-11198,2024-03-12,CUST-1330,65,Male,Home & Kitchen,Robot Vacuum Cleaner,2,174.09,0.15,Credit Card,348.18,52.23,295.95,88.78
+TXN-11199,2024-03-12,CUST-1353,42,Male,Electronics,Smartwatch Ultra,1,228.14,0.0,Debit Card,228.14,0.0,228.14,38.78
+TXN-11200,2024-03-13,CUST-1118,48,Female,Home & Kitchen,Non-Stick Cookware Set,4,106.59,0.2,Debit Card,426.36,85.27,341.09,102.33
+TXN-11201,2024-03-13,CUST-1294,54,Male,Clothing,Leather Jacket,3,50.86,0.15,Digital Wallet,152.58,22.89,129.69,58.36
+TXN-11202,2024-03-13,CUST-1397,42,Male,Clothing,Leather Jacket,1,58.98,0.05,Credit Card,58.98,2.95,56.03,25.21
+TXN-11203,2024-03-14,CUST-1159,33,Female,Home & Kitchen,Air Fryer Deluxe,1,268.98,0.05,Debit Card,268.98,13.45,255.53,76.66
+TXN-11204,2024-03-14,CUST-1303,55,Male,Beauty & Personal Care,Sunscreen SPF 50,2,58.47,0.1,UPI / Direct Debit,116.94,11.69,105.25,57.89
+TXN-11205,2024-03-14,CUST-1228,60,Male,Beauty & Personal Care,Electric Toothbrush,3,65.75,0.0,UPI / Direct Debit,197.25,0.0,197.25,108.49
+TXN-11206,2024-03-15,CUST-1365,66,Female,Electronics,Smartwatch Ultra,4,486.0,0.1,Cash on Delivery,1944.0,194.4,1749.6,297.43
+TXN-11207,2024-03-15,CUST-1216,40,Male,Electronics,Smartwatch Ultra,3,1002.88,0.0,Credit Card,3008.64,0.0,3008.64,511.47
+TXN-11208,2024-03-16,CUST-1184,31,Female,Home & Kitchen,Robot Vacuum Cleaner,2,109.29,0.0,Credit Card,218.58,0.0,218.58,65.57
+TXN-11209,2024-03-16,CUST-1015,23,Male,Electronics,Smartwatch Ultra,1,605.33,0.05,Debit Card,605.33,30.27,575.06,97.76
+TXN-11210,2024-03-16,CUST-1157,42,Female,Clothing,Hooded Sweatshirt,1,124.11,0.05,UPI / Direct Debit,124.11,6.21,117.9,53.05
+TXN-11211,2024-03-17,CUST-1136,40,Male,Electronics,4K Monitor 27in,1,281.78,0.15,Credit Card,281.78,42.27,239.51,40.72
+TXN-11212,2024-03-17,CUST-1261,60,Female,Home & Kitchen,Robot Vacuum Cleaner,1,74.99,0.0,UPI / Direct Debit,74.99,0.0,74.99,22.5
+TXN-11213,2024-03-17,CUST-1157,29,Male,Electronics,Smartwatch Ultra,2,1069.73,0.15,UPI / Direct Debit,2139.46,320.92,1818.54,309.15
+TXN-11214,2024-03-18,CUST-1047,30,Male,Home & Kitchen,Espresso Coffee Maker,2,159.83,0.0,Digital Wallet,319.66,0.0,319.66,95.9
+TXN-11215,2024-03-18,CUST-1324,53,Female,Sports & Outdoors,Yoga Mat Non-Slip,2,178.87,0.0,Credit Card,357.74,0.0,357.74,125.21
+TXN-11216,2024-03-18,CUST-1332,56,Other,Electronics,4K Monitor 27in,1,108.39,0.0,Cash on Delivery,108.39,0.0,108.39,18.43
+TXN-11217,2024-03-19,CUST-1173,51,Male,Electronics,Smartwatch Ultra,2,852.85,0.05,Credit Card,1705.7,85.29,1620.41,275.47
+TXN-11218,2024-03-19,CUST-1130,23,Female,Clothing,Slim Fit Denim Jeans,1,61.08,0.0,Credit Card,61.08,0.0,61.08,27.49
+TXN-11219,2024-03-20,CUST-1095,55,Male,Beauty & Personal Care,Sunscreen SPF 50,1,16.76,0.05,Credit Card,16.76,0.84,15.92,8.76
+TXN-11220,2024-03-20,CUST-1115,67,Female,Electronics,Smartwatch Ultra,2,762.99,0.15,Cash on Delivery,1525.98,228.9,1297.08,220.5
+TXN-11221,2024-03-20,CUST-1243,69,Male,Clothing,Leather Jacket,2,51.29,0.05,Credit Card,102.58,5.13,97.45,43.85
+TXN-11222,2024-03-21,CUST-1292,57,Female,Electronics,Bluetooth Speaker,5,513.22,0.05,Debit Card,2566.1,128.3,2437.8,414.43
+TXN-11223,2024-03-21,CUST-1282,25,Male,Home & Kitchen,Robot Vacuum Cleaner,1,64.33,0.15,UPI / Direct Debit,64.33,9.65,54.68,16.4
+TXN-11224,2024-03-21,CUST-1299,25,Male,Clothing,Slim Fit Denim Jeans,1,39.12,0.1,Digital Wallet,39.12,3.91,35.21,15.84
+TXN-11225,2024-03-22,CUST-1283,57,Male,Home & Kitchen,Non-Stick Cookware Set,1,143.46,0.05,Cash on Delivery,143.46,7.17,136.29,40.89
+TXN-11226,2024-03-22,CUST-1069,50,Male,Sports & Outdoors,Yoga Mat Non-Slip,1,45.2,0.0,Debit Card,45.2,0.0,45.2,15.82
+TXN-11227,2024-03-22,CUST-1148,51,Female,Electronics,4K Monitor 27in,3,1100.13,0.15,Cash on Delivery,3300.39,495.06,2805.33,476.91
+TXN-11228,2024-03-23,CUST-1011,61,Other,Beauty & Personal Care,Perfume Eau de Parfum,2,12.96,0.05,UPI / Direct Debit,25.92,1.3,24.62,13.54
+TXN-11229,2024-03-23,CUST-1254,32,Female,Electronics,Bluetooth Speaker,3,621.92,0.0,Cash on Delivery,1865.76,0.0,1865.76,317.18
+TXN-11230,2024-03-24,CUST-1330,53,Male,Beauty & Personal Care,Sunscreen SPF 50,1,21.93,0.0,Credit Card,21.93,0.0,21.93,12.06
+TXN-11231,2024-03-24,CUST-1360,52,Male,Home & Kitchen,Non-Stick Cookware Set,3,147.0,0.15,Credit Card,441.0,66.15,374.85,112.45
+TXN-11232,2024-03-24,CUST-1038,63,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,83.34,0.0,UPI / Direct Debit,83.34,0.0,83.34,45.84
+TXN-11233,2024-03-25,CUST-1134,39,Female,Electronics,Wireless Earbuds,3,261.1,0.25,UPI / Direct Debit,783.3,195.82,587.48,99.87
+TXN-11234,2024-03-25,CUST-1200,40,Male,Electronics,Bluetooth Speaker,1,1161.73,0.0,UPI / Direct Debit,1161.73,0.0,1161.73,197.49
+TXN-11235,2024-03-25,CUST-1023,57,Female,Clothing,Hooded Sweatshirt,1,46.74,0.15,UPI / Direct Debit,46.74,7.01,39.73,17.88
+TXN-11236,2024-03-26,CUST-1303,62,Other,Clothing,Classic Cotton T-Shirt,1,116.39,0.0,UPI / Direct Debit,116.39,0.0,116.39,52.38
+TXN-11237,2024-03-26,CUST-1346,68,Female,Electronics,4K Monitor 27in,4,692.28,0.05,UPI / Direct Debit,2769.12,138.46,2630.66,447.21
+TXN-11238,2024-03-26,CUST-1302,39,Male,Clothing,Hooded Sweatshirt,1,134.97,0.15,Credit Card,134.97,20.25,114.72,51.62
+TXN-11239,2024-03-27,CUST-1363,22,Male,Electronics,Smartwatch Ultra,1,700.47,0.05,Digital Wallet,700.47,35.02,665.45,113.13
+TXN-11240,2024-03-27,CUST-1396,48,Female,Clothing,Slim Fit Denim Jeans,3,89.48,0.05,Digital Wallet,268.44,13.42,255.02,114.76
+TXN-11241,2024-03-28,CUST-1218,30,Female,Beauty & Personal Care,Electric Toothbrush,1,27.45,0.0,Digital Wallet,27.45,0.0,27.45,15.1
+TXN-11242,2024-03-28,CUST-1141,45,Male,Clothing,Leather Jacket,1,41.6,0.0,UPI / Direct Debit,41.6,0.0,41.6,18.72
+TXN-11243,2024-03-28,CUST-1104,37,Male,Electronics,Smartwatch Ultra,1,1106.47,0.0,UPI / Direct Debit,1106.47,0.0,1106.47,188.1
+TXN-11244,2024-03-29,CUST-1210,50,Female,Clothing,Leather Jacket,1,62.61,0.1,Digital Wallet,62.61,6.26,56.35,25.36
+TXN-11245,2024-03-29,CUST-1111,33,Male,Electronics,Smartwatch Ultra,3,496.73,0.0,Digital Wallet,1490.19,0.0,1490.19,253.33
+TXN-11246,2024-03-29,CUST-1104,46,Male,Sports & Outdoors,Cycling Helmet,2,195.96,0.0,Debit Card,391.92,0.0,391.92,137.17
+TXN-11247,2024-03-30,CUST-1316,40,Female,Electronics,4K Monitor 27in,1,459.48,0.05,UPI / Direct Debit,459.48,22.97,436.51,74.21
+TXN-11248,2024-03-30,CUST-1171,41,Female,Home & Kitchen,Espresso Coffee Maker,5,381.55,0.1,UPI / Direct Debit,1907.75,190.78,1716.97,515.09
+TXN-11249,2024-03-30,CUST-1356,51,Female,Sports & Outdoors,Camping Tent 4-Person,1,191.03,0.1,Debit Card,191.03,19.1,171.93,60.18
+TXN-11250,2024-03-31,CUST-1324,24,Male,Beauty & Personal Care,Hydrating Face Serum,1,58.2,0.0,Credit Card,58.2,0.0,58.2,32.01
+TXN-11251,2024-03-31,CUST-1133,55,Female,Home & Kitchen,Espresso Coffee Maker,1,355.65,0.0,UPI / Direct Debit,355.65,0.0,355.65,106.69
+TXN-11252,2024-04-01,CUST-1376,54,Female,Beauty & Personal Care,Electric Toothbrush,1,16.29,0.2,Cash on Delivery,16.29,3.26,13.03,7.17
+TXN-11253,2024-04-01,CUST-1293,21,Male,Sports & Outdoors,Yoga Mat Non-Slip,1,82.84,0.0,Debit Card,82.84,0.0,82.84,28.99
+TXN-11254,2024-04-01,CUST-1328,51,Female,Home & Kitchen,Non-Stick Cookware Set,4,204.27,0.15,UPI / Direct Debit,817.08,122.56,694.52,208.36
+TXN-11255,2024-04-02,CUST-1127,59,Male,Clothing,Hooded Sweatshirt,2,49.5,0.15,UPI / Direct Debit,99.0,14.85,84.15,37.87
+TXN-11256,2024-04-02,CUST-1106,39,Male,Home & Kitchen,Robot Vacuum Cleaner,1,305.78,0.1,Digital Wallet,305.78,30.58,275.2,82.56
+TXN-11257,2024-04-02,CUST-1092,22,Male,Clothing,Slim Fit Denim Jeans,2,139.49,0.0,UPI / Direct Debit,278.98,0.0,278.98,125.54
+TXN-11258,2024-04-03,CUST-1287,67,Male,Home & Kitchen,Non-Stick Cookware Set,2,189.25,0.15,Debit Card,378.5,56.78,321.72,96.52
+TXN-11259,2024-04-03,CUST-1378,59,Male,Clothing,Slim Fit Denim Jeans,4,64.47,0.1,Debit Card,257.88,25.79,232.09,104.44
+TXN-11260,2024-04-03,CUST-1393,40,Female,Electronics,Smartwatch Ultra,3,1156.94,0.05,Debit Card,3470.82,173.54,3297.28,560.54
+TXN-11261,2024-04-04,CUST-1051,32,Male,Electronics,Bluetooth Speaker,1,578.23,0.0,Debit Card,578.23,0.0,578.23,98.3
+TXN-11262,2024-04-04,CUST-1029,48,Other,Electronics,4K Monitor 27in,2,627.73,0.0,UPI / Direct Debit,1255.46,0.0,1255.46,213.43
+TXN-11263,2024-04-05,CUST-1296,26,Female,Electronics,Bluetooth Speaker,2,473.85,0.0,UPI / Direct Debit,947.7,0.0,947.7,161.11
+TXN-11264,2024-04-05,CUST-1297,60,Male,Electronics,Smartphone Pro,2,1098.69,0.05,UPI / Direct Debit,2197.38,109.87,2087.51,354.88
+TXN-11265,2024-04-05,CUST-1214,42,Male,Clothing,Hooded Sweatshirt,1,93.95,0.05,Credit Card,93.95,4.7,89.25,40.16
+TXN-11266,2024-04-06,CUST-1267,42,Female,Clothing,Classic Cotton T-Shirt,1,119.07,0.0,Credit Card,119.07,0.0,119.07,53.58
+TXN-11267,2024-04-06,CUST-1257,66,Female,Beauty & Personal Care,Hydrating Face Serum,1,74.6,0.05,Credit Card,74.6,3.73,70.87,38.98
+TXN-11268,2024-04-06,CUST-1302,38,Male,Electronics,Wireless Earbuds,1,462.87,0.0,Cash on Delivery,462.87,0.0,462.87,78.69
+TXN-11269,2024-04-07,CUST-1101,26,Male,Electronics,Smartwatch Ultra,1,565.74,0.1,Credit Card,565.74,56.57,509.17,86.56
+TXN-11270,2024-04-07,CUST-1346,65,Female,Home & Kitchen,Air Fryer Deluxe,2,343.84,0.2,Credit Card,687.68,137.54,550.14,165.04
+TXN-11271,2024-04-07,CUST-1110,55,Male,Clothing,Summer Floral Dress,1,67.21,0.0,Credit Card,67.21,0.0,67.21,30.24
+TXN-11272,2024-04-08,CUST-1182,39,Female,Electronics,Smartphone Pro,2,969.21,0.0,Debit Card,1938.42,0.0,1938.42,329.53
+TXN-11273,2024-04-08,CUST-1313,60,Female,Beauty & Personal Care,Electric Toothbrush,1,84.49,0.0,Credit Card,84.49,0.0,84.49,46.47
+TXN-11274,2024-04-09,CUST-1001,40,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,4,60.18,0.1,UPI / Direct Debit,240.72,24.07,216.65,119.16
+TXN-11275,2024-04-09,CUST-1319,66,Male,Clothing,Classic Cotton T-Shirt,1,116.4,0.1,Credit Card,116.4,11.64,104.76,47.14
+TXN-11276,2024-04-09,CUST-1055,21,Male,Clothing,Leather Jacket,1,124.65,0.2,Cash on Delivery,124.65,24.93,99.72,44.87
+TXN-11277,2024-04-10,CUST-1371,46,Female,Sports & Outdoors,Adjustable Dumbbells Set,2,215.13,0.0,Digital Wallet,430.26,0.0,430.26,150.59
+TXN-11278,2024-04-10,CUST-1399,32,Male,Home & Kitchen,Blender 1000W,3,178.8,0.2,Digital Wallet,536.4,107.28,429.12,128.74
+TXN-11279,2024-04-10,CUST-1149,18,Male,Clothing,Slim Fit Denim Jeans,5,26.65,0.0,UPI / Direct Debit,133.25,0.0,133.25,59.96
+TXN-11280,2024-04-11,CUST-1309,47,Female,Beauty & Personal Care,Hydrating Face Serum,1,43.24,0.1,UPI / Direct Debit,43.24,4.32,38.92,21.41
+TXN-11281,2024-04-11,CUST-1137,46,Male,Clothing,Hooded Sweatshirt,1,107.58,0.0,UPI / Direct Debit,107.58,0.0,107.58,48.41
+TXN-11282,2024-04-11,CUST-1202,37,Female,Clothing,Hooded Sweatshirt,3,78.54,0.15,UPI / Direct Debit,235.62,35.34,200.28,90.13
+TXN-11283,2024-04-12,CUST-1313,50,Female,Electronics,4K Monitor 27in,1,918.84,0.05,UPI / Direct Debit,918.84,45.94,872.9,148.39
+TXN-11284,2024-04-12,CUST-1117,58,Male,Beauty & Personal Care,Electric Toothbrush,2,39.81,0.1,Credit Card,79.62,7.96,71.66,39.41
+TXN-11285,2024-04-13,CUST-1154,61,Female,Clothing,Hooded Sweatshirt,1,102.51,0.15,Debit Card,102.51,15.38,87.13,39.21
+TXN-11286,2024-04-13,CUST-1291,53,Female,Home & Kitchen,Blender 1000W,1,102.86,0.0,Credit Card,102.86,0.0,102.86,30.86
+TXN-11287,2024-04-13,CUST-1063,39,Male,Electronics,Wireless Earbuds,1,919.29,0.0,UPI / Direct Debit,919.29,0.0,919.29,156.28
+TXN-11288,2024-04-14,CUST-1244,30,Male,Electronics,Bluetooth Speaker,1,691.18,0.15,UPI / Direct Debit,691.18,103.68,587.5,99.88
+TXN-11289,2024-04-14,CUST-1025,24,Male,Clothing,Leather Jacket,2,46.52,0.0,UPI / Direct Debit,93.04,0.0,93.04,41.87
+TXN-11290,2024-04-14,CUST-1090,25,Female,Home & Kitchen,Espresso Coffee Maker,4,141.26,0.0,Cash on Delivery,565.04,0.0,565.04,169.51
+TXN-11291,2024-04-15,CUST-1075,45,Male,Clothing,Leather Jacket,1,117.31,0.05,Debit Card,117.31,5.87,111.44,50.15
+TXN-11292,2024-04-15,CUST-1294,62,Female,Electronics,Smartphone Pro,3,620.51,0.05,Debit Card,1861.53,93.08,1768.45,300.64
+TXN-11293,2024-04-15,CUST-1386,60,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,29.03,0.0,UPI / Direct Debit,29.03,0.0,29.03,15.97
+TXN-11294,2024-04-16,CUST-1391,26,Male,Electronics,4K Monitor 27in,1,1163.34,0.0,Credit Card,1163.34,0.0,1163.34,197.77
+TXN-11295,2024-04-16,CUST-1210,42,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,185.9,0.0,UPI / Direct Debit,185.9,0.0,185.9,65.06
+TXN-11296,2024-04-17,CUST-1347,33,Male,Electronics,Smartwatch Ultra,4,1151.99,0.05,Digital Wallet,4607.96,230.4,4377.56,744.19
+TXN-11297,2024-04-17,CUST-1017,27,Female,Home & Kitchen,Blender 1000W,2,190.47,0.15,Digital Wallet,380.94,57.14,323.8,97.14
+TXN-11298,2024-04-17,CUST-1128,28,Female,Electronics,Smartwatch Ultra,2,612.11,0.25,Debit Card,1224.22,306.06,918.16,156.09
+TXN-11299,2024-04-18,CUST-1364,48,Male,Sports & Outdoors,Camping Tent 4-Person,3,227.04,0.1,Credit Card,681.12,68.11,613.01,214.55
+TXN-11300,2024-04-18,CUST-1251,29,Male,Clothing,Leather Jacket,2,88.25,0.0,Credit Card,176.5,0.0,176.5,79.42
+TXN-11301,2024-04-18,CUST-1179,48,Female,Electronics,Wireless Earbuds,4,872.15,0.2,UPI / Direct Debit,3488.6,697.72,2790.88,474.45
+TXN-11302,2024-04-19,CUST-1182,31,Female,Clothing,Classic Cotton T-Shirt,2,52.77,0.05,Cash on Delivery,105.54,5.28,100.26,45.12
+TXN-11303,2024-04-19,CUST-1152,68,Female,Electronics,4K Monitor 27in,4,580.33,0.0,Debit Card,2321.32,0.0,2321.32,394.62
+TXN-11304,2024-04-19,CUST-1025,61,Male,Electronics,4K Monitor 27in,1,218.26,0.2,Cash on Delivery,218.26,43.65,174.61,29.68
+TXN-11305,2024-04-20,CUST-1180,49,Male,Sports & Outdoors,Running Hydration Backpack,1,71.35,0.1,UPI / Direct Debit,71.35,7.14,64.21,22.47
+TXN-11306,2024-04-20,CUST-1198,67,Male,Clothing,Leather Jacket,1,20.11,0.1,Credit Card,20.11,2.01,18.1,8.15
+TXN-11307,2024-04-21,CUST-1344,34,Female,Beauty & Personal Care,Sunscreen SPF 50,1,15.5,0.1,Credit Card,15.5,1.55,13.95,7.67
+TXN-11308,2024-04-21,CUST-1161,52,Male,Home & Kitchen,Non-Stick Cookware Set,2,390.73,0.0,Credit Card,781.46,0.0,781.46,234.44
+TXN-11309,2024-04-21,CUST-1177,18,Male,Home & Kitchen,Robot Vacuum Cleaner,1,123.22,0.0,UPI / Direct Debit,123.22,0.0,123.22,36.97
+TXN-11310,2024-04-22,CUST-1285,46,Female,Electronics,Smartphone Pro,2,822.91,0.1,Credit Card,1645.82,164.58,1481.24,251.81
+TXN-11311,2024-04-22,CUST-1063,68,Female,Electronics,Smartwatch Ultra,1,1019.79,0.0,Debit Card,1019.79,0.0,1019.79,173.36
+TXN-11312,2024-04-22,CUST-1150,21,Male,Beauty & Personal Care,Sunscreen SPF 50,1,54.63,0.05,Debit Card,54.63,2.73,51.9,28.54
+TXN-11313,2024-04-23,CUST-1154,40,Male,Sports & Outdoors,Camping Tent 4-Person,1,59.46,0.15,Credit Card,59.46,8.92,50.54,17.69
+TXN-11314,2024-04-23,CUST-1156,45,Female,Electronics,Bluetooth Speaker,4,895.49,0.15,Credit Card,3581.96,537.29,3044.67,517.59
+TXN-11315,2024-04-23,CUST-1370,33,Male,Electronics,Wireless Earbuds,1,752.28,0.05,Credit Card,752.28,37.61,714.67,121.49
+TXN-11316,2024-04-24,CUST-1049,29,Male,Clothing,Classic Cotton T-Shirt,1,115.05,0.15,Debit Card,115.05,17.26,97.79,44.01
+TXN-11317,2024-04-24,CUST-1337,38,Male,Sports & Outdoors,Yoga Mat Non-Slip,2,198.19,0.15,UPI / Direct Debit,396.38,59.46,336.92,117.92
+TXN-11318,2024-04-25,CUST-1084,62,Female,Electronics,Bluetooth Speaker,2,1172.46,0.1,Credit Card,2344.92,234.49,2110.43,358.77
+TXN-11319,2024-04-25,CUST-1361,34,Female,Clothing,Summer Floral Dress,1,94.55,0.0,Cash on Delivery,94.55,0.0,94.55,42.55
+TXN-11320,2024-04-25,CUST-1177,57,Male,Beauty & Personal Care,Electric Toothbrush,1,38.64,0.0,UPI / Direct Debit,38.64,0.0,38.64,21.25
+TXN-11321,2024-04-26,CUST-1148,30,Male,Electronics,Bluetooth Speaker,1,806.28,0.0,UPI / Direct Debit,806.28,0.0,806.28,137.07
+TXN-11322,2024-04-26,CUST-1118,69,Female,Electronics,4K Monitor 27in,4,156.65,0.0,Debit Card,626.6,0.0,626.6,106.52
+TXN-11323,2024-04-26,CUST-1342,49,Other,Home & Kitchen,Air Fryer Deluxe,1,361.65,0.0,Cash on Delivery,361.65,0.0,361.65,108.49
+TXN-11324,2024-04-27,CUST-1063,54,Female,Sports & Outdoors,Yoga Mat Non-Slip,1,51.86,0.0,Debit Card,51.86,0.0,51.86,18.15
+TXN-11325,2024-04-27,CUST-1189,67,Other,Electronics,Wireless Earbuds,1,447.18,0.05,UPI / Direct Debit,447.18,22.36,424.82,72.22
+TXN-11326,2024-04-27,CUST-1360,32,Female,Clothing,Leather Jacket,1,126.04,0.2,UPI / Direct Debit,126.04,25.21,100.83,45.37
+TXN-11327,2024-04-28,CUST-1049,29,Female,Clothing,Hooded Sweatshirt,2,97.64,0.0,Debit Card,195.28,0.0,195.28,87.88
+TXN-11328,2024-04-28,CUST-1327,66,Male,Clothing,Hooded Sweatshirt,1,71.16,0.1,UPI / Direct Debit,71.16,7.12,64.04,28.82
+TXN-11329,2024-04-29,CUST-1257,32,Male,Home & Kitchen,Espresso Coffee Maker,1,207.33,0.1,Debit Card,207.33,20.73,186.6,55.98
+TXN-11330,2024-04-29,CUST-1224,51,Male,Clothing,Slim Fit Denim Jeans,1,131.08,0.0,Cash on Delivery,131.08,0.0,131.08,58.99
+TXN-11331,2024-04-29,CUST-1141,23,Female,Clothing,Summer Floral Dress,1,64.19,0.2,Digital Wallet,64.19,12.84,51.35,23.11
+TXN-11332,2024-04-30,CUST-1215,34,Female,Clothing,Slim Fit Denim Jeans,1,133.04,0.05,Credit Card,133.04,6.65,126.39,56.88
+TXN-11333,2024-04-30,CUST-1379,65,Female,Clothing,Slim Fit Denim Jeans,3,31.45,0.0,Credit Card,94.35,0.0,94.35,42.46
+TXN-11334,2024-04-30,CUST-1211,66,Male,Clothing,Hooded Sweatshirt,2,120.97,0.1,Credit Card,241.94,24.19,217.75,97.99
+TXN-11335,2024-05-01,CUST-1318,37,Male,Beauty & Personal Care,Electric Toothbrush,3,77.34,0.0,Debit Card,232.02,0.0,232.02,127.61
+TXN-11336,2024-05-01,CUST-1032,26,Male,Electronics,Wireless Earbuds,3,283.64,0.1,UPI / Direct Debit,850.92,85.09,765.83,130.19
+TXN-11337,2024-05-01,CUST-1158,22,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,2,45.42,0.0,Credit Card,90.84,0.0,90.84,49.96
+TXN-11338,2024-05-02,CUST-1285,40,Female,Beauty & Personal Care,Electric Toothbrush,1,25.16,0.15,Credit Card,25.16,3.77,21.39,11.76
+TXN-11339,2024-05-02,CUST-1305,50,Female,Clothing,Leather Jacket,2,111.85,0.05,Credit Card,223.7,11.18,212.52,95.63
+TXN-11340,2024-05-03,CUST-1286,55,Male,Clothing,Summer Floral Dress,3,89.59,0.1,Credit Card,268.77,26.88,241.89,108.85
+TXN-11341,2024-05-03,CUST-1144,31,Male,Clothing,Hooded Sweatshirt,2,102.58,0.0,Credit Card,205.16,0.0,205.16,92.32
+TXN-11342,2024-05-03,CUST-1019,34,Female,Electronics,Bluetooth Speaker,1,300.07,0.1,Debit Card,300.07,30.01,270.06,45.91
+TXN-11343,2024-05-04,CUST-1018,36,Male,Clothing,Classic Cotton T-Shirt,1,47.52,0.1,Credit Card,47.52,4.75,42.77,19.25
+TXN-11344,2024-05-04,CUST-1257,50,Female,Electronics,4K Monitor 27in,3,126.48,0.05,Credit Card,379.44,18.97,360.47,61.28
+TXN-11345,2024-05-04,CUST-1078,18,Male,Electronics,Smartwatch Ultra,2,440.72,0.1,Cash on Delivery,881.44,88.14,793.3,134.86
+TXN-11346,2024-05-05,CUST-1371,30,Male,Beauty & Personal Care,Perfume Eau de Parfum,5,55.32,0.05,Cash on Delivery,276.6,13.83,262.77,144.52
+TXN-11347,2024-05-05,CUST-1175,63,Male,Clothing,Summer Floral Dress,1,131.52,0.15,Credit Card,131.52,19.73,111.79,50.31
+TXN-11348,2024-05-05,CUST-1194,44,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,63.52,0.05,Credit Card,63.52,3.18,60.34,33.19
+TXN-11349,2024-05-06,CUST-1113,23,Female,Clothing,Summer Floral Dress,1,76.59,0.15,Debit Card,76.59,11.49,65.1,29.29
+TXN-11350,2024-05-06,CUST-1114,23,Male,Beauty & Personal Care,Hydrating Face Serum,2,85.41,0.15,UPI / Direct Debit,170.82,25.62,145.2,79.86
+TXN-11351,2024-05-07,CUST-1222,50,Male,Clothing,Summer Floral Dress,1,113.49,0.05,Credit Card,113.49,5.67,107.82,48.52
+TXN-11352,2024-05-07,CUST-1166,47,Male,Electronics,Bluetooth Speaker,1,1121.79,0.0,Credit Card,1121.79,0.0,1121.79,190.7
+TXN-11353,2024-05-07,CUST-1319,63,Male,Home & Kitchen,Robot Vacuum Cleaner,5,227.04,0.05,Credit Card,1135.2,56.76,1078.44,323.53
+TXN-11354,2024-05-08,CUST-1132,52,Male,Electronics,4K Monitor 27in,1,369.97,0.15,UPI / Direct Debit,369.97,55.5,314.47,53.46
+TXN-11355,2024-05-08,CUST-1385,40,Female,Clothing,Leather Jacket,3,26.86,0.0,Cash on Delivery,80.58,0.0,80.58,36.26
+TXN-11356,2024-05-08,CUST-1264,27,Female,Sports & Outdoors,Adjustable Dumbbells Set,1,188.37,0.05,Debit Card,188.37,9.42,178.95,62.63
+TXN-11357,2024-05-09,CUST-1055,68,Female,Electronics,4K Monitor 27in,3,215.86,0.15,UPI / Direct Debit,647.58,97.14,550.44,93.57
+TXN-11358,2024-05-09,CUST-1359,36,Male,Clothing,Slim Fit Denim Jeans,2,59.35,0.0,UPI / Direct Debit,118.7,0.0,118.7,53.41
+TXN-11359,2024-05-10,CUST-1131,68,Male,Home & Kitchen,Espresso Coffee Maker,3,228.82,0.1,UPI / Direct Debit,686.46,68.65,617.81,185.34
+TXN-11360,2024-05-10,CUST-1288,45,Male,Beauty & Personal Care,Sunscreen SPF 50,4,55.68,0.0,UPI / Direct Debit,222.72,0.0,222.72,122.5
+TXN-11361,2024-05-10,CUST-1266,40,Male,Home & Kitchen,Blender 1000W,1,253.61,0.0,Credit Card,253.61,0.0,253.61,76.08
+TXN-11362,2024-05-11,CUST-1366,21,Female,Electronics,Bluetooth Speaker,1,266.21,0.15,Debit Card,266.21,39.93,226.28,38.47
+TXN-11363,2024-05-11,CUST-1162,37,Female,Home & Kitchen,Espresso Coffee Maker,1,173.22,0.0,Cash on Delivery,173.22,0.0,173.22,51.97
+TXN-11364,2024-05-11,CUST-1380,36,Female,Clothing,Hooded Sweatshirt,2,100.23,0.0,UPI / Direct Debit,200.46,0.0,200.46,90.21
+TXN-11365,2024-05-12,CUST-1087,59,Male,Home & Kitchen,Blender 1000W,3,388.01,0.15,Cash on Delivery,1164.03,174.6,989.43,296.83
+TXN-11366,2024-05-12,CUST-1055,44,Male,Sports & Outdoors,Camping Tent 4-Person,1,188.72,0.0,UPI / Direct Debit,188.72,0.0,188.72,66.05
+TXN-11367,2024-05-12,CUST-1288,51,Female,Home & Kitchen,Air Fryer Deluxe,2,370.83,0.25,UPI / Direct Debit,741.66,185.42,556.24,166.87
+TXN-11368,2024-05-13,CUST-1178,21,Male,Beauty & Personal Care,Hydrating Face Serum,1,70.81,0.25,Credit Card,70.81,17.7,53.11,29.21
+TXN-11369,2024-05-13,CUST-1391,55,Female,Electronics,Wireless Earbuds,3,742.72,0.0,Debit Card,2228.16,0.0,2228.16,378.79
+TXN-11370,2024-05-14,CUST-1349,24,Female,Home & Kitchen,Air Fryer Deluxe,4,104.9,0.0,Cash on Delivery,419.6,0.0,419.6,125.88
+TXN-11371,2024-05-14,CUST-1008,65,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,63.5,0.1,Debit Card,63.5,6.35,57.15,31.43
+TXN-11372,2024-05-14,CUST-1321,24,Female,Electronics,Bluetooth Speaker,1,778.19,0.05,Credit Card,778.19,38.91,739.28,125.68
+TXN-11373,2024-05-15,CUST-1313,67,Male,Beauty & Personal Care,Organic Shampoo & Conditioner,1,58.59,0.0,Credit Card,58.59,0.0,58.59,32.22
+TXN-11374,2024-05-15,CUST-1247,69,Male,Electronics,Smartphone Pro,2,628.56,0.1,UPI / Direct Debit,1257.12,125.71,1131.41,192.34
+TXN-11375,2024-05-15,CUST-1323,43,Male,Home & Kitchen,Robot Vacuum Cleaner,1,227.43,0.0,UPI / Direct Debit,227.43,0.0,227.43,68.23
+TXN-11376,2024-05-16,CUST-1255,43,Female,Beauty & Personal Care,Hydrating Face Serum,1,38.08,0.15,UPI / Direct Debit,38.08,5.71,32.37,17.8
+TXN-11377,2024-05-16,CUST-1328,36,Male,Home & Kitchen,Espresso Coffee Maker,1,224.03,0.0,Digital Wallet,224.03,0.0,224.03,67.21
+TXN-11378,2024-05-16,CUST-1054,26,Female,Electronics,Smartwatch Ultra,1,301.26,0.0,Debit Card,301.26,0.0,301.26,51.21
+TXN-11379,2024-05-17,CUST-1249,37,Female,Clothing,Summer Floral Dress,1,124.66,0.0,UPI / Direct Debit,124.66,0.0,124.66,56.1
+TXN-11380,2024-05-17,CUST-1239,59,Female,Clothing,Classic Cotton T-Shirt,2,44.14,0.25,Credit Card,88.28,22.07,66.21,29.79
+TXN-11381,2024-05-18,CUST-1229,62,Male,Sports & Outdoors,Adjustable Dumbbells Set,1,44.12,0.1,Credit Card,44.12,4.41,39.71,13.9
+TXN-11382,2024-05-18,CUST-1067,67,Male,Clothing,Leather Jacket,2,76.7,0.15,Debit Card,153.4,23.01,130.39,58.68
+TXN-11383,2024-05-18,CUST-1051,33,Female,Clothing,Classic Cotton T-Shirt,2,105.57,0.0,Cash on Delivery,211.14,0.0,211.14,95.01
+TXN-11384,2024-05-19,CUST-1097,34,Female,Home & Kitchen,Air Fryer Deluxe,1,194.33,0.0,Debit Card,194.33,0.0,194.33,58.3
+TXN-11385,2024-05-19,CUST-1092,39,Female,Clothing,Summer Floral Dress,1,55.97,0.0,UPI / Direct Debit,55.97,0.0,55.97,25.19
+TXN-11386,2024-05-19,CUST-1264,30,Male,Home & Kitchen,Espresso Coffee Maker,2,238.17,0.05,Credit Card,476.34,23.82,452.52,135.76
+TXN-11387,2024-05-20,CUST-1291,29,Female,Home & Kitchen,Non-Stick Cookware Set,4,161.31,0.05,Digital Wallet,645.24,32.26,612.98,183.89
+TXN-11388,2024-05-20,CUST-1096,27,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,83.86,0.1,Digital Wallet,83.86,8.39,75.47,41.51
+TXN-11389,2024-05-20,CUST-1088,18,Male,Clothing,Slim Fit Denim Jeans,1,139.93,0.0,UPI / Direct Debit,139.93,0.0,139.93,62.97
+TXN-11390,2024-05-21,CUST-1078,49,Female,Clothing,Leather Jacket,1,85.3,0.2,Credit Card,85.3,17.06,68.24,30.71
+TXN-11391,2024-05-21,CUST-1288,47,Female,Electronics,Smartphone Pro,2,447.23,0.0,UPI / Direct Debit,894.46,0.0,894.46,152.06
+TXN-11392,2024-05-22,CUST-1120,25,Male,Electronics,4K Monitor 27in,1,905.59,0.25,Cash on Delivery,905.59,226.4,679.19,115.46
+TXN-11393,2024-05-22,CUST-1302,38,Male,Electronics,4K Monitor 27in,1,121.12,0.0,Debit Card,121.12,0.0,121.12,20.59
+TXN-11394,2024-05-22,CUST-1165,39,Female,Electronics,Smartwatch Ultra,2,611.74,0.05,Debit Card,1223.48,61.17,1162.31,197.59
+TXN-11395,2024-05-23,CUST-1182,35,Male,Home & Kitchen,Blender 1000W,2,157.42,0.0,Credit Card,314.84,0.0,314.84,94.45
+TXN-11396,2024-05-23,CUST-1398,19,Female,Home & Kitchen,Air Fryer Deluxe,1,370.08,0.05,Credit Card,370.08,18.5,351.58,105.47
+TXN-11397,2024-05-23,CUST-1223,65,Female,Clothing,Hooded Sweatshirt,1,21.55,0.05,Credit Card,21.55,1.08,20.47,9.21
+TXN-11398,2024-05-24,CUST-1311,61,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,2,54.79,0.05,Digital Wallet,109.58,5.48,104.1,57.25
+TXN-11399,2024-05-24,CUST-1007,26,Female,Sports & Outdoors,Camping Tent 4-Person,1,191.65,0.05,UPI / Direct Debit,191.65,9.58,182.07,63.72
+TXN-11400,2024-05-24,CUST-1330,20,Male,Beauty & Personal Care,Sunscreen SPF 50,1,49.6,0.1,Debit Card,49.6,4.96,44.64,24.55
+TXN-11401,2024-05-25,CUST-1263,43,Male,Home & Kitchen,Air Fryer Deluxe,3,66.09,0.1,Credit Card,198.27,19.83,178.44,53.53
+TXN-11402,2024-05-25,CUST-1161,38,Female,Clothing,Leather Jacket,1,146.41,0.15,Digital Wallet,146.41,21.96,124.45,56.0
+TXN-11403,2024-05-26,CUST-1151,47,Male,Clothing,Leather Jacket,2,87.33,0.0,Cash on Delivery,174.66,0.0,174.66,78.6
+TXN-11404,2024-05-26,CUST-1085,45,Female,Electronics,Smartphone Pro,4,767.89,0.1,Credit Card,3071.56,307.16,2764.4,469.95
+TXN-11405,2024-05-26,CUST-1147,53,Female,Clothing,Classic Cotton T-Shirt,1,50.75,0.05,Cash on Delivery,50.75,2.54,48.21,21.69
+TXN-11406,2024-05-27,CUST-1112,43,Male,Sports & Outdoors,Cycling Helmet,1,133.79,0.0,Credit Card,133.79,0.0,133.79,46.83
+TXN-11407,2024-05-27,CUST-1381,51,Male,Beauty & Personal Care,Sunscreen SPF 50,2,45.33,0.05,Credit Card,90.66,4.53,86.13,47.37
+TXN-11408,2024-05-27,CUST-1036,25,Female,Electronics,Bluetooth Speaker,3,163.88,0.0,Credit Card,491.64,0.0,491.64,83.58
+TXN-11409,2024-05-28,CUST-1285,27,Female,Clothing,Classic Cotton T-Shirt,4,33.79,0.0,Digital Wallet,135.16,0.0,135.16,60.82
+TXN-11410,2024-05-28,CUST-1188,65,Male,Beauty & Personal Care,Electric Toothbrush,2,76.57,0.0,Digital Wallet,153.14,0.0,153.14,84.23
+TXN-11411,2024-05-28,CUST-1082,60,Female,Electronics,Wireless Earbuds,1,348.6,0.0,Credit Card,348.6,0.0,348.6,59.26
+TXN-11412,2024-05-29,CUST-1002,67,Female,Clothing,Summer Floral Dress,2,45.33,0.1,Debit Card,90.66,9.07,81.59,36.72
+TXN-11413,2024-05-29,CUST-1385,31,Other,Beauty & Personal Care,Electric Toothbrush,1,51.13,0.1,Debit Card,51.13,5.11,46.02,25.31
+TXN-11414,2024-05-30,CUST-1303,57,Male,Clothing,Classic Cotton T-Shirt,1,119.93,0.2,Cash on Delivery,119.93,23.99,95.94,43.17
+TXN-11415,2024-05-30,CUST-1197,32,Male,Electronics,Bluetooth Speaker,1,149.38,0.1,Credit Card,149.38,14.94,134.44,22.85
+TXN-11416,2024-05-30,CUST-1011,34,Female,Clothing,Hooded Sweatshirt,1,94.98,0.0,UPI / Direct Debit,94.98,0.0,94.98,42.74
+TXN-11417,2024-05-31,CUST-1234,35,Female,Beauty & Personal Care,Electric Toothbrush,2,21.62,0.15,Debit Card,43.24,6.49,36.75,20.21
+TXN-11418,2024-05-31,CUST-1386,49,Male,Clothing,Leather Jacket,1,24.73,0.15,Credit Card,24.73,3.71,21.02,9.46
+TXN-11419,2024-05-31,CUST-1195,55,Female,Electronics,Smartwatch Ultra,1,139.07,0.05,UPI / Direct Debit,139.07,6.95,132.12,22.46
+TXN-11420,2024-06-01,CUST-1119,40,Female,Clothing,Summer Floral Dress,1,128.43,0.05,Debit Card,128.43,6.42,122.01,54.9
+TXN-11421,2024-06-01,CUST-1396,63,Male,Clothing,Hooded Sweatshirt,3,35.33,0.25,Credit Card,105.99,26.5,79.49,35.77
+TXN-11422,2024-06-01,CUST-1020,40,Female,Clothing,Leather Jacket,2,25.86,0.05,Digital Wallet,51.72,2.59,49.13,22.11
+TXN-11423,2024-06-02,CUST-1261,52,Female,Home & Kitchen,Espresso Coffee Maker,1,194.4,0.2,Credit Card,194.4,38.88,155.52,46.66
+TXN-11424,2024-06-02,CUST-1293,56,Male,Electronics,Bluetooth Speaker,1,1025.27,0.0,Digital Wallet,1025.27,0.0,1025.27,174.3
+TXN-11425,2024-06-03,CUST-1256,32,Male,Beauty & Personal Care,Hydrating Face Serum,1,32.57,0.0,Credit Card,32.57,0.0,32.57,17.91
+TXN-11426,2024-06-03,CUST-1222,41,Female,Electronics,Smartwatch Ultra,4,552.32,0.05,Credit Card,2209.28,110.46,2098.82,356.8
+TXN-11427,2024-06-03,CUST-1393,45,Male,Clothing,Slim Fit Denim Jeans,2,25.18,0.05,Credit Card,50.36,2.52,47.84,21.53
+TXN-11428,2024-06-04,CUST-1226,33,Male,Electronics,Smartwatch Ultra,1,582.97,0.15,Debit Card,582.97,87.45,495.52,84.24
+TXN-11429,2024-06-04,CUST-1053,33,Female,Clothing,Hooded Sweatshirt,2,95.08,0.25,Debit Card,190.16,47.54,142.62,64.18
+TXN-11430,2024-06-04,CUST-1355,57,Female,Clothing,Summer Floral Dress,1,94.21,0.0,Credit Card,94.21,0.0,94.21,42.39
+TXN-11431,2024-06-05,CUST-1342,56,Female,Clothing,Classic Cotton T-Shirt,3,63.21,0.0,Credit Card,189.63,0.0,189.63,85.33
+TXN-11432,2024-06-05,CUST-1364,23,Female,Electronics,Smartwatch Ultra,1,433.4,0.15,UPI / Direct Debit,433.4,65.01,368.39,62.63
+TXN-11433,2024-06-05,CUST-1280,19,Male,Home & Kitchen,Robot Vacuum Cleaner,1,73.81,0.1,UPI / Direct Debit,73.81,7.38,66.43,19.93
+TXN-11434,2024-06-06,CUST-1081,30,Male,Electronics,Bluetooth Speaker,1,490.81,0.0,Debit Card,490.81,0.0,490.81,83.44
+TXN-11435,2024-06-06,CUST-1202,61,Male,Home & Kitchen,Blender 1000W,1,71.22,0.05,Credit Card,71.22,3.56,67.66,20.3
+TXN-11436,2024-06-07,CUST-1158,64,Male,Sports & Outdoors,Yoga Mat Non-Slip,4,197.48,0.1,UPI / Direct Debit,789.92,78.99,710.93,248.83
+TXN-11437,2024-06-07,CUST-1120,26,Female,Clothing,Classic Cotton T-Shirt,1,145.61,0.1,Debit Card,145.61,14.56,131.05,58.97
+TXN-11438,2024-06-07,CUST-1059,51,Female,Clothing,Leather Jacket,3,146.1,0.05,Digital Wallet,438.3,21.92,416.38,187.37
+TXN-11439,2024-06-08,CUST-1215,34,Female,Clothing,Slim Fit Denim Jeans,2,132.45,0.0,Debit Card,264.9,0.0,264.9,119.2
+TXN-11440,2024-06-08,CUST-1128,44,Male,Electronics,4K Monitor 27in,1,752.89,0.25,Credit Card,752.89,188.22,564.67,95.99
+TXN-11441,2024-06-08,CUST-1224,46,Male,Clothing,Summer Floral Dress,1,111.1,0.1,Credit Card,111.1,11.11,99.99,45.0
+TXN-11442,2024-06-09,CUST-1209,54,Female,Beauty & Personal Care,Perfume Eau de Parfum,1,34.32,0.05,UPI / Direct Debit,34.32,1.72,32.6,17.93
+TXN-11443,2024-06-09,CUST-1370,60,Male,Clothing,Leather Jacket,2,101.99,0.0,UPI / Direct Debit,203.98,0.0,203.98,91.79
+TXN-11444,2024-06-09,CUST-1115,39,Male,Electronics,Wireless Earbuds,1,590.33,0.1,Cash on Delivery,590.33,59.03,531.3,90.32
+TXN-11445,2024-06-10,CUST-1209,68,Female,Beauty & Personal Care,Organic Shampoo & Conditioner,1,49.37,0.0,Debit Card,49.37,0.0,49.37,27.15
+TXN-11446,2024-06-10,CUST-1014,41,Male,Clothing,Classic Cotton T-Shirt,1,118.5,0.0,UPI / Direct Debit,118.5,0.0,118.5,53.33
+TXN-11447,2024-06-11,CUST-1009,24,Male,Beauty & Personal Care,Electric Toothbrush,2,34.07,0.05,UPI / Direct Debit,68.14,3.41,64.73,35.6
+TXN-11448,2024-06-11,CUST-1040,51,Female,Clothing,Summer Floral Dress,1,61.34,0.0,UPI / Direct Debit,61.34,0.0,61.34,27.6
+TXN-11449,2024-06-11,CUST-1237,65,Male,Clothing,Leather Jacket,1,140.19,0.1,Credit Card,140.19,14.02,126.17,56.78
+TXN-11450,2024-06-12,CUST-1281,29,Female,Electronics,Smartphone Pro,1,142.97,0.0,Credit Card,142.97,0.0,142.97,24.3
+TXN-11451,2024-06-12,CUST-1359,40,Male,Electronics,4K Monitor 27in,1,623.91,0.1,UPI / Direct Debit,623.91,62.39,561.52,95.46
+TXN-11452,2024-06-12,CUST-1201,32,Male,Sports & Outdoors,Yoga Mat Non-Slip,3,230.38,0.0,Credit Card,691.14,0.0,691.14,241.9
+TXN-11453,2024-06-13,CUST-1246,50,Male,Electronics,Smartphone Pro,1,763.61,0.0,Credit Card,763.61,0.0,763.61,129.81
+TXN-11454,2024-06-13,CUST-1278,30,Female,Sports & Outdoors,Cycling Helmet,3,147.94,0.0,Credit Card,443.82,0.0,443.82,155.34
+TXN-11455,2024-06-13,CUST-1235,40,Female,Clothing,Classic Cotton T-Shirt,2,52.46,0.2,Credit Card,104.92,20.98,83.94,37.77
+TXN-11456,2024-06-14,CUST-1004,55,Other,Electronics,Wireless Earbuds,2,464.47,0.15,Credit Card,928.94,139.34,789.6,134.23
+TXN-11457,2024-06-14,CUST-1154,49,Female,Electronics,Wireless Earbuds,2,1034.29,0.0,Debit Card,2068.58,0.0,2068.58,351.66
+TXN-11458,2024-06-15,CUST-1029,62,Female,Electronics,Smartwatch Ultra,1,706.32,0.1,UPI / Direct Debit,706.32,70.63,635.69,108.07
+TXN-11459,2024-06-15,CUST-1109,67,Male,Sports & Outdoors,Cycling Helmet,1,140.82,0.1,UPI / Direct Debit,140.82,14.08,126.74,44.36
+TXN-11460,2024-06-15,CUST-1098,52,Male,Clothing,Hooded Sweatshirt,2,32.94,0.25,UPI / Direct Debit,65.88,16.47,49.41,22.23
+TXN-11461,2024-06-16,CUST-1215,18,Male,Clothing,Slim Fit Denim Jeans,1,22.07,0.0,Digital Wallet,22.07,0.0,22.07,9.93
+TXN-11462,2024-06-16,CUST-1293,64,Male,Clothing,Hooded Sweatshirt,2,145.27,0.1,Credit Card,290.54,29.05,261.49,117.67
+TXN-11463,2024-06-16,CUST-1075,62,Male,Electronics,Bluetooth Speaker,1,502.22,0.0,UPI / Direct Debit,502.22,0.0,502.22,85.38
+TXN-11464,2024-06-17,CUST-1326,22,Male,Clothing,Leather Jacket,3,98.41,0.0,Credit Card,295.23,0.0,295.23,132.85
+TXN-11465,2024-06-17,CUST-1146,30,Male,Electronics,Smartphone Pro,2,169.28,0.25,UPI / Direct Debit,338.56,84.64,253.92,43.17
+TXN-11466,2024-06-17,CUST-1128,22,Male,Beauty & Personal Care,Electric Toothbrush,1,64.76,0.05,Digital Wallet,64.76,3.24,61.52,33.84
+TXN-11467,2024-06-18,CUST-1341,49,Male,Clothing,Classic Cotton T-Shirt,1,141.22,0.0,Debit Card,141.22,0.0,141.22,63.55
+TXN-11468,2024-06-18,CUST-1042,68,Female,Clothing,Leather Jacket,2,94.83,0.0,Debit Card,189.66,0.0,189.66,85.35
+TXN-11469,2024-06-19,CUST-1356,38,Female,Clothing,Slim Fit Denim Jeans,2,36.38,0.1,UPI / Direct Debit,72.76,7.28,65.48,29.47
+TXN-11470,2024-06-19,CUST-1041,41,Male,Clothing,Slim Fit Denim Jeans,1,95.61,0.1,Debit Card,95.61,9.56,86.05,38.72
+TXN-11471,2024-06-19,CUST-1034,35,Male,Sports & Outdoors,Yoga Mat Non-Slip,3,197.43,0.0,Credit Card,592.29,0.0,592.29,207.3
+TXN-11472,2024-06-20,CUST-1017,38,Male,Clothing,Leather Jacket,1,72.82,0.2,UPI / Direct Debit,72.82,14.56,58.26,26.22
+TXN-11473,2024-06-20,CUST-1165,27,Female,Electronics,Wireless Earbuds,1,1065.42,0.0,UPI / Direct Debit,1065.42,0.0,1065.42,181.12
+TXN-11474,2024-06-20,CUST-1153,41,Male,Home & Kitchen,Robot Vacuum Cleaner,3,271.12,0.0,Credit Card,813.36,0.0,813.36,244.01
+TXN-11475,2024-06-21,CUST-1378,57,Female,Electronics,Wireless Earbuds,3,1087.16,0.2,Credit Card,3261.48,652.3,2609.18,443.56
+TXN-11476,2024-06-21,CUST-1076,64,Male,Electronics,Bluetooth Speaker,2,778.33,0.0,Cash on Delivery,1556.66,0.0,1556.66,264.63
+TXN-11477,2024-06-21,CUST-1087,38,Male,Sports & Outdoors,Running Hydration Backpack,3,54.54,0.0,Credit Card,163.62,0.0,163.62,57.27
+TXN-11478,2024-06-22,CUST-1117,42,Male,Home & Kitchen,Robot Vacuum Cleaner,1,147.73,0.05,Credit Card,147.73,7.39,140.34,42.1
+TXN-11479,2024-06-22,CUST-1362,69,Male,Sports & Outdoors,Cycling Helmet,3,70.4,0.15,UPI / Direct Debit,211.2,31.68,179.52,62.83
+TXN-11480,2024-06-23,CUST-1342,40,Female,Clothing,Classic Cotton T-Shirt,1,138.14,0.0,Credit Card,138.14,0.0,138.14,62.16
+TXN-11481,2024-06-23,CUST-1027,39,Female,Clothing,Hooded Sweatshirt,1,118.84,0.2,Debit Card,118.84,23.77,95.07,42.78
+TXN-11482,2024-06-23,CUST-1313,21,Female,Electronics,4K Monitor 27in,1,837.57,0.15,UPI / Direct Debit,837.57,125.64,711.93,121.03
+TXN-11483,2024-06-24,CUST-1287,51,Female,Electronics,Smartphone Pro,1,417.08,0.0,Debit Card,417.08,0.0,417.08,70.9
+TXN-11484,2024-06-24,CUST-1134,23,Female,Beauty & Personal Care,Electric Toothbrush,1,26.58,0.1,Credit Card,26.58,2.66,23.92,13.16
+TXN-11485,2024-06-24,CUST-1219,45,Female,Clothing,Slim Fit Denim Jeans,1,118.33,0.0,Debit Card,118.33,0.0,118.33,53.25
+TXN-11486,2024-06-25,CUST-1168,48,Male,Beauty & Personal Care,Electric Toothbrush,1,48.77,0.05,Cash on Delivery,48.77,2.44,46.33,25.48
+TXN-11487,2024-06-25,CUST-1098,52,Male,Home & Kitchen,Robot Vacuum Cleaner,1,117.19,0.15,Credit Card,117.19,17.58,99.61,29.88
+TXN-11488,2024-06-25,CUST-1268,56,Male,Electronics,4K Monitor 27in,2,770.62,0.25,Credit Card,1541.24,385.31,1155.93,196.51
+TXN-11489,2024-06-26,CUST-1237,59,Female,Clothing,Classic Cotton T-Shirt,1,25.23,0.0,Cash on Delivery,25.23,0.0,25.23,11.35
+TXN-11490,2024-06-26,CUST-1309,40,Male,Home & Kitchen,Air Fryer Deluxe,1,153.73,0.05,Credit Card,153.73,7.69,146.04,43.81
+TXN-11491,2024-06-27,CUST-1394,23,Female,Electronics,4K Monitor 27in,2,604.78,0.05,UPI / Direct Debit,1209.56,60.48,1149.08,195.34
+TXN-11492,2024-06-27,CUST-1173,33,Male,Beauty & Personal Care,Hydrating Face Serum,3,23.82,0.0,Credit Card,71.46,0.0,71.46,39.3
+TXN-11493,2024-06-27,CUST-1190,19,Female,Clothing,Classic Cotton T-Shirt,2,148.0,0.0,Credit Card,296.0,0.0,296.0,133.2
+TXN-11494,2024-06-28,CUST-1122,41,Male,Electronics,4K Monitor 27in,1,314.19,0.0,Credit Card,314.19,0.0,314.19,53.41
+TXN-11495,2024-06-28,CUST-1046,34,Male,Clothing,Hooded Sweatshirt,2,36.94,0.1,UPI / Direct Debit,73.88,7.39,66.49,29.92
+TXN-11496,2024-06-28,CUST-1064,62,Female,Sports & Outdoors,Running Hydration Backpack,1,70.8,0.05,Debit Card,70.8,3.54,67.26,23.54
+TXN-11497,2024-06-29,CUST-1130,18,Male,Electronics,Wireless Earbuds,1,941.35,0.0,Credit Card,941.35,0.0,941.35,160.03
+TXN-11498,2024-06-29,CUST-1310,23,Female,Beauty & Personal Care,Hydrating Face Serum,1,45.05,0.15,Cash on Delivery,45.05,6.76,38.29,21.06
+TXN-11499,2024-06-30,CUST-1363,22,Male,Electronics,4K Monitor 27in,3,713.27,0.15,UPI / Direct Debit,2139.81,320.97,1818.84,309.2
