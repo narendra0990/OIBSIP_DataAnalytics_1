@@ -2,7 +2,7 @@
 
 **Organization:** Oasis Infobyte (OIBSIP)  
 **Track:** Data Analytics (Level 1 • Task 1)  
-**Author:** Narendra
+**Author:** Narendra Adane
 
 ---
 
